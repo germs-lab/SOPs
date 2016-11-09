@@ -69,21 +69,26 @@ This procedure includes two parts:
 Mix well. Put a check mark in the “ethanol added” box on the bottle cap label.
 + Use a new sterile disposable medium tray for each solution. If everything was sure kept sterile, pour ecess 
 extraction solution back into the bottles.     
-+ Centrifugation roter: S5700. Also make sure the pads sit flat in the roter bucket before centrifugation.    
++ Centrifugation rotor: S5700. Also make sure the pads sit flat in the rotor bucket before centrifugation.    
++ will use 7 columns of Clip-tip + 3 boxes Clip-tip
 
+
+##### Detailed Steps (tip counts are for one 96 well plate):    
 1. Lift the square well mat from pre-filled PowerSoil-htp 96 well plate. Save the mat and lay it upside down on a clean kim-wipe.
     + you can put a kim-wipe on top of the mat to keep dusts or other things to fall on it.     
 2. Add 750 µl of PowerSoil
 -htp Bead Solution to the wells of the PowerSoil
 -htp Bead Plate.   
     + use E1 Clip-tip 1250µl, program `Htp-750`     
+    + hover tips over the wells, do not touch. use 8 tips.        
 2. Check Solution C1. If Solution C1 has precipitated, heat solution at 60ºC until the precipitate has
 dissolved.
     + solution C1 contains SDS. If it g(RCF)ets cold, it will precipitate. Heating at 60ºC will dissolve the
 SDS. Solution C1 can be used while it is still warm.     
 3. Add 60 µl of Solution C1. Secure the Square Well Mat tightly to the plate.     
-    + use E1 Clip-tip 1250µl, program `Htp-repeat60µl`
+    + use E1 Clip-tip 1250µl, program `Htp-repeat60µl`    
     + this program will dispense 12X 60µl repeatly with a pre-dispense before the first 60µl.      
+    + hover tips over the wells, do not touch. use 8 tips.   
 6. Place Bead Plate with mat securely fastened between 2 adapter plates (MO BIO Catalog# 11990)
 and place on the 96 Well Plate Shaker (MO BIO Catalog# 11996). Reference the protocol provided
 with the adapter plates for proper placement.       
@@ -93,30 +98,38 @@ machine body is now furthest from the machine body and shake again at speed 20 f
 8. Centrifuge at room temperature for 6 minutes at 4500 x g(RCF)(RCF).    
 9. Remove and discard the Square Well Mat. Transfer the supernatant (~700µl) to a clean 1 ml Collection Plate.
     + use 8 channel 300µl multichannel pipetteman. Transfer 200µl at a time. Use wellevator for the last transfer.     
-    + The supernatant may still contain some soil particles.    
+    + The supernatant may still contain some soil particles. 
+    + change pipette tips for each well. use 96 tips.        
 10. Add 250 µl of Solution C2 and apply **Sealing Tape** to plate. Vortex for 5 seconds and incubate at 4ºC
 for 10 minutes. Centrifuge the plate at room temperature for 6 minutes at 4500 x g(RCF)(RCF). Remove and
 discard **Sealing Tape**.     
     + use E1 Clip-tip 1250µl, program `Htp-repeat250µl`     
     + this program will repeatly pipette 4X 250µl with a pre-dispense step.     
+    + hover over the wells, do not touch. use 8 tips.   
 11. Avoiding the pellet, transfer entire volume (~800µl) of supernatant to a new 1 ml Collection Plate.    
     + use 8 channel 300µl multichannel pipetteman. Transfer 200µl at a time. Use wellevator for the last transfer.     
+    + change tips for each well. use 96 tips.     
 12. Apply **Sealing Tape** to plate. Centrifuge the plate again at room temperature for 6 minutes at
 4500 x g(RCF)(RCF). Transfer entire volume (~750µl) of supernatant to another new 1 ml Collection Plate.    
     + use 8 channel 300µl multichannel pipetteman. Transfer 200µl at a time. Use wellevator for the last transfer.     
+    + change tips for each well. use 96 tips.     
 13. Add 200 µl of Solution C3 and apply **Sealing Tape** to plate. Vortex for 5 seconds and incubate at 4ºC
 for 10 minutes. Centrifuge at room temperature for 6 minutes at 4500 x g(RCF). Remove and discard
 **Sealing Tape**.    
     + use E1 Clip-tip 1250µl, program `Htp-repeat200µl`     
     + this program will repeatly pipette 6X 200µl with a pre-dispense step.      
+    + hover over the wells, do not touch. use 8 tips.    
 14. Avoiding the pellet, transfer entire volume (~750µl) of supernatant to a new 1 ml Collection Plate.     
     + use 8 channel 300µl multichannel pipetteman. Transfer 200µl at a time. Use wellevator for the last transfer.     
+    + change tips for each well. use 96 tips.      
 15. Apply **Sealing Tape** to plate. Centrifuge the plate again at room temperature for 6 minutes at
 4500 x g(RCF).     
 16. Transfer no more than 650 µl of supernatant to a 2 ml Collection Plate avoiding any residual pellet.    
-    + use E1 Clip-tip 1250µl, program `Htp-650µl`     
+    + use 8 channel 300µl multichannel pipetteman. Transfer 200µl at a time. Use wellevator for the last transfer.     
+    + change tips for each well. use 96 tips.           
 17. Add 650 µl of Solution C4 to each well of the plate.    
     + use E1 Clip-tip 1250µl, program `Htp-650µl`     
+    + hover over the wells, do not touch. use 8 tips. The same tips can be use for next step too. 
 18. Add a second 650 µl of Solution C4 to each well of the plate.
     + use E1 Clip-tip 1250µl, program `Htp-650µl`     
     + It is safe to stop the protocol at this step and store the samples covered with
@@ -126,14 +139,18 @@ for 10 minutes. Centrifuge at room temperature for 6 minutes at 4500 x g(RCF). R
     + use E1 Clip-tip 1250µl, program `Htp-mix650µl`     
     + this program will mix 650µl of solution by pipetting up and down 3 times. Then uptake 650µl.    
     + do not dip the pipette tip all the way in. The wells will overflow.    
+    + change tips for each well. use a total of 3X 96 tips.    
 21. Centrifuge at room temperature for 3 minutes at 4500 x g(RCF). Discard the flow through and place the
-Spin Plate back on the **same** 0.5 ml Collection Plate. Discard the **Centrifuge Tape**.     
+Spin Plate back on the **same** 0.5 ml Collection Plate. Discard the **Centrifuge Tape**.    
+    + dump flow through directly down the sink or in a tray temporarily.     
+    + I usually tap the collection plate on kim-wipes/paper towels to get rid of axcess liquid before putting the Spin Plate back on.     
 22. Repeat steps 20-21 until all the supernatant has been processed. Discard the final flow through.    
 24. Place the Spin Plate back on the **same** 0.5 ml Collection Plate.   
 25. Confirm that ethanol has been added to Solution C5-D (see note). Add 500 µl of Solution C5-D
 to each well of the Spin Plate. Apply **Centrifuge Tape** to the Spin Plate.      
     + use E1 Clip-tip 1250µl, program `Htp-repeat500µl`    
     + this program will repeatly pipette 2X 500µl with a pre-dispension step.         
+    + hover over, do not touch. use 8 tips.    
 26. Centrifuge at room temperature for 3 minutes at 4500 x g(RCF). Discard the flow through and place the
 **same** 0.5 ml Collection Plate beneath the Spin Plate.     
 27. Centrifuge again at room temperature for 5 minutes at 4500 x g(RCF). Discard the flow through.    
@@ -142,9 +159,9 @@ to each well of the Spin Plate. Apply **Centrifuge Tape** to the Spin Plate.
 30. Add 100 µl of Solution C6 to the center of each well of the Spin Plate. Apply **Centrifuge Tape**.     
     + use E1 Clip-tip 1250µl, program `Htp-repeat100µl`    
     + this program will repeatly pipette 12X 100µl with a pre-dispension step.    
-    + aim the tips straight above the wells.     
+    + aim the tips straight above the wells. Use 8 tips.      
 31. Centrifuge at room temperature for 3 minutes at 4500 x g(RCF). Remove **Centrifuge Tape** and discard.    
-32. Cover wells of Microplate with the **Elution Sealing Mat** provided. DNA is now ready for any      
+32. Cover the wells of Microplate with the **Elution Sealing Mat** provided. DNA is now ready for any      
 downstream application. No further steps are required.
     + store DNA at -80ºC.     
     + solution C6 does not contain EDTA.     
