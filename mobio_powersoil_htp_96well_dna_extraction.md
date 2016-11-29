@@ -25,7 +25,7 @@ extraction solution back into the bottles.
 </p>   
 + Also make sure the plate adapters sit flat in the rotor bucket before centrifugation.     
 <p align="center">
-  <img src="/images/plate_adapter.JPG" alt="plate adapters" width="400" />    
+  <img src="/images/plate_adapter.JPG" alt="plate adapters" width="600" />    
 </p>   
 + Minimal tips need per 96 extraction:    
     + 3 boxes and 7 columns of Clip-tip 1250µl.     
@@ -59,7 +59,7 @@ SDS. Solution C1 can be used while it is still warm.
 <p align="center">
   <img src="/images/96well_plate_shaker_adapter.JPG" alt="adapter plates" width="400" /> 
 </p>
-and place on the 96 well Plate Shaker (MO BIO Catalog# 11996).
+and place them in the 96 well Plate Shaker (MO BIO Catalog# 11996).
 <p align="center">
   <img src="/images/96well_plate_shaker.JPG" alt="96 Well Plate Shaker" width="400" /> 
 </p>
