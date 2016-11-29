@@ -20,7 +20,8 @@ Mix well. Put a check mark in the “ethanol added” box on the bottle cap labe
 + Use a new sterile disposable medium tray for each solution. If everything was sure kept sterile, pour ecess 
 extraction solution back into the bottles.     
 + Centrifugation rotor: S5700.    
-    <img src="https://github.com/germs-lab/SOPs/blob/master/images/rotor_s5700.JPG" alt="S5700" style="width: 2px;"/>     
+    <img src="./images/rotor_s5700.JPG" alt="S5700" width="20" />     
+    <img src="https://github.com/germs-lab/SOPs/blob/master/images/rotor_s5700.JPG" alt="S5700" width="20" />     
     ![S5700](/images/rotor_s5700.JPG)     
 + Also make sure the plate adapters sit flat in the rotor bucket before centrifugation.     
     ![plate adapters](/images/plate_adapter.JPG)     
