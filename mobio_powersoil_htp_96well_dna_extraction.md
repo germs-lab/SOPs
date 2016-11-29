@@ -20,7 +20,9 @@ Mix well. Put a check mark in the “ethanol added” box on the bottle cap labe
 + Use a new sterile disposable medium tray for each solution. If everything was sure kept sterile, pour ecess 
 extraction solution back into the bottles.     
 + Centrifugation rotor: S5700.    
-    <img align="center" src="/images/rotor_s5700.JPG" alt="S5700" width="200" />     
+<p align="center">
+  <img src="/images/rotor_s5700.JPG" alt="S5700" width="400" />     
+</p>   
 + Also make sure the plate adapters sit flat in the rotor bucket before centrifugation.     
     ![plate adapters](/images/plate_adapter.JPG)     
 + Minimal tips need per 96 extraction:    
