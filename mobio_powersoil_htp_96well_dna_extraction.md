@@ -167,4 +167,4 @@ downstream application.
     - [ ] Discard used paper towels, kim-wipes, plates, etc.   
     - [ ] Wipe down the bench top using 70% ethanol.   
     - [ ] Open the centrifuge lid and turn it off.   
-    - [ ] Refill the pipette tips for next person to use.    
+    - [ ] Refill and autoclave the pipette tips for next person to use.    
