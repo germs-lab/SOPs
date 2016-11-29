@@ -1,4 +1,4 @@
-# DNA extraction using MoBop PowerSoil htp 96 well DNA Extraction Kit      
+# DNA extraction using MoBio PowerSoil htp 96 well DNA Extraction Kit      
 Author: Fan Yang    
 
 
@@ -24,12 +24,18 @@ extraction solution back into the bottles.
   <img src="/images/rotor_s5700.JPG" alt="S5700" width="400" />     
 </p>   
 + Also make sure the plate adapters sit flat in the rotor bucket before centrifugation.     
-    ![plate adapters](/images/plate_adapter.JPG)     
+<p align="center">
+  <img src="/images/plate_adapter.JPG" alt="plate adapters" width="400" />    
+</p>   
 + Minimal tips need per 96 extraction:    
     + 3 boxes and 7 columns of Clip-tip 1250µl.     
-         ![Clip-tip 1250µl](/images/cliptip.JPG)    
+<p align="center">
+  <img src="/images/cliptip.JPG" alt="Clip-tip 1250µl" width="400" />    
+</p>   
     + 5 boxes of 200µl VWR tips.    
-         ![200µl vwr tips](/images/cliptip.JPG)     
+<p align="center">
+  <img src="/images/vwr_tip_200microl.JPG" alt="200µl vwr tips" width="400" />    
+</p>   
 
 
 ##### Detailed Steps (tip counts are for one 96 well plate):    
@@ -49,9 +55,15 @@ SDS. Solution C1 can be used while it is still warm.
     + use E1 Clip-tip 1250µl, program `Htp-repeat60µl`    
     + this program will dispense 12X 60µl repeatly with a pre-dispense before the first 60µl.      
     + hover tips over the wells, do not touch. use 8 tips.   
-- [ ] 6. Place Bead Plate with mat securely fastened between 2 ![adapter plates](/images/96well_plate_shaker_adapter.JPG) (MO BIO Catalog# 11990)
-and place on the ![96 Well Plate Shaker](/images/96well_plate_shaker.JPG) (MO BIO Catalog# 11996). Reference the protocol provided
-with the adapter plates for proper placement.       
+- [ ] 6. Place Bead Plate with mat securely fastened between 2 metal shaker adapter plates (MO BIO Catalog# 11990)
+<p align="center">
+  <img src="/images/96well_plate_shaker_adapter.JPG" alt="adapter plates" width="400" /> 
+</p>
+and place on the 96 well Plate Shaker (MO BIO Catalog# 11996).
+<p align="center">
+  <img src="/images/96well_plate_shaker.JPG" alt="96 Well Plate Shaker" width="400" /> 
+</p>
+Reference the protocol provided with the adapter plates for proper placement.       
 - [ ] 7. Shake at speed 20 for 10 minutes    
     + use program 2 on the Plate Shaker      
 - [ ] 8. Re-orient plates so that the side closest to the
@@ -64,13 +76,17 @@ machine body is now furthest from the machine body and shake again at speed 20 f
 - [ ] 11. When step 9 is done, remove and discard the Square Well Mat.    
 - [ ] 12. Transfer the supernatant (~700µl) to the C2 filled 1 ml Collection Plate from step 10.    
     + use 8 channel 300µl multichannel pipetteman. 
-    + Transfer 175µl at a time, total 4 times. Use the tip ledges as guide. The fourth transfer can be done like ![this](/images/pipettetip_position_200microl_2.JPG).        
+    + Transfer 175µl at a time, total 4 times. Use the tip ledges as guide. The fourth transfer can be done like shown below
+<p align="center">
+  <img src="/images/pipettetip_position_200microl_2.JPG" alt="positioning" width="400" /> 
+</p>
     + Pipette up and down to mix during the 4th transfer.     
     + The supernatant may still contain some soil particles.  
     + change pipette tips between columns. use 96 tips.        
 - [ ] 13. Apply **Sealing Tape**.    
 - [ ] 14. Incubate at 4ºC for 10 minutes.    
-- [ ] 15. Centrifuge the plate at room temperature for 6 minutes at 4500 x g(RCF).   - [ ] 16. Remove and discard **Sealing Tape**.     
+- [ ] 15. Centrifuge the plate at room temperature for 6 minutes at 4500 x g(RCF).  
+- [ ] 16. Remove and discard **Sealing Tape**.     
 - [ ] 17. Avoiding the pellet, transfer ~800µl of supernatant to a new 1 ml Collection Plate.    
     + use 8 channel 300µl multichannel pipetteman.   
     + Transfer 200µl at a time, total 4 times.     
