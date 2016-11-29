@@ -19,8 +19,10 @@ Obtain total DNA from subsampled samples for downstream molecular analyses, incl
 Mix well. Put a check mark in the “ethanol added” box on the bottle cap label.
 + Use a new sterile disposable medium tray for each solution. If everything was sure kept sterile, pour ecess 
 extraction solution back into the bottles.     
-+ Centrifugation rotor: S5700. Also make sure the ![pads](/images/plate_adapter.JPG) sit flat in the rotor bucket before centrifugation.   
-    ![S5700](/images/rotor_s5700.JPG)     
++ Centrifugation rotor: S5700.    
+    ![S5700](/images/rotor_s5700.JPG =20x)     
++ Also make sure the plate adapters sit flat in the rotor bucket before centrifugation.     
+    ![plate adapters](/images/plate_adapter.JPG)     
 + Minimal tips need per 96 extraction:    
     + 3 boxes and 7 columns of Clip-tip 1250µl.     
          ![Clip-tip 1250µl](/images/cliptip.JPG)    
