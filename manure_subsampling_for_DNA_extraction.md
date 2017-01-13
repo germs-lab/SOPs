@@ -29,12 +29,11 @@ Distribute small amount of samples for total DNA extraction.
     3. Take a PowerBead tube (screw-capped 2ml tubes with purple beads).   
     4. Take a thawed sample, write-down the sample label and give it an extraction index in your notebook.    
         + for example:   
- 
-| Sample    | Extraction index   |         
-| :--------- | ------------------: |         
-| LF-2016-09-12 | 1 |         
-| LF-2016-09-20 | 2 |         
-
+            | Sample    | Extraction index   |         
+            | :--------- | ------------------: |         
+            | LF-2016-09-12 | 1 |         
+            | LF-2016-09-20 | 2 |         
+            
     5. Label the tube cap with your initials and extraction index (eg. `FY1`).   
     6. With the wide-bore tips you prepared, pipette 250µl manure materials into the label PowerBead tube.   
         + be gentle and careful when pipetting. Even with wide-bore tips, the solids in manure may clog your tips and cause the manure being sucked up into the pipetteman itself.    
