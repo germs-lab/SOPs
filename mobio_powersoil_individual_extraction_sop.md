@@ -1,11 +1,21 @@
 # PowerSoil DNA Isolation (individual extraction) Protocol     
-## (Modified from standard PowerSoil DNA Isolation Experienced User Protocol)    
-## Author: Fan Yang     
+(Modified from standard PowerSoil DNA Isolation Experienced User Protocol)    
+Author: Fan Yang     
+
+## Objectives
+Obtain total genomic DNA from environmental samples that are rich in inhibitors for sequencing (eg., soil and manure).   
+
+## Materials    
+1. Single-channel pipettemen
+2. Autoclaved pipette tips and barrier pipette tips
+
+## Procedures
 
 **NOTE:**
 + Please wear gloves at all times.    
 + This SOP is for **a single sample extraction**. Adjust accordingly.    
 
+### Detailed steps:  
 - [ ] 1. Wipe your bench tip clean using 70% ethanol (EtOH).   
 - [ ] 2. Direct subsample into the **PowerBead Tubes** provided (purple beat screw-capped 2ml tubes).    
     + See subsampling SOP for more details.    
@@ -60,7 +70,7 @@ tube holder for the vortex. Vortex at maximum speed for 10 minutes.
 - [ ] 34. Carefully place the filter portion in a clean **2ml Collection Tube** (in the kit). 
     + Avoid splashing any **Solution C5** onto the filter.   
 - [ ] 35. Add 37 μl of **Solution C6** to the center of the white filter membrane. 
-    + Use filtered tips.   
+    + Use barrier tips.   
 - [ ] 36. Let it sit for 1 minute.   
 - [ ] 37. Centrifuge at room temperature at 11,000 x g (RCF) for 1 minute.  
 - [ ] 38. Repeat **Step 35** to **Step 37** on the same filter and tube combination once.   
