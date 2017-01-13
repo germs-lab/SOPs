@@ -32,14 +32,14 @@ tube holder for the vortex. Vortex at maximum speed for 10 minutes.
     + secure tubes horizontally on a flat-bed vortex pad with tape. Vortex at maximum speed for 10 minutes.   
     + **If you are using the 24 place Vortex Adapter for more than 12 preps, increase the vortex time by 5-10 minutes.**    
 - [ ] 8. While waiting for **Step 7** to complete, take out 2 clean **2ml Collection Tube** (in the kit).    
-    - [ ] 8.1. Label one tube with your initial, the extraction dummy number, and "C2" on the tube lid (eg. `FY1C2`).   
+    - [ ] 8.1. Label one tube with your initial, the extraction dummy number, and `C2` on the tube lid (eg. `FY1C2`).   
     - [ ] 8.2. Pipette 250 µl of **Solution C2** into the labeled tube (tube `FY1C2`).   
-    - [ ] 8.3. Label the other tube with you initial, the extraction dummy number, and C3 on the tube lid (eg. `FY1C3`).   
+    - [ ] 8.3. Label the other tube with you initial, the extraction dummy number, and `C3` on the tube lid (eg. `FY1C3`).   
     - [ ] 8.4. Pipette 200 µl of **Solution C3** into the labeled tube (tube `FY1C3`).  
 - [ ] 9. Once **Step 7** is done, centrifuge tubes at 10,000 x g (RCF) for 1 minute at room temperature.   
     + Make sure the **PowerBead Tubes** rotate freely in your centrifuge without rubbing.    
     + Be sure not to exceed 10,000 x g (RCF) or tubes may break.    
-- [ ] 10. Avoid the pellet, transfer the supernatant (up to 500 µl) to the tube from *Step 8.2** (eg., tube `FY1C2`).  
+- [ ] 10. Avoid the pellet, transfer the supernatant (up to 500 µl) to the tube from **Step 8.2** (eg., tube `FY1C2`).  
 - [ ] 11. Vortex for 5 seconds.   
 - [ ] 12. Incubate at 4ºC (put it in a tube holder in the fridge) for 5 minutes.  
 - [ ] 13. While waiting for **Step 12** to complete, take out 1 clean **2ml Collection Tube**.   
@@ -58,7 +58,7 @@ tube holder for the vortex. Vortex at maximum speed for 10 minutes.
 - [ ] 22. Lay down 2 pieces of paper towel (brown) on the bench top. Lay 2 pieces of KimWipe on top of the paper towel.    
 - [ ] 23. Load 675 μl onto the labeled **Spin Filter** from **Step 18.1** (eg., spin filter `FY1`).   
 - [ ] 24. Centrifuge at 11,000 x g (RCF) for 1 minute at room temperature.    
-- [ ] 25. Once **Step 24** is done, take out the filter part of the **Spin Filter** (hold it in your hand). Dump out the liquid in the tube portion of the **Spin Filter** into a "temporary liquid waste" jar.   
+- [ ] 25. Once **Step 24** is done, take out the filter part of the **Spin Filter** (hold it in your hand). Dump out the liquid in the tube portion of the **Spin Filter** into a **temporary liquid waste** jar.   
 - [ ] 26. While holding the filter in one hand and now the empty tube in the other, tap the tub on the KimWipe you layed down in **Step 22** to get rid of access liquid.    
 - [ ] 27. Put the filter back into the same tub.   
 - [ ] 28. Repeat **Step 23** to **Step 27** until the tube from **Step 20** (eg., tube `FY1C4`) is empty (3 times). 
