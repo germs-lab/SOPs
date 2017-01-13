@@ -16,7 +16,7 @@ Obtain total genomic DNA from environmental samples that are rich in inhibitors 
 + This SOP is for **a single sample extraction**. Adjust accordingly.    
 
 ### Detailed steps:  
-- [ ] 1. Wipe your bench tip clean using 70% ethanol (EtOH).   
+- [ ] 1. Wipe your bench top clean using 70% ethanol (EtOH).   
 - [ ] 2. Direct subsample into the **PowerBead Tubes** provided (purple beat screw-capped 2ml tubes).    
     + See subsampling SOP for more details.    
 - [ ] 3. Thaw **PowerBead Tubes** with samples if frozen. Invert several times to mix.    
