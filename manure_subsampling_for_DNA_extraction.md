@@ -39,7 +39,7 @@ Distribute small amount of samples for total DNA extraction.
     6. With the wide-bore tips you prepared, pipette 250µl manure materials into the label PowerBead tube.   
         + be gentle and careful when pipetting. Even with wide-bore tips, the solids in manure may clog your tips and cause the manure being sucked up into the pipetteman itself.    
         + if the samples got into the pipetteman, take the pipetteman apart to clean before proceding. If not, you will be cross contaminating all of your samples.    
-    7. Repeat step 3 to 6 until done.   
+    7. Repeat step iii to vi until done.   
     8. Follow PowerSoil Indidividual DNA Isolation SOP for DNA extraction.   
         + You can extract the sample right away **or**
         + Put the samples in the fridge if you are going to extract the samples in the same day but not right aways **else**
@@ -62,7 +62,7 @@ Distribute small amount of samples for total DNA extraction.
     8. With the wide-bore tips you prepared, pipette 250µl manure materials into well A1.   
         + be gentle and careful when pipetting. Even with wide-bore tips, the solids in manure may clog your tips and cause the manure being sucked up into the pipetteman itself.    
         + if the samples got into the pipetteman, take the pipetteman apart to clean before proceding. If not, you will be cross contaminating all of your samples.    
-    9. Repeat step 7 and 8 until the entire 96 well bead plate is filled. Store the filled plate at -80ºC until extraction.    
+    9. Repeat step vii and viii until the entire 96 well bead plate is filled. Store the filled plate at -80ºC until extraction.    
         + because the centrifuge, it works the best if two plates were extracted at the same time.     
     10. If you need multiple days to fill one plate, put the silicon lid back on (and seal it tight) in the exact orientation.    
         + you don't want to introduce cross contaminations.    
