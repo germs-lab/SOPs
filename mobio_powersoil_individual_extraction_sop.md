@@ -37,7 +37,8 @@ tube holder for the vortex. Vortex at maximum speed for 10 minutes.
     - [ ] 8.3. Label the other tube with you initial, the extraction dummy number, and `C3` on the tube lid (eg. `FY1C3`).   
     - [ ] 8.4. Pipette 200 µl of **Solution C3** into the labeled tube (tube `FY1C3`).  
 - [ ] 9. Once **Step 7** is done, centrifuge tubes at 10,000 x g (RCF) for 1 minute at room temperature.   
-    + Make sure the **PowerBead Tubes** rotate freely in your centrifuge without rubbing.    
+    + Make sure the **PowerBead Tubes** rotate freely in your centrifuge without rubbing.   
+    + Balance your tube.    
     + Be sure not to exceed 10,000 x g (RCF) or tubes may break.    
 - [ ] 10. Avoid the pellet, transfer the supernatant (up to 500 µl) to the tube from **Step 8.2** (eg., tube `FY1C2`).  
 - [ ] 11. Vortex for 5 seconds.   
@@ -46,33 +47,39 @@ tube holder for the vortex. Vortex at maximum speed for 10 minutes.
     - [ ] 13.1 Label the tube with extraction dummy number and C4 on the tube lid (eg. `FY1C4`).   
     - [ ] 13.2 Pipette 2X 600 µl (total 1200 µl) of *Solution C4** into the labeled tube (tube `FY1C4`).   
 - [ ] 14. Once **Step 12** is done, centrifuge the tubes at room temperature for 1 minute at 13,000 x g (RCF).    
+    + Balance your tube.    
 - [ ] 15. Avoid the pellet, transfer the supernatant (up to 600 µl) to the tube from **Step 13.2** (eg., tube `FY1C3`).   
 - [ ] 16. Vortex for 5 seconds.    
 - [ ] 17. Incubate at 4ºC (put it in a tube holder in the fridge) for 5 minutes.   
 - [ ] 18. While waiting for **Step 17** to complete, take out 1 **Spin Filter** (in the kit).   
     - [ ] 18.1 Label the **Spin Filter** with extraction dummy number (eg. `FY1`).   
 - [ ] 19. Once **Step 17** is done, centrifuge the tubes at room temperature for 1 minute at 13,000 x g (RCF).    
+    + Balance your tube.    
 - [ ] 20. Avoiding the pellet, transfer the supernatant (up to 750 μl) into the tube from **Step 13.2** (eg., tube `FY1C4`).    
     + The tube is going to be really full. Be careful!   
 - [ ] 21. Invert the tube several times to mix.    
 - [ ] 22. Lay down 2 pieces of paper towel (brown) on the bench top. Lay 2 pieces of KimWipe on top of the paper towel.    
 - [ ] 23. Load 675 μl onto the labeled **Spin Filter** from **Step 18.1** (eg., spin filter `FY1`).   
 - [ ] 24. Centrifuge at 11,000 x g (RCF) for 1 minute at room temperature.    
+    + Balance your tube.    
 - [ ] 25. Once **Step 24** is done, take out the filter part of the **Spin Filter** (hold it in your hand). Dump out the liquid in the tube portion of the **Spin Filter** into a **temporary liquid waste** jar.   
 - [ ] 26. While holding the filter in one hand and now the empty tube in the other, tap the tub on the KimWipe you layed down in **Step 22** to get rid of access liquid.    
 - [ ] 27. Put the filter back into the same tub.   
 - [ ] 28. Repeat **Step 23** to **Step 27** until the tube from **Step 20** (eg., tube `FY1C4`) is empty (3 times). 
 - [ ] 29. After the last round of empty, pipette 500 µl of **Solution C5** into the same **Sping Filter** (eg., spin filter `FY1`).    
-- [ ] 30. Centrifuge at room temperature for 1 minute at 11,000 x g (RCF).    
+- [ ] 30. Centrifuge at room temperature for 1 minute at 11,000 x g (RCF).   
+    + Balance your tube.     
 - [ ] 31. Discard the flow through.    
 - [ ] 32. Centrifuge the same emptied **Spin Filter** (eg., spin filter `FY1`) at room temperature for 2 minute at 11,000 x g (RCR).    
+    + Balance your tube.   
 - [ ] 33. Take a clean **2ml Collection Tube**. Label it (eg., `FY1`).    
 - [ ] 34. Carefully place the filter portion in a clean **2ml Collection Tube** (in the kit). 
     + Avoid splashing any **Solution C5** onto the filter.   
 - [ ] 35. Add 37 μl of **Solution C6** to the center of the white filter membrane. 
     + Use barrier tips.   
 - [ ] 36. Let it sit for 1 minute.   
-- [ ] 37. Centrifuge at room temperature at 11,000 x g (RCF) for 1 minute.  
+- [ ] 37. Centrifuge at room temperature at 11,000 x g (RCF) for 1 minute.     
+    + Balance your tube.   
 - [ ] 38. Repeat **Step 35** to **Step 37** on the same filter and tube combination once.   
 - [ ] 39. Discard the filter. Cap the tube. Store the tube in -80ºC freezer.    
 - [ ] 40. Put the used **PowerBead Tube** in one of the bag in the **hazardous waste bin** the chemical hood.   
