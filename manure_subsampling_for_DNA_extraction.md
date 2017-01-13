@@ -28,7 +28,8 @@ Distribute small amount of samples for total DNA extraction.
     2. Thaw your samples ahead of time.        
     3. Take a PowerBead tube (screw-capped 2ml tubes with purple beads).   
     4. Take a thawed sample, write-down the sample label and give it an extraction index in your notebook.    
-        + for example:   
+        + for example:  
+ 
             | Sample    | Extraction index   |         
             | :--------- | ------------------: |         
             | LF-2016-09-12 | 1 |         
