@@ -21,7 +21,7 @@ Obtain total genomic DNA from environmental samples that are rich in inhibitors 
     + See subsampling SOP for more details.    
 - [ ] 3. Thaw **PowerBead Tubes** with samples if frozen. Invert several times to mix.    
 - [ ] 4. Record the sample, your initial (eg. `FY`), and give the sample an extraction dummy number (eg. `1`) (if applicable)  in your notebook.   
-    + For example, the sample you are extracting would be labeled as: FY1.   
+    + For example, the sample you are extracting would be labeled as: `FY1`.   
 - [ ] 5. Check **Solution C1**. If **Solution C1** is precipitated, heat solution to 60°C until
 dissolved before use.    
 - [ ] 6. Add 60 μl of **Solution C1** and invert several times or vortex briefly.
