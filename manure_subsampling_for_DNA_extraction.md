@@ -23,7 +23,28 @@ Distribute small amount of samples for total DNA extraction.
         4. rebox the tips like normal pipette tips. Label it well to indicate it contains wide-bore tips.    
         5. autoclave to sterilize 
     
-2. Subsampling (may take multiple days):    
+2. **Subsampling for individual extraction (individual tube format, PowerSoil DNA Isolation kit):**    
+    1. Clean the bench top using 70% enthanol.    
+    2. Thaw your samples ahead of time.        
+    3. Take a PowerBead tube (screw-capped 2ml tubes with purple beads).   
+    4. Take a thawed sample, write-down the sample label and give it an extraction index in your notebook.    
+        + for example:   
+            |Sample    |Extraction index   |
+            |:---------|------------------:|
+            |LF-2016-09-12| 1|
+            |LF-2016-09-20| 2|
+
+    5. Label the tube cap with your initials and extraction index (eg. `FY1`).   
+    6. With the wide-bore tips you prepared, pipette 250µl manure materials into the label PowerBead tube.   
+        + be gentle and careful when pipetting. Even with wide-bore tips, the solids in manure may clog your tips and cause the manure being sucked up into the pipetteman itself.    
+        + if the samples got into the pipetteman, take the pipetteman apart to clean before proceding. If not, you will be cross contaminating all of your samples.    
+    7. Repeat step 3 to 6 until done.   
+    8. Follow PowerSoil Indidividual DNA Isolation SOP for DNA extraction.   
+        + You can extract the sample right away **or**
+        + Put the samples in the fridge if you are going to extract the samples in the same day but not right aways **else**
+        + Freeze (at -80ºC) until you are ready to extract them.   
+ 
+2. **Subsampling for htp extraction (96 well format, PowerSoil or PowerMag htp DNA Isolation kits) (may take multiple days):**    
     1. Clean the bench top using 70% enthanol.    
     2. Thaw your samples ahead of time.        
     3. Take a bead plate from MoBio PowerSoil htp-96 well DNA extraction kit.    
