@@ -24,7 +24,7 @@ Obtain total genomic DNA from environmental samples that are rich in inhibitors 
     + For example, the sample you are extracting would be labeled as: `FY1`.   
 - [ ] 5. Check **Solution C1**. If **Solution C1** is precipitated, heat solution to 60°C until
 dissolved before use.    
-- [ ] 6. Add 60 μl of **Solution C1** and invert several times or vortex briefly.
+- [ ] 6. Add 60 μl of **Solution C1** to the sample filled **PowerBead Tube** and invert several times or vortex briefly.
 - [ ] 7. Secure **PowerBead Tubes** horizontally using the MO BIO Vortex Adapter
 tube holder for the vortex. Vortex at maximum speed for 10 minutes.       
     + part No. MO BIO Catalog# 13000-V1-24 
@@ -48,7 +48,7 @@ tube holder for the vortex. Vortex at maximum speed for 10 minutes.
     - [ ] 13.2 Pipette 2X 600 µl (total 1200 µl) of *Solution C4** into the labeled tube (tube `FY1C4`).   
 - [ ] 14. Once **Step 12** is done, centrifuge the tubes at room temperature for 1 minute at 13,000 x g (RCF).    
     + Balance your tube.    
-- [ ] 15. Avoid the pellet, transfer the supernatant (up to 600 µl) to the tube from **Step 13.2** (eg., tube `FY1C3`).   
+- [ ] 15. Avoid the pellet, transfer the supernatant (up to 600 µl) to the tube from **Step 8.4** (eg., tube `FY1C3`).   
 - [ ] 16. Vortex for 5 seconds.    
 - [ ] 17. Incubate at 4ºC (put it in a tube holder in the fridge) for 5 minutes.   
 - [ ] 18. While waiting for **Step 17** to complete, take out 1 **Spin Filter** (in the kit).   

@@ -9,17 +9,20 @@ Accurately quantify the amount of total DNA extracted using 96 well plate format
 2. Black 96-well plates (VWR: 62403-156)   
 3. Fluorescent microtiter plate reader (contact: Mingfeng Cao <mfcao@iastate.edu> over in Biorenewable building)   
 4. 50ml sterile tubes for reagent mixing   
-5. E1-cliptip 8-channel adjustable spacing pipetteman   
-6. VWR manual 8-channel pipetteman 10µl   
+5. E1-cliptip 8-channel pipetteman (non-spacing-adjustable)     
+6. VWR manual 8-channel pipetteman (1-10µl and 5-50µl)   
 7. Autoclaved cliptips (less than 1 box)    
 8. VWR 10XL autoclaved tips:   
     + N = number of plates of samples   
     + the number of boxes of 10XL tips needed: N+1        
+9. VWR 200 autoclaved tips:   
+    + N = number of plates of samples   
+    + the number 200µl tips needed: N columns
 
 ## Procedures:   
 ### Preparation    
 #### Days before you do the quantification:    
-- [ ] 1. Make sure you have enough 96-well black plates.  
+- [ ] 1. Make sure that you have enough 96-well black plates.  
     + One column of each plate will be used for DNA concentration standards.   
     + If you have 1 96-well full of DNA samples, you will need to use 2 96-well plates for quantification.   
 - [ ] 2. Make sure you have enough of 10XL VWR tips.   
@@ -68,7 +71,8 @@ Accurately quantify the amount of total DNA extracted using 96 well plate format
     + Use a silver Sharpie     
 - [ ] 10. Pour the working solution from **Step 1** into a medium reservoir.   
 - [ ] 11. Use the E1-cliptip 8 channel multipipetteman add 200µl of working solution into each well.  
-    + Use program `repeater_200µl`    
+    + Use program `Htp-repeat200µl`   
+    + This program repeatly dispense 200µl for 6 times (has a pre-step)     
     + Use 8 1250µl cliptips      
 - [ ] 12. Refer to your layout, to the column designed to standards, add 10µl of each DNA standard.  
     + Uncap your DNA standard tubes  
