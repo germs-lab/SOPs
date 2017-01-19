@@ -7,14 +7,26 @@ Accurately quantify the amount of total DNA extracted using 96 well plate format
 ## Materials:  
 1. Invitrogen Quant-iT dsDNA high senstiviely assay kit (Thermo Scientific: Q33120)   
 <p align="center">
-  <img src="/images/rotor_s5700.JPG" alt="S5700" width="400" />     
+  <img src="/images/quantit_kit.JPG" alt="quantit" width="400" />     
 </p>   
 2. Black 96-well plates (VWR: 62403-156)   
+<p align="center">
+  <img src="/images/black_96well.JPG" alt="blackplates" width="400" />     
+</p>   
 3. Fluorescent microtiter plate reader (contact: Mingfeng Cao <mfcao@iastate.edu> over in Biorenewable building)   
 4. 50ml sterile tubes for reagent mixing   
 5. E1-cliptip 8-channel pipetteman (non-spacing-adjustable)     
-6. VWR manual 8-channel pipetteman (1-10µl and 5-50µl)   
+<p align="center">
+  <img src="/images/E1_non_adjustable.JPG" alt="e1" width="400" />
+</p>
+6. VWR manual 8-channel pipetteman (1-10µl and 5-50µl) 
+<p align="center">
+  <img src="/images/vwr_10_50_micro_8channel.JPG" alt="vwr_8ch" width="400" />
+</p>
 7. Autoclaved cliptips (less than 1 box)    
+<p align="center">
+  <img src="/images/cliptip.JPG" alt="vwr_8ch" width="400" />
+</p>
 8. VWR 10XL autoclaved tips:   
     + N = number of plates of samples   
     + the number of boxes of 10XL tips needed: N+1        
