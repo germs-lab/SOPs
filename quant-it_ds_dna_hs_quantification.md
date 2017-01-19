@@ -6,6 +6,9 @@ Accurately quantify the amount of total DNA extracted using 96 well plate format
 
 ## Materials:  
 1. Invitrogen Quant-iT dsDNA high senstiviely assay kit (Thermo Scientific: Q33120)   
+<p align="center">
+  <img src="/images/rotor_s5700.JPG" alt="S5700" width="400" />     
+</p>   
 2. Black 96-well plates (VWR: 62403-156)   
 3. Fluorescent microtiter plate reader (contact: Mingfeng Cao <mfcao@iastate.edu> over in Biorenewable building)   
 4. 50ml sterile tubes for reagent mixing   
