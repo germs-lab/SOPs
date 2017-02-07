@@ -26,11 +26,11 @@ Quantitate DNA/RNA using quantitative real-time PCR
 1. Find concentration of the sample. Preferred Sample concentration would be 500 ng - 50 pg. Then final concentration will be 50 ng - 5 pg.
 
 ###Prepare mix
-+ Master Mix : 10 ul
-+ Water: 6 ul
-+ Primer F: 1 ul
-+ Primer R: 1 ul
-+ Sample : 2 ul
+* Master Mix : 10 ul
+* Water: 6 ul
+* Primer F: 1 ul
+* Primer R: 1 ul
+* Sample : 2 ul
 * total : 20 ul
 
 1. Make mix
