@@ -36,6 +36,7 @@ total : 20 ul
 1. Make mix
 
 | ingredients | full plate | half plate |
+| :--------- | --------- | ---------: |  
 | Master Mix | 1000 ul | 500 ul |
 | Water | 600 ul | 300 ul |
 | Primer F | 100 ul | 50 ul |
