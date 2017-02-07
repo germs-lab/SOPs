@@ -27,10 +27,15 @@ Quantitate DNA/RNA using quantitative real-time PCR
 
 ###Prepare mix
 Master Mix : 10 ul
+
 Water: 6 ul
+
 Primer F: 1 ul
+
 Primer R: 1 ul
+
 Sample : 2 ul
+
 total : 20 ul
 
 1. Make mix
