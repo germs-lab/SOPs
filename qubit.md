@@ -1,9 +1,11 @@
 ## Objectives
 Quantify total DNA. This SOP assume your DNA samples are in the 96-well plate.
-Process only one plate to reduce total processing time. Working solution will be degraded contiuasly before adding DNA.
+Process only one plate to reduce total processing time. Working solution will begin to degrade if DNA isn't added in a timely manner. 
 
 ## Materials
 1. Qubit dsDNA HS kit
+
+2. 50 ml tubes, resevoirs, pippeters
 
 ## Procedures
 1. Arrange tubes on the rack
@@ -21,5 +23,6 @@ Process only one plate to reduce total processing time. Working solution will be
 7. Using multi-pipet(300ul), Set pipet 200 ul. Pipet up-and-down 10 times to mix samples. 
 
 8. Using Electonic multi-pipet (length adjustable), move entire volume (200ul) into tubes.
+	(it helps to prop one end of the plate, this pools sample into one corner and allows for removal of more sample, after dispensing sample, return to same row with same tips and attempt to get the final sample out)
 
 9. Using Qubit florometer, measure DNA concentration with standard.
