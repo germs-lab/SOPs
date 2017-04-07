@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # DNA extraction using MoBio PowerSoil htp 96 well DNA Extraction Kit      
 Author: Fan Yang    
 
