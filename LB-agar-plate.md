@@ -1,5 +1,5 @@
 ## Objectives
-Make LB agar plate, about 40 plates
+Make LB agar plate, about 25 plates
 
 ## Materials
 1. LB broth
@@ -33,7 +33,7 @@ Make LB agar plate, about 40 plates
 
 10. Remove sterile petri dishse from plastic bag
 
-11. Pour LB agar (~10ml) into each plate (open lid up just enough to pour)
+11. Pour LB agar (~20ml) into each plate (open lid up just enough to pour)
 
 12. Let each plate cool until its solid (~10 min)
 
