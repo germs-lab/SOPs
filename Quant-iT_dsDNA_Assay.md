@@ -13,7 +13,7 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
 ## Protocol:
 1.	  Equilibrate the assay components to room temperature.
 2.	  Prepare the working solution by diluting the Quant-iTTM dsDNA HS reagent 1:200 in Quant-iTTM dsDNA HS buffer. 
-"	Here we have 96 samples, plus two columns of standards, in total 112 wells. In each well, we will have 200  l working solution, plus 20% more. So we will need: (1+20%)*112*200=26,880 l.  We will make it even to be 26,000  l.  So, we need 130  l reagent to be in 25,870 l HS buffer to make this working solution. In 50 ml falcon tube, you could mix the reagent and buffer.
+*	Here we have 96 samples, plus two columns of standards, in total 112 wells. In each well, we will have 200  l working solution, plus 20% more. So we will need: (1+20%)*112*200=26,880 l.  We will make it even to be 26,000  l.  So, we need 130  l reagent to be in 25,870 l HS buffer to make this working solution. In 50 ml falcon tube, you could mix the reagent and buffer.
 "	This step could only be done after your DNA samples are ready as the fluorescence will drop as time passes by.  It would be better you could add DNA in right after the working solution is loaded into wells.
 
 3.	Pour the working solution into a new reservoir.  Use multiple channel pipettes to load 200  l to targeted wells.
