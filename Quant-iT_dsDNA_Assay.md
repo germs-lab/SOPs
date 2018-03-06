@@ -31,11 +31,11 @@ o	Left plate                                              right plate
 
 
 6.	 Measure the fluorescence using a microplate reader by: 
-"	Turn on the plate reader
-"	Double click the software: Gen5
-"	Load your plate
-"	Click "Open", go to "read now", then click "existing protocol", choose "howe_quanit-dsdna"
-"	Click Ok to read your plate
-"	Save your excel
-"	Copy your data to a USB drive.
+* Turn on the plate reader
+* Double click the software: Gen5
+* Load your plate
+* Click "Open", go to "read now", then click "existing protocol", choose "howe_quanit-dsdna"
+* Click Ok to read your plate
+* Save your excel
+* Copy your data to a USB drive.
 
