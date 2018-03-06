@@ -28,7 +28,7 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
     + the 2nd column of right plate: standards. 
     
   <p align="center">
- ![Optional Text] (../Users/lanyingma/OneDrive/two-plates.jpeg)    
+ ![two aligned 96 well plates] (/Users/lanyingma/OneDrive/two plates.jpg)   
 </p>  
 
 * Steps 3-5 could be done by Robot. There is an existing protocol for the setting. Talk to Jin about it if you are willing to use Robot. Don't forget to sign up for Robot.
