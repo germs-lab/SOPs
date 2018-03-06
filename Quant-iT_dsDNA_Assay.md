@@ -7,7 +7,7 @@ The plate used for plate reader: Number is 165305 (Thermo)
 Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Sterile PS.
 
 ## Notes before you start:
-* As the plate reader is in another professor's lab, it has to be signed up before use.  It would be better for you to plan the use ahead and email the postdoc who is in charge.  His name is Mingfeng Cao: mfcao@iastate.edu
+* As the plate reader is in Biorenewable lab, it has to be signed up before use.  It would be better for you to plan the use ahead and email the postdoc who is in charge.  His name is Mingfeng Cao: mfcao@iastate.edu
 * Always wear lab coat and safety glasses to use this plate reader.
 
 ## Protocol:
@@ -26,9 +26,9 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
     + 2nd-12th columns: samples from your sample plate 1st -11th  columns.  
     + The 1st column of right plate: the 12th column of your sample plate; 
     + the 2nd column of right plate: standards. 
-    + Left plate                                              right plate
+    
   <p align="center">
-  <img src=""  width="400" />     
+ ![Optional Text] (../master/onedrive/two-plates.jpeg)    
 </p>  
 
 * Steps 3-5 could be done by Robot. There is an existing protocol for the setting. Talk to Jin about it if you are willing to use Robot. Don't forget to sign up for Robot.
