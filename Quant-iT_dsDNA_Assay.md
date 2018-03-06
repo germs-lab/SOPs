@@ -21,9 +21,7 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
 5.	Add _5  l_ of each DNA samples to separate wells and mix well.
 * Here I use 5  l of DNA samples for concentration measurement by this plate reader.  Jin and I have tried different standards and different samples and have shown that 5  l is suitable amount for accuracy and feasibility (not to waste too much of our samples). However, the amount of DNA samples added into working solution depends on the DNA concentrations of your samples.  That's why in the original protocol, they wrote down 1-20 l of samples
 * It is important to _mix well_ of each well. You could do the mixing step later after you add all your samples to working solution and pipette wells with multiple channel pipette. 
-* The settings will be:
---left plate 1st column: standards; 
---2nd-12th columns: samples from your sample plate 1st -11th  columns.  
+* The settings will be:   left plate 1st column: standards;     2nd-12th columns: samples from your sample plate 1st -11th  columns.  
 o	The 1st column of right plate: the 12th column of your sample plate; 
 o	the 2nd column of right plate: standards. 
 o	Left plate                                              right plate
