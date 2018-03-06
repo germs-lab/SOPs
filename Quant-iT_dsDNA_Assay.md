@@ -23,10 +23,10 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
 * It is important to _mix well_ of each well. You could do the mixing step later after you add all your samples to working solution and pipette wells with multiple channel pipette. 
 * The settings will be:
 + left plate 1st column: standards; 
-+ 2nd-12th columns: samples from your sample plate 1st -11th  columns.  
-+ The 1st column of right plate: the 12th column of your sample plate; 
-+ the 2nd column of right plate: standards. 
-+ Left plate                                              right plate
+    + 2nd-12th columns: samples from your sample plate 1st -11th  columns.  
+    + The 1st column of right plate: the 12th column of your sample plate; 
+    + the 2nd column of right plate: standards. 
+    + Left plate                                              right plate
   
 
 * Steps 3-5 could be done by Robot. There is an existing protocol for the setting. Talk to Jin about it if you are willing to use Robot. Don't forget to sign up for Robot.
