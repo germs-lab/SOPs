@@ -1,3 +1,5 @@
+
+Measure the DNA concentration in 96-well-plate by Quant-iT TM dsDNA Assay Kit
 Author: Lanying Ma
 
 -This SOP is based on Quant-iT dsDNA Assay Kit, High Sensitivity. Catalog Number Q33120
