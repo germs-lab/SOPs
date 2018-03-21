@@ -28,9 +28,9 @@ Assays	Samples
 * She will send you the spreadsheet with suitable layout. 
 *	In the layout, there is information of sample volume and volume of each primer set.
 *	You always can email her with:
-  * A) what is the volume for each DNA sample?
-  *	B) what is the volume for each primer set?
-  * C) what is the volume for SYBR Mastermix?
+    *  A) what is the volume for each DNA sample?
+    *	 B) what is the volume for each primer set?
+    *  C) what is the volume for SYBR Mastermix?
 
 *	For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
 *	Use 12 assays X 384 samples layout as an example:
@@ -59,7 +59,7 @@ Assays	Samples
 *	Put in the required information including “shipping data”, “contact”, etc. 
 *	Submit to EH&S.
 *	After approval, print it out to bring with you to the Chemistry Store.
-o	This step is better to be done at least a day before your desired shipping date.
+    * This step is better to be done at least a day before your desired shipping date.
 *	Go to AccessPlus then go Chemistry Store online, buy the dry ice.
 
 
