@@ -9,7 +9,7 @@
 ## Protocol
 1.	 The first and crucial step is to decide how many primer sets or how many samples you will send for wafergen. You have to know at least one of these two for sure, as you have to stick to certain layouts.  Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates, it makes 12 essays)
 
-Assay | Samples
+Assays | Samples
 ----- | -----
 12 | 384
 24	| 216
