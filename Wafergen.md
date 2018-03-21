@@ -8,8 +8,9 @@
 
 ## Protocol
 1.	 The first and crucial step is to decide how many primer sets or how many samples you will send for wafergen. You have to know at least one of these two for sure, as you have to stick to certain layouts.  Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates, it makes 12 essays)
+
 Assay | Samples
------ | -------
+----- | -----
 12 | 384
 24	| 216
 36	| 144
@@ -36,7 +37,7 @@ Assay | Samples
 *	For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
 *	Use 12 assays X 384 samples layout as an example:
 
-  ![AssaySourcePlate and SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.tiff)
+  ![AssaySourcePlate and SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png)
   
 
 
