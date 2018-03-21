@@ -35,6 +35,7 @@ Assays	Samples
 *	For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
 *	Use 12 assays X 384 samples layout as an example:
 
+  ![AssaySourcePlate and SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.tiff)(https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.tiff)
   
 
 
