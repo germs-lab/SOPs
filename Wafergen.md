@@ -1,4 +1,5 @@
 ## Preparing samples for Wafergen
+Author: Lanying Ma
 
 ## Notes before you start:
 1.	 We need to clarify several terms used in wafergen setting:
