@@ -1,5 +1,11 @@
 ## This SOP explain how to evaluate new primers compare to old primers
 
+#### This is example file
+```
+>primerf
+ATAT
+```
+
 ### How many sequences can be covered in reference?
 ```
 code here
