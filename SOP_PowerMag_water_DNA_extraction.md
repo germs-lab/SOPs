@@ -1,6 +1,6 @@
 ## PowerMag Water DNA isolation protocol
-*Catalog No. 27800-4-EP
-*Modified by: lanying Ma
+* Catalog No. 27800-4-EP
+* Modified by: lanying Ma
 
 ## This protocol is based on PowerMag Air & Water DNA isolation kit.
 Before starting
@@ -29,7 +29,7 @@ Before starting
 7.	Transfer the supernatant to a clean MO BIO 2 ml Deep Well Plate (DWP). It will be necessary to push the pipette tip through the beads into the bottom to the bead tube in order to recover as much supernatant as possible.
 *	This is crucial step. You have to know which sample is transferred to which well.  Always double check with your spreadsheet and mark them down.
 
-8.	   Add 200 ul PowerMag Inhibitor Removal Solution to each well and apply sealing Tape to the MO BIO 2 ml DWP. Vortex horizontally for 5 seconds on the vortex ensuring the solution is well mixed. Incubate at room temperature for 5 mins
+8.  Add 200 ul PowerMag Inhibitor Removal Solution to each well and apply sealing Tape to the MO BIO 2 ml DWP. Vortex horizontally for 5 seconds on the vortex ensuring the solution is well mixed. Incubate at room temperature for 5 mins
 *	Use the reservoir in the lab.  Add 20 ml PowerMag Inhibitor Removal Solution to reservoir and then add it to DWP with multichannel pipette.
 
 9.	  Centrifuge the MO BIO 2 ml DWP at room temperature for 6 mins at 4500 X g. Remove and discard Sealing Tape.
