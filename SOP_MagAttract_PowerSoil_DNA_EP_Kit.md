@@ -33,7 +33,8 @@
 *	The following steps will be done by Robot.  To do following steps, you need to put your 2 ml collection plate in water to thaw. 
 
 The following steps are to set up for Robot:
-* 14.	 Place the 2 ml Collection Plate containing the supernatant on the epMotion robotic deck as indicated in the epMotion program worktable.
+
+14.	 Place the 2 ml Collection Plate containing the supernatant on the epMotion robotic deck as indicated in the epMotion program worktable.
 *	The upper right corner postion
 15.	For each 96 well plate to be processed, add 174 ml of ClearMag Wash Solution in to an Eppendorf 400 ml reservoir placed at the appropriate location on the deck.
 *	Position: C2
