@@ -12,6 +12,9 @@ Filter enviromental water sample prior to extract DNA
 
 5. Tubes
 
+### Note
+It is not easy to decide how much water you need to filter to get meaningful concentratino of DNA. If your water contains lots of sediment, 15-50 ml would be enough. However, if your water sample looks very clean even 500 ml would not enough. From my experience, in Iowa Lake sample, 500 ml would be good choice in most of time. 
+
 ## Procedures
 1. Prepare autoclaved DI water for washing
 
