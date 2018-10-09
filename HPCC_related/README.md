@@ -9,7 +9,7 @@ https://wiki.hpcc.msu.edu/display/ITH/2018+Environment+Update+and+Migration
 sbatch myjob.sb
 ```
 
-## Here more tips
+## Here are more tips
 ```
 squeue -u <username> to see what's running
 sinfo -t idle   - to see which partitions have space to run your job
