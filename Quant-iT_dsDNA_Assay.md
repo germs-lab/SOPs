@@ -45,3 +45,4 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
 * Save your excel
 * Copy your data to a USB drive.
 
+7. Calculate the DNA concentration based on the standard curves generate with stanadard DNA and their plate readings.  We recommend the R2 of the standard curve to be at least 0.90.
