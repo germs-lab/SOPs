@@ -19,8 +19,8 @@
 8.	Centrifuge the PowerBead DNA Plate at 4500 g for 6 min at room temperature.
 *	Rotor: S5700
 *	RCF:4500g
-9.	Carefully and without splashing, remove and discard the Square Well Mat and transfer the supernatant to a clean **1** ml Collection Plate.
-*	Transfer no more than 750 ul supernatant.
+9.	Carefully and without splashing, remove and discard the Square Well Mat and transfer the supernatant to a clean **2** ml Collection Plate.
+*	Now we buy extra 2 ml collection Plate and we recomend you to use 2 ml plate, not 1 ml plate.  Thus, you could transfer as much as supernatant to the plate. After you transfer them with multichannal pipette, you may use single tip pipette to add any extra supernatant to the right wells.
 10.	Add 450 μl of Solution IR to each well and apply Sealing Tape to the 1 ml Collection Plate. Vortex horizontally for 5 seconds on the vortex ensuring that the solution is well mixed. Incubate at 4°C for 10 minutes. Centrifuge the 1 ml Collection Plate at room temperature for 6 minutes at 4500 x g. Remove and discard Sealing Tape.
 *	Use the reservoir in the lab. Add 45 ml Solution IR into reservoir and dispense 450ul of solution IR into each well by multichannel pipette.
 11.	Avoid the pellet, transfer the entire volume of supernatant to a new **1** ml Collection Plate. Apply Sealing Tape and centrifuge at 4500 g for 6min. Remove and discard Sealing Tape.
