@@ -50,10 +50,13 @@ Assays | Samples
 
 4.	Fill out the layout to indicate the samples and primers.
 5.	Prepare sample plates and primer set plate. 
-*	The initial concentration of primer sets is 100 uM and we have diluted primer sets to be 10 uM.  Use this 10 uM primer sets as the concentration for Wafergen use is normally 1 uM. 
+*	The initial concentration of primer sets is 100 uM and we have diluted primer sets to be 10 uM.  Use this 10 uM primer sets as the concentration for Wafergen use is normally 1 uM.((these primers are those which we don’t have standards for)) 
 *	We have 8 plates of ARGs primer sets.  If you don’t have the spreadsheet of these primers, please talk to Lanying.
 *	If you have lots of primer sets and want to use Robot to fill the primer set plates, Please talk to Lanying.
 *	There is a paper in the box of primer sets where 16s primers in. Please write down the date of use and remaining volume.  As 16s primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
+*	For these primers which we have standards for, for now, 16s, ermB, ermF, tetM. Please make the concentration to be 1um as required.  The way to make them:  the original synthetic primers are 100um. Add 10ul water to be 10 um. Then dilute them to be 1um as you needed taking into account of your needed volumn too.
+*	For the standards, The synthetic DNA standards have mass on the tubes, first make it to be 10 ng/ul, then dilute it to be 1ng/ul. From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards. 
+
 
 6.	You will need to send the Master Mix you want them to use, the DNA sample plates, and the Assay plate on dry ice.  The best way to seal the plate is with 8-strip caps. This seals the well individually so there should be no contamination between samples. 
 7.	 To send out samples with dry ice, it is categorized as Hazardous Material Shipping, which is under strict regulation.  Please follow the next several steps.
