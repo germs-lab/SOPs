@@ -1,6 +1,13 @@
 ## Mothur
+It shows how to run Mothur on HPC
+
+### Before you start
+```
+Make sure you dont' have underscore ("_") in the folder name
+```
 
 
+#### Check length of sequence
 ```
 16S amplicon sequencing from Argonne sequencing center gives 151 bp long sequences
 16S amplicon sequencing from USDA gives 251 bp long sequences 
@@ -8,6 +15,7 @@
 18S amplicon sequencing from ISU sequencing center gives 250 bp long sequences 
 ```
 
+### Now prepare
 #### make link of your data
 ```
 ln -s /mnt/research/germs/jin/sample_data/16s.argonne/*.gz .
