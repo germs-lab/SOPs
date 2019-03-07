@@ -1,10 +1,10 @@
 ## Mothur
 It shows how to run Mothur on HPC
 
-### Before you start
-```
-Make sure you dont' have underscore ("_") in the folder name
-```
+## Before you start
+
+#### Make sure you dont' have underscore ("_") in the folder name
+
 
 
 #### Check length of sequence
