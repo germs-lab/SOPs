@@ -14,6 +14,6 @@
 ### change to the directory where your code is located
 cd /mnt/research/germs
 
-./mothur/mothur stability.batch.16s
+/mnt/research/germs/softwares/mothur/mothur1.39.5/mothur stability.batch.16s.v4.silva.nr
 
 #scontrol show job $SLURM_JOB_ID     ### write job information to output file
