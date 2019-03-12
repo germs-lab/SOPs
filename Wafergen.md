@@ -1,6 +1,22 @@
 ## Preparing samples for Wafergen
 Author: Lanying Ma
 
+## Before Run (This is written by Adina)
+
+1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown below.
+
+[Jin can you put an example here]
+
+2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.
+
+[Jin can you put an example here]
+
+3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer here.https://github.com/germs-lab/SOPs/blob/master/Wafergen.md
+
+
+4. Make a folder in the Box Drive Folder - GERMS-Wafergen [https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g] to place the three files above in.  Name that folder as wafergen_yourname_date.
+
+
 ## Notes before you start:
 1.	 We need to clarify several terms used in wafergen setting:
 * Assay: primer sets.  The # of assays equals to (# of primer sets = # of targeted genes)* (# of replicates).
