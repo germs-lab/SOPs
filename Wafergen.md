@@ -87,8 +87,8 @@ Assays | Samples
 *	Go to AccessPlus then go Chemistry Store online, buy the dry ice.
 
 
-8.	Now Sylvia is tired of printing out the intermural for us.  I have put this excel file in the BoX too. Change the date and print out two copies and bring them to her so she can sign.
-* "Bring your parcel with grant account number to Sylvia, ask her to print out the intermural for shipping parcel for Fedex." Now we dont do it.  do it ourself but let Sylvia sign.
+8.	Now Sylvia is tired of printing out the intramural for us.  I have put this excel file in the BoX too. Change the date and print out two copies and bring them to her so she can sign. The name is "DNA_Sample_Intramural.xls"
+* "Bring your parcel with grant account number to Sylvia, ask her to print out the intramural for shipping parcel for Fedex." Now we dont do it.  do it ourself but let Sylvia sign.
 9.	Go to Chemistry Store to get the dry ice in parcel.
 10.	Go to “Postal & Parcel Servies” in General Business Building to send out parcels.
 *	They only send out hazardous materials on Monday, Wednesday and Thursday every week.  Make sure you don’t miss these days.
