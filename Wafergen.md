@@ -13,8 +13,10 @@ https://github.com/germs-lab/SOPs/blob/master/meta_fix.csv
 
 3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer here.https://github.com/germs-lab/SOPs/blob/master/Wafergen.md
 
+4.In the same Box folder of wafergen, there are excel files of layouts of wafergen  (https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel. 
 
-4. Make a folder in the Box Drive Folder - GERMS-Wafergen [https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g] to place the three files above in.  Name that folder as wafergen_yourname_date.
+
+5. Make a folder in the Box Drive Folder - GERMS-Wafergen [https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g] to place the three files above in.  Name that folder as wafergen_yourname_date.
 
 
 ## Notes before you start:
