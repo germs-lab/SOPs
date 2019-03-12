@@ -44,14 +44,13 @@ Assays | Samples
 248 | 20
 296 | 16
 384 | 12
-2.	After you have decided the number of assays and/or the number of samples, contact Christi Harris, who takes charge of wafergen in MSU.
-* The email address is: hemmingc@msu.edu
-* She will send you the spreadsheet with suitable layout. 
+2.	After you have decided the number of assays and/or the number of samples, contact Christi Harris, who takes charge of wafergen in MSU.fill out the layouts you will use
+* The email address is: hemmingc@msu.edu 
 *	In the layout, there is information of sample volume and volume of each primer set.
 *	You always can email her with:
-    *  A) what is the volume for each DNA sample?
-    *	 B) what is the volume for each primer set?
-    *  C) what is the volume for SYBR Mastermix?
+    *  A) The estimate time to send her samples and primers: to let her know that there are samples to come to scheudle the run
+    *	 B) Does she have enough SYBR master mix? if yes, you dont need to send along with your samples; if not, send one pack
+    
 
 *	For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
 *	Use 12 assays X 384 samples layout as an example:
@@ -88,7 +87,8 @@ Assays | Samples
 *	Go to AccessPlus then go Chemistry Store online, buy the dry ice.
 
 
-8.	Bring your parcel with grant account number to Sylvia, ask her to print out the intermural for shipping parcel for Fedex.
+8.	Now Sylvia is tired of printing out the intermural for us.  I have put this excel file in the BoX too. Change the date and print out two copies and bring them to her so she can sign.
+* "Bring your parcel with grant account number to Sylvia, ask her to print out the intermural for shipping parcel for Fedex." Now we dont do it.  do it ourself but let Sylvia sign.
 9.	Go to Chemistry Store to get the dry ice in parcel.
 10.	Go to “Postal & Parcel Servies” in General Business Building to send out parcels.
 *	They only send out hazardous materials on Monday, Wednesday and Thursday every week.  Make sure you don’t miss these days.
