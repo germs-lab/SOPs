@@ -1,5 +1,5 @@
 ## Preparing samples for Wafergen
-Author: Lanying Ma
+Author: Lanying Ma, Adina Howe
 
 ## Before Run (This is written by Adina)
 
