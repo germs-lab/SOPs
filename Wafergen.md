@@ -92,3 +92,16 @@ Assays | Samples
 *	They only send out hazardous materials on Monday, Wednesday and Thursday every week.  Make sure you don’t miss these days.
 *	It is better to send parcel to Wafergen at the beginning of week as they don’t work at weekend.  
 
+## After run (This is written by Adina)
+
+1.  Place the raw data downloaded from MSU into the folder you created above.  Rename that file rawdata_yourname_date_of_the_run.
+
+2.  [Jin please put documentation on how to process data with an output of something I can use to keep track of standard curves]
+
+You will have txt file after data back from MSU. Use Rscript_for_wafergen.R for analyzing data. You will need 1) txt formatted data file 2) meta data for samples 3) meta for standard. Then use R to run
+
+3.  Place your standard curve data in the spreadsheet located in the Box Drive Folder - GERMS-Wafergen --> Standard_Curves.  
+
+4.  Take a look at your standard curve compared to other runs, if it does not look aligned, you will need to do some troubleshooting.  
+
+
