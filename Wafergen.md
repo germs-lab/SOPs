@@ -2,7 +2,7 @@
 Author: Lanying Ma, Adina Howe
 
 ## Basic of qPCR
-If you don't understand qPCR system, please study. You have to understand What Ct is, How to get Ct, What SYBR is, How to get Standard curve, What R2 is, How to get R2, What is acceptable R2, What Efficienty is, How to calcuate Efficiency, What is acceptable eficiency, What melting curve is. https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf
+If you don't understand qPCR system, please study. You have to understand What Ct is, How to get Ct, What basic 3 step PCR, What SYBR is, How to get Standard curve, What R2 is, How to get R2, What is acceptable R2, What Efficienty is, How to calcuate Efficiency, What is acceptable eficiency, What melting curve is. https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf
 
 ## Before Run (This is written by Adina)
 
