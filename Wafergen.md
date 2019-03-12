@@ -5,7 +5,7 @@ Author: Lanying Ma, Adina Howe
 
 1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown below.
 
-[Jin can you put an example here]
+https://github.com/germs-lab/SOPs/blob/master/meta_fix.csv
 
 2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.
 
