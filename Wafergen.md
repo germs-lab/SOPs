@@ -1,6 +1,9 @@
 ## Preparing samples for Wafergen
 Author: Lanying Ma, Adina Howe
 
+## Basic of qPCR
+If you don't understand qPCR system, please study. https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf
+
 ## Before Run (This is written by Adina)
 
 1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown below.
