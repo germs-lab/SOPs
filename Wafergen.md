@@ -61,7 +61,7 @@ Assays | Samples
 
 
 3.	Measure the DNA concentration of your samples.
-*	In a 96-well plate, normalize cDNA at 4-6ng/ul. Final reaction concentration will be 1 - 1.5ng/ul on the SmartChip.
+*	In a 96-well plate, normalize cDNA at 4-6ng/ul. Final reaction concentration will be 1 - 1.5ng/ul on the SmartChip. This is the original request from Christi. Now she asks to give her whatever-concentration of DNA which you think works (or the concentration you have tried with local qPCR)
 *	If DNA concentrations are below the guidelines, they may not guarantee that they will work. However, they actually don’t know how low it could be. 
 *	NO, it will not work if you want to put more volume to make up for low concentration of DNA.  Please give them the volume which they have asked you.
 
