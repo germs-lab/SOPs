@@ -12,7 +12,7 @@ https://github.com/germs-lab/SOPs/blob/master/meta_fix.csv
 
 2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.
 
-[Jin can you put an example here]
+https://github.com/germs-lab/SOPs/blob/master/meta_standard.csv
 
 3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer here.https://github.com/germs-lab/SOPs/blob/master/Wafergen.md. or just scroll down. it is in the section of Protocol.
 
@@ -101,7 +101,7 @@ Assays | Samples
 
 1.  Place the raw data downloaded from MSU into the folder you created above.  Rename that file rawdata_yourname_date_of_the_run.
 
-2.  [Jin please put documentation on how to process data with an output of something I can use to keep track of standard curves]
+2.  https://github.com/germs-lab/wafergen
 
 You will have txt file after data back from MSU. Use Rscript_for_wafergen.R for analyzing data. You will need 1) txt formatted data file 2) meta data for samples 3) meta for standard. Then use R to run
 
