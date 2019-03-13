@@ -23,7 +23,7 @@ export PATH=$PATH:/mnt/research/germs/softwares/pandaseq
 
 ## merge
 mkdir merged
-for x in forqiime/*R1.fastq;do filename=${x##*/};echo "pandaseq -f $x -r ${x%R1*}R2.fastq -u ${x%R1*}unmerged.fa 2> ${x%R1*}pandastat.txt 1> merged/${filename%R1*}fasta";done > command.panda.sh
+for x in forqiime/*_L001_R1_001.fastq.gz;do filename=${x##*/};echo "pandaseq -f $x -r ${x%_L001_R1*}_L001_R2_001.fastq.gz -u ${x%_L001_R1*}.unmerged.fa 2> ${x%_L001_R1*}.pandastat.txt 1> merged/${filename%_L001_R1*}.fasta";done > command.panda.sh
 cat command.panda.sh | /mnt/research/germs/softwares/parallel-20181022/src/parallel
 
 ##prepare mapping file
