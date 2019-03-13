@@ -8,11 +8,11 @@ If you don't understand qPCR system, please study. You have to understand What C
 
 1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown below.
 
-https://github.com/germs-lab/SOPs/blob/master/meta_fix.csv
+https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv
 
 2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.
 
-https://github.com/germs-lab/SOPs/blob/master/meta_standard.csv
+https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv
 
 3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer here.https://github.com/germs-lab/SOPs/blob/master/Wafergen.md. or just scroll down. it is in the section of Protocol.
 
