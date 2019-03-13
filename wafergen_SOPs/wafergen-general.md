@@ -72,7 +72,7 @@ Based on your concentrations, you will need to in a 96-well plate, normalize cDN
 ![MasterMIxForWafergen](https://github.com/germs-lab/SOPs/blob/master/images/MasterMix_wafergen.jpg)
 
 #### shipping parcel out with samples, primers and master mix.
-To send DNA out, we normally add dry ice to ship along, catagorized as hazardous shipping.  Refer [here]https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
+To send DNA out, we normally add dry ice to ship along, catagorized as hazardous shipping.  Refer [here](https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
 
 ## After run, manage your data!
 
