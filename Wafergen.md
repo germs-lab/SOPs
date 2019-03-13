@@ -2,31 +2,29 @@
 Author: Lanying Ma, Adina Howe
 
 ## Basic of qPCR
-If you don't understand qPCR system, please study. You have to understand What Ct is, How to get Ct, What basic 3 step PCR, What SYBR is, How to get Standard curve, What R2 is, How to get R2, What is acceptable R2, What Efficienty is, How to calcuate Efficiency, What is acceptable eficiency, What melting curve is. https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf
+If you don't understand qPCR system, please study. You have to understand What Ct is, How to get Ct, What basic 3 step PCR, What SYBR is, How to get Standard curve, What R2 is, How to get R2, What is acceptable R2, What Efficienty is, How to calcuate Efficiency, What is acceptable efficiency, What melting curve is. Here is a good [resource](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf)
 
-## Before Run (This is written by Adina)
+## Before submission of samples to MSU
 
-1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown below.
+1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
 
-https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv
+[Please add screenshot]
 
-2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.
+2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.  An exampe is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv), with a screenshot shown here.
 
-https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv
+[Please add]
 
-3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer here.https://github.com/germs-lab/SOPs/blob/master/Wafergen.md. or just scroll down. it is in the section of Protocol.
+3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/Wafergen.md). 
 
-4.In the same Box folder of wafergen, there are excel files of layouts of wafergen  (https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel. 
+4.In the same Box folder of wafergen, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel. 
 
-
-5. Make a folder in the Box Drive Folder - GERMS-Wafergen [https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g] to place the three files above in.  Name that folder as wafergen_yourname_date.
+5. Make a folder in the Box Drive Folder - GERMS-Wafergen, [link](https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g) to place the three files above in.  Name that folder as wafergen_yourname_date.
 
 
 ## Notes before you start:
 1.	 We need to clarify several terms used in wafergen setting:
 * Assay: primer sets.  The # of assays equals to (# of primer sets = # of targeted genes)* (# of replicates).
 * Samples: will include standards (if you have any) in serial dilutions + negative controls + non-template control + your samples 
-•	
 
 ## Protocol
 1.	 The first and crucial step is to decide how many primer sets or how many samples you will send for wafergen. You have to know at least one of these two for sure, as you have to stick to certain layouts.  Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates, it makes 12 essays)
