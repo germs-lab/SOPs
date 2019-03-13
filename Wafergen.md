@@ -1,8 +1,14 @@
-## Preparing samples for Wafergen
-Author: Lanying Ma, Adina Howe
+# Wafergen SOP - Preparation, submission, and analysis
 
-## Basic of qPCR
-If you don't understand qPCR system, please study. You have to understand What Ct is, How to get Ct, What basic 3 step PCR, What SYBR is, How to get Standard curve, What R2 is, How to get R2, What is acceptable R2, What Efficienty is, How to calcuate Efficiency, What is acceptable efficiency, What melting curve is. Here is a good [resource](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf)
+Authors:  Lanying Ma, Adina Howe
+
+## Requirements
+- Basic knowledge of qPCR. You should know what the basic steps of PCR are, the reagants involved in PCR, the meaning of CT and how it is calculated, what a standard curve is, and efficiency and its relationship to PCR.  We recommend this [resource](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf), and there is a lot on the google-webs about PCR.  Before you ask us questions, please have due diligence in finding the information.
+- Probe selection and number of primers desired
+- Samples - the specific number of samples you want to target for genes in question
+- Number of technical replicates desired
+- Account number, for which you are paying for this project
+- Calculated total number of qPCR assays you will need for your probes x samples
 
 ## Before submission of samples to MSU
 
@@ -16,7 +22,9 @@ If you don't understand qPCR system, please study. You have to understand What C
 
 3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/Wafergen.md). 
 
-4.In the same Box folder of wafergen, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel. 
+[I dont think this link is right, let's keep the protocol for plate design in another document is my suggestion, I created one]
+
+4.In the Box folder, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel.  The exact same in every way.
 
 5. Make a folder in the Box Drive Folder - GERMS-Wafergen, [link](https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g) to place the three files above in.  Name that folder as wafergen_yourname_date.
 
@@ -27,6 +35,7 @@ If you don't understand qPCR system, please study. You have to understand What C
 * Samples: will include standards (if you have any) in serial dilutions + negative controls + non-template control + your samples 
 
 ## Protocol
+
 1.	 The first and crucial step is to decide how many primer sets or how many samples you will send for wafergen. You have to know at least one of these two for sure, as you have to stick to certain layouts.  Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates, it makes 12 essays)
 
 Assays | Samples
