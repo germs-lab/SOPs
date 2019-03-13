@@ -1,0 +1,385 @@
+﻿sample,study,Plate,Sample Source,Extraction Method,Date of Sample Collection,treatment,Unique ID,Well,concentration (ng/ul),cent_speed,time,phase,replicate,count,Day
+alexis.cent.001,centrifuge,plate 1,6000g  15 min Solid,MagAttract PowerSoil,11/3/17,,alexis.cent.001,A1,1.147154913,6000g,15min,Solid,,,11/3/17
+alexis.cent.002,centrifuge,plate 1,6000g  15 min Solid,MagAttract PowerSoil,11/3/17,,alexis.cent.002,A2,1.305582603,6000g,15min,Solid,,,11/3/17
+alexis.cent.003,centrifuge,plate 1,6000g  15 min Solid,MagAttract PowerSoil,11/3/17,,alexis.cent.003,A3,1.26089787,6000g,15min,Solid,,,11/3/17
+alexis.cent.004,centrifuge,plate 1,FM  6/16/17 Solid,MagAttract PowerSoil,11/3/17,,alexis.cent.004,A4,2.455198911,FM,6/16/17,Solid,,,11/3/17
+alexis.cent.005,centrifuge,plate 1,FM  6/16/17 Solid,MagAttract PowerSoil,11/3/17,,alexis.cent.005,A5,2.036787322,FM,6/16/17,Solid,,,11/3/17
+alexis.cent.006,centrifuge,plate 1,FM  6/16/17 Solid,MagAttract PowerSoil,11/3/17,,alexis.cent.006,A6,2.48363465,FM,6/16/17,Solid,,,11/3/17
+alexis.cent.007,centrifuge,plate 1,FM  05/16/17 Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.007,A7,3.101096413,FM,5/16/17,Solid,,,11/7/17
+alexis.cent.008,centrifuge,plate 1,FM  05/16/17 Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.008,A8,2.914232984,FM,5/16/17,Solid,,,11/7/17
+alexis.cent.009,centrifuge,plate 1,FM  05/16/17 Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.009,A9,2.962979966,FM,5/16/17,Solid,,,11/7/17
+alexis.cent.010,centrifuge,plate 1,6000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.010,A10,2.455198911,6000g,15min,Solid,,,11/20/17
+alexis.cent.011,centrifuge,plate 1,6000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.011,A11,3.34076907,6000g,15min,Solid,,,11/20/17
+alexis.cent.012,centrifuge,plate 1,6000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.012,A12,2.702996066,6000g,15min,Solid,,,11/20/17
+alexis.cent.013,centrifuge,plate 1,7100g   15 min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.013,B1,1.480259285,7100g,15min,Solid,,,11/7/17
+alexis.cent.014,centrifuge,plate 1,7100g   15 min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.014,B2,1.711807446,7100g,15min,Solid,,,11/7/17
+alexis.cent.015,centrifuge,plate 1,7100g   15 min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.015,B3,1.740243186,7100g,15min,Solid,,,11/7/17
+alexis.cent.016,centrifuge,plate 1,FM  6/20/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.016,B4,2.077409806,FM,6/20/17,Solid,,,11/7/17
+alexis.cent.017,centrifuge,plate 1,FM  6/20/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.017,B5,1.918982117,FM,6/20/17,Solid,,,11/7/17
+alexis.cent.018,centrifuge,plate 1,FM  6/20/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.018,B6,2.235837495,FM,6/20/17,Solid,,,11/7/17
+alexis.cent.019,centrifuge,plate 1,FM  05/22/17 Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.019,B7,2.702996066,FM,5/22/17,Solid,,,11/7/17
+alexis.cent.020,centrifuge,plate 1,FM  05/22/17 Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.020,B8,2.837050264,FM,5/22/17,Solid,,,11/7/17
+alexis.cent.021,centrifuge,plate 1,FM  05/22/17 Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.021,B9,3.149843394,FM,5/22/17,Solid,,,11/7/17
+alexis.cent.022,centrifuge,plate 1,2000g    5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.022,B10,1.610251235,2000g,5min,Solid,,,11/20/17
+alexis.cent.023,centrifuge,plate 1,2000g    5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.023,B11,1.882421881,2000g,5min,Solid,,,11/20/17
+alexis.cent.024,centrifuge,plate 1,2000g    5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.024,B12,1.935231111,2000g,5min,Solid,,,11/20/17
+alexis.cent.025,centrifuge,plate 1,2000g   5min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.025,C1,1.195901895,2000g,5min,Solid,,,11/7/17
+alexis.cent.026,centrifuge,plate 1,2000g 5min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.026,C2,1.451823546,2000g,5min,Solid,,,11/7/17
+alexis.cent.027,centrifuge,plate 1,2000g 5min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.027,C3,1.195901895,2000g,5min,Solid,,,11/7/17
+alexis.cent.028,centrifuge,plate 1,FM  6/26/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.028,C4,2.11803229,FM,6/26/17,Solid,,,11/7/17
+alexis.cent.029,centrifuge,plate 1,FM  6/26/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.029,C5,2.48363465,FM,6/26/17,Solid,,,11/7/17
+alexis.cent.030,centrifuge,plate 1,FM  6/26/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.030,C6,2.158654775,FM,6/26/17,Solid,,,11/7/17
+alexis.cent.031,centrifuge,plate 1,4000g    15min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.031,C7,4.291335205,4000g,15min,Liquid,,,11/7/17
+alexis.cent.032,centrifuge,plate 1,4000g    15min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.032,C8,4.782867266,4000g,15min,Liquid,,,11/7/17
+alexis.cent.033,centrifuge,plate 1,4000g    15min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.033,C9,4.559443602,4000g,15min,Liquid,,,11/7/17
+alexis.cent.034,centrifuge,plate 1,2000g  5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.034,C10,1.715869695,2000g,5min,Solid,,,11/20/17
+alexis.cent.035,centrifuge,plate 1,2000g  5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.035,C11,2.516132637,2000g,5min,Solid,,,11/20/17
+alexis.cent.036,centrifuge,plate 1,2000g  5min Solid,MagAttract PowerSoil,11/21/17,,alexis.cent.036,C12,2.284584476,2000g,5min,Solid,,,11/21/17
+alexis.cent.037,centrifuge,plate 1,6000g   5min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.037,D1,1.195901895,6000g,5min,Solid,,,11/7/17
+alexis.cent.038,centrifuge,plate 1,6000g   5min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.038,D2,1.667122714,6000g,5min,Solid,,,11/7/17
+alexis.cent.039,centrifuge,plate 1,6000g   5min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.039,D3,1.476197037,6000g,5min,Solid,,,11/7/17
+alexis.cent.040,centrifuge,plate 1,2000g    5min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.040,D4,4.965668446,2000g,5min,Liquid,,,11/7/17
+alexis.cent.041,centrifuge,plate 1,2000g    5min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.041,D5,5.050975663,2000g,5min,Liquid,,,11/7/17
+alexis.cent.042,centrifuge,plate 1,2000g    5min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.042,D6,4.61631508,2000g,5min,Liquid,,,11/7/17
+alexis.cent.043,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.043,D7,2.447074414,4000g,15min,Solid,,,11/20/17
+alexis.cent.044,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.044,D8,2.495821395,4000g,15min,Solid,,,11/20/17
+alexis.cent.045,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.045,D9,2.036787322,4000g,15min,Solid,,,11/20/17
+alexis.cent.046,centrifuge,plate 1,2000g  5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.046,D10,1.882421881,2000g,5min,Solid,,,11/20/17
+alexis.cent.047,centrifuge,plate 1,2000g  5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.047,D11,2.337393706,2000g,5min,Solid,,,11/20/17
+alexis.cent.048,centrifuge,plate 1,2000g  5min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.048,D12,1.979915843,2000g,5min,Solid,,,11/20/17
+alexis.cent.049,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.049,E1,1.837737148,4000g,15min,Solid,,,11/7/17
+alexis.cent.050,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.050,E2,2.276459979,4000g,15min,Solid,,,11/7/17
+alexis.cent.051,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.051,E3,1.959604601,4000g,15min,Solid,,,11/7/17
+alexis.cent.052,centrifuge,plate 1,6000g   5min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.052,E4,7.138971361,6000g,5min,Liquid,,,11/7/17
+alexis.cent.053,centrifuge,plate 1,6000g   5min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.053,E5,6.432140133,6000g,5min,Liquid,,,11/7/17
+alexis.cent.054,centrifuge,plate 1,6000g   5min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.054,E6,5.956857065,6000g,5min,Liquid,,,11/7/17
+alexis.cent.055,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.055,E7,1.760554428,4000g,15min,Solid,,,11/20/17
+alexis.cent.056,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.056,E8,2.057098564,4000g,15min,Solid,,,11/20/17
+alexis.cent.057,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.057,E9,1.805239161,4000g,15min,Solid,,,11/20/17
+alexis.cent.058,centrifuge,plate 1,7100g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.058,E10,2.638000091,7100g,15min,Solid,,,11/20/17
+alexis.cent.059,centrifuge,plate 1,7100g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.059,E11,2.48363465,7100g,15min,Solid,,,11/20/17
+alexis.cent.060,centrifuge,plate 1,7100g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.060,E12,2.463323408,7100g,15min,Solid,,,11/20/17
+alexis.cent.061,centrifuge,plate 1,6000g   30min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.061,F1,1.918982117,6000g,30min,Solid,,,11/7/17
+alexis.cent.062,centrifuge,plate 1,6000g   30min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.062,F2,2.195215011,6000g,30min,Solid,,,11/7/17
+alexis.cent.063,centrifuge,plate 1,6000g   30min Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.063,F3,1.98804034,6000g,30min,Solid,,,11/7/17
+alexis.cent.064,centrifuge,plate 1,6000g     15min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.064,F4,7.833615844,6000g,15min,Liquid,,,11/7/17
+alexis.cent.065,centrifuge,plate 1,6000g     15min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.065,F5,7.021166156,6000g,15min,Liquid,,,11/7/17
+alexis.cent.066,centrifuge,plate 1,6000g     15min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.066,F6,6.428077884,6000g,15min,Liquid,,,11/7/17
+alexis.cent.067,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.067,F7,2.17084152,4000g,15min,Solid,,,11/20/17
+alexis.cent.068,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.068,F8,2.487696898,4000g,15min,Solid,,,11/20/17
+alexis.cent.069,centrifuge,plate 1,4000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.069,F9,2.471447905,4000g,15min,Solid,,,11/20/17
+alexis.cent.070,centrifuge,plate 1,7100g  15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.070,F10,2.138343533,7100g,15min,Solid,,,11/20/17
+alexis.cent.071,centrifuge,plate 1,7100g  15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.071,F11,1.979915843,7100g,15min,Solid,,,11/20/17
+alexis.cent.072,centrifuge,plate 1,7100g  15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.072,F12,2.382078439,7100g,15min,Solid,,,11/20/17
+alexis.cent.073,centrifuge,plate 1,FM  05/18/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.073,G1,2.317082464,FM,5/18/17,Solid,,,11/7/17
+alexis.cent.074,centrifuge,plate 1,FM  05/18/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.074,G2,2.195215011,FM,5/18/17,Solid,,,11/7/17
+alexis.cent.075,centrifuge,plate 1,FM  05/18/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.075,G3,1.918982117,FM,5/18/17,Solid,,,11/7/17
+alexis.cent.076,centrifuge,plate 1,6000g   30min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.076,G4,5.408453526,6000g,30min,Liquid,,,11/7/17
+alexis.cent.077,centrifuge,plate 1,6000g   30min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.077,G5,5.453138259,6000g,30min,Liquid,,,11/7/17
+alexis.cent.078,centrifuge,plate 1,6000g   30min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.078,G6,4.563505851,6000g,30min,Liquid,,,11/7/17
+alexis.cent.079,centrifuge,plate 1,6000g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.079,G7,2.048974067,6000g,15min,Solid,,,11/20/17
+alexis.cent.080,centrifuge,plate 1,6000g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.080,G8,2.17084152,6000g,15min,Solid,,,11/20/17
+alexis.cent.081,centrifuge,plate 1,6000g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.081,G9,1.947417856,6000g,15min,Solid,,,11/20/17
+alexis.cent.082,centrifuge,plate 1,7100g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.082,G10,2.231775247,7100g,15min,Solid,,,11/20/17
+alexis.cent.083,centrifuge,plate 1,7100g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.083,G11,2.491759147,7100g,15min,Solid,,,11/20/17
+alexis.cent.084,centrifuge,plate 1,7100g     15 min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.084,G12,2.914232984,7100g,15min,Solid,,,11/20/17
+alexis.cent.085,centrifuge,plate 1,FM  05/22/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.085,H1,2.044911818,FM,5/22/17,Solid,,,11/7/17
+alexis.cent.086,centrifuge,plate 1,FM  05/22/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.086,H2,1.85804839,FM,5/22/17,Solid,,,11/7/17
+alexis.cent.087,centrifuge,plate 1,FM  05/22/17 Solid,MagAttract PowerSoil,11/7/17,,alexis.cent.087,H3,2.187090514,FM,5/22/17,Solid,,,11/7/17
+alexis.cent.088,centrifuge,plate 1,7100g   15 min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.088,H4,6.480887114,7100g,15min,Liquid,,,11/7/17
+alexis.cent.089,centrifuge,plate 1,7100g   15 min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.089,H5,5.514071985,7100g,15min,Liquid,,,11/7/17
+alexis.cent.090,centrifuge,plate 1,7100g   15 min Liquid,MagAttract PowerSoil,11/7/17,,alexis.cent.090,H6,5.522196482,7100g,15min,Liquid,,,11/7/17
+alexis.cent.091,centrifuge,plate 1,6000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.091,H7,3.141718897,6000g,15min,Solid,,,11/20/17
+alexis.cent.092,centrifuge,plate 1,6000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.092,H8,3.125469903,6000g,15min,Solid,,,11/20/17
+alexis.cent.093,centrifuge,plate 1,6000g    15min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.093,H9,3.023913692,6000g,15min,Solid,,,11/20/17
+alexis.cent.094,centrifuge,plate 1,2000g     60min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.094,H10,2.203339508,2000g,60min,Solid,,,11/20/17
+alexis.cent.095,centrifuge,plate 1,2000g     60min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.095,H11,2.178966017,2000g,60min,Solid,,,11/20/17
+alexis.cent.096,centrifuge,plate 1,2000g     60min Solid,MagAttract PowerSoil,11/20/17,,alexis.cent.096,H12,2.414576426,2000g,60min,Solid,,,11/20/17
+alexis.cent.097,centrifuge,plate 2,2000g        60 min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.097,A1,2.47393875,2000g,60min,Solid,,,11/30/17
+alexis.cent.098,centrifuge,plate 2,2000g        60 min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.098,A2,2.79463985,2000g,60min,Solid,,,11/30/17
+alexis.cent.099,centrifuge,plate 2,2000g        60 min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.099,A3,2.689335011,2000g,60min,Solid,,,11/30/17
+alexis.cent.100,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.100,A4,2.40692658,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.101,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.101,A5,2.775493516,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.102,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.102,A6,3.191926288,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.103,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.103,A7,2.804213017,6000g,30min,Solid,,,11/30/17
+alexis.cent.104,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.104,A8,3.158420203,6000g,30min,Solid,,,11/30/17
+alexis.cent.105,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.105,A9,2.698908179,6000g,30min,Solid,,,11/30/17
+alexis.cent.106,centrifuge,plate 2,6000g   30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.106,A10,8.667777906,6000g,30min,Liquid,,,11/30/17
+alexis.cent.107,centrifuge,plate 2,6000g   30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.107,A11,6.274486115,6000g,30min,Liquid,,,11/30/17
+alexis.cent.108,centrifuge,plate 2,6000g   30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.108,A12,6.164394692,6000g,30min,Liquid,,,11/30/17
+alexis.cent.109,centrifuge,plate 2,2000g        60 min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.109,B1,2.004853559,2000g,60min,Solid,,,11/30/17
+alexis.cent.110,centrifuge,plate 2,2000g        60 min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.110,B2,2.665402094,2000g,60min,Solid,,,11/30/17
+alexis.cent.111,centrifuge,plate 2,2000g        60 min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.111,B3,2.40692658,2000g,60min,Solid,,,11/30/17
+alexis.cent.112,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.112,B4,3.206286038,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.113,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.113,B5,4.048724749,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.114,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.114,B6,4.058297916,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.115,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.115,B7,10.00802131,7100g,15min,Liquid,,,11/30/17
+alexis.cent.116,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.116,B8,8.36622314,7100g,15min,Liquid,,,11/30/17
+alexis.cent.117,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.117,B9,9.510216616,7100g,15min,Liquid,,,11/30/17
+alexis.cent.118,centrifuge,plate 2,6000g    30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.118,B10,8.241771967,6000g,30min,Liquid,,,11/30/17
+alexis.cent.119,centrifuge,plate 2,6000g    30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.119,B11,8.5528999,6000g,30min,Liquid,,,11/30/17
+alexis.cent.120,centrifuge,plate 2,6000g    30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.120,B12,7.413693007,6000g,30min,Liquid,,,11/30/17
+alexis.cent.121,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.121,C1,3.388176214,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.122,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.122,C2,3.651438312,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.123,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.123,C3,3.479121303,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.124,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.124,C4,2.54095092,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.125,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.125,C5,3.699304147,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.126,centrifuge,plate 2,FM      06/20/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.126,C6,3.426468883,FM,6/20/17,Solid,,,11/30/17
+alexis.cent.127,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.127,C7,9.567655619,7100g,15min,Liquid,,,11/30/17
+alexis.cent.128,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.128,C8,9.845277467,7100g,15min,Liquid,,,11/30/17
+alexis.cent.129,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.129,C9,9.931435972,7100g,15min,Liquid,,,11/30/17
+alexis.cent.130,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.130,C10,10.37658824,4000g,15min,Liquid,,,11/30/17
+alexis.cent.131,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.131,C11,8.533753566,4000g,15min,Liquid,,,11/30/17
+alexis.cent.132,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.132,C12,7.825339195,4000g,15min,Liquid,,,11/30/17
+alexis.cent.133,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.133,D1,3.464761552,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.134,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.134,D2,3.459974968,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.135,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.135,D3,3.282871376,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.136,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.136,D4,2.27290224,6000g,5min,Solid,,,11/30/17
+alexis.cent.137,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.137,D5,2.483511917,6000g,5min,Solid,,,11/30/17
+alexis.cent.138,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.138,D6,2.392566829,6000g,5min,Solid,,,11/30/17
+alexis.cent.139,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.139,D7,7.002046819,7100g,15min,Liquid,,,11/30/17
+alexis.cent.140,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.140,D8,7.284455251,7100g,15min,Liquid,,,11/30/17
+alexis.cent.141,centrifuge,plate 2,7100g    15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.141,D9,8.007229371,7100g,15min,Liquid,,,11/30/17
+alexis.cent.142,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.142,D10,10.28564316,4000g,15min,Liquid,,,11/30/17
+alexis.cent.143,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.143,D11,11.83170965,4000g,15min,Liquid,,,11/30/17
+alexis.cent.144,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.144,D12,8.16518663,4000g,15min,Liquid,,,11/30/17
+alexis.cent.145,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.145,E1,3.842901655,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.146,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.146,E2,3.976925995,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.147,centrifuge,plate 2,FM        05/22/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.147,E3,3.694517564,FM,5/22/17,Solid,,,11/30/17
+alexis.cent.148,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.148,E4,2.808999601,6000g,5min,Solid,,,11/30/17
+alexis.cent.149,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.149,E5,2.756347182,6000g,5min,Solid,,,11/30/17
+alexis.cent.150,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.150,E6,2.713267929,6000g,5min,Solid,,,11/30/17
+alexis.cent.151,centrifuge,plate 2,2000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.151,E7,7.77747336,2000g,15min,Liquid,,,11/30/17
+alexis.cent.152,centrifuge,plate 2,2000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.152,E8,7.002046819,2000g,15min,Liquid,,,11/30/17
+alexis.cent.153,centrifuge,plate 2,2000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.153,E9,8.031162289,2000g,15min,Liquid,,,11/30/17
+alexis.cent.154,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.154,E10,7.581223433,4000g,15min,Liquid,,,11/30/17
+alexis.cent.155,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.155,E11,8.476314563,4000g,15min,Liquid,,,11/30/17
+alexis.cent.156,centrifuge,plate 2,4000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.156,E12,9.558082452,4000g,15min,Liquid,,,11/30/17
+alexis.cent.157,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.157,F1,3.30201771,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.158,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.158,F2,4.058297916,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.159,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.159,F3,3.828541904,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.160,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.160,F4,2.20589007,6000g,5min,Solid,,,11/30/17
+alexis.cent.161,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.161,F5,2.962170276,6000g,5min,Solid,,,11/30/17
+alexis.cent.162,centrifuge,plate 2,6000g    5min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.162,F6,2.732414264,6000g,5min,Solid,,,11/30/17
+alexis.cent.163,centrifuge,plate 2,2000g 15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.163,F7,9.14164968,2000g,15min,Liquid,,,11/30/17
+alexis.cent.164,centrifuge,plate 2,2000g 15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.164,F8,8.102961043,2000g,15min,Liquid,,,11/30/17
+alexis.cent.165,centrifuge,plate 2,2000g 15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.165,F9,10.23299074,2000g,15min,Liquid,,,11/30/17
+alexis.cent.166,centrifuge,plate 2,6000g    5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.166,F10,9.821344549,6000g,5min,Liquid,,,11/30/17
+alexis.cent.167,centrifuge,plate 2,6000g    5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.167,F11,8.797015663,6000g,5min,Liquid,,,11/30/17
+alexis.cent.168,centrifuge,plate 2,6000g    5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.168,F12,9.12728993,6000g,5min,Liquid,,,11/30/17
+alexis.cent.169,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.169,G1,4.833724456,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.170,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.170,G2,3.105767783,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.171,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.171,G3,3.881194323,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.172,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.172,G4,2.72762768,6000g,30min,Solid,,,11/30/17
+alexis.cent.173,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.173,G5,2.789853267,6000g,30min,Solid,,,11/30/17
+alexis.cent.174,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.174,G6,2.708481346,6000g,30min,Solid,,,11/30/17
+alexis.cent.175,centrifuge,plate 2,2000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.175,G7,9.730399461,2000g,15min,Liquid,,,11/30/17
+alexis.cent.176,centrifuge,plate 2,2000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.176,G8,8.17954638,2000g,15min,Liquid,,,11/30/17
+alexis.cent.177,centrifuge,plate 2,2000g   15min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.177,G9,9.974515224,2000g,15min,Liquid,,,11/30/17
+alexis.cent.178,centrifuge,plate 2,6000g   5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.178,G10,6.930248065,6000g,5min,Liquid,,,11/30/17
+alexis.cent.179,centrifuge,plate 2,6000g   5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.179,G11,8.548113316,6000g,5min,Liquid,,,11/30/17
+alexis.cent.180,centrifuge,plate 2,6000g   5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.180,G12,5.886772844,6000g,5min,Liquid,,,11/30/17
+alexis.cent.181,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.181,H1,2.162810817,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.182,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.182,H2,2.416499747,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.183,centrifuge,plate 2,FM      06/16/2017 Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.183,H3,2.612749674,FM,6/16/17,Solid,,,11/30/17
+alexis.cent.184,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.184,H4,3.550920056,6000g,30min,Solid,,,11/30/17
+alexis.cent.185,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.185,H5,3.517413971,6000g,30min,Solid,,,11/30/17
+alexis.cent.186,centrifuge,plate 2,6000g   30min Solid,MagAttract PowerSoil,11/30/17,,alexis.cent.186,H6,3.905127241,6000g,30min,Solid,,,11/30/17
+alexis.cent.187,centrifuge,plate 2,6000g     30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.187,H7,7.897137949,6000g,30min,Liquid,,,11/30/17
+alexis.cent.188,centrifuge,plate 2,6000g     30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.188,H8,8.82094858,6000g,30min,Liquid,,,11/30/17
+alexis.cent.189,centrifuge,plate 2,6000g     30min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.189,H9,8.414088976,6000g,30min,Liquid,,,11/30/17
+alexis.cent.190,centrifuge,plate 2,6000g    5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.190,H10,5.925065513,6000g,5min,Liquid,,,11/30/17
+alexis.cent.191,centrifuge,plate 2,6000g    5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.191,H11,8.213052466,6000g,5min,Liquid,,,11/30/17
+alexis.cent.192,centrifuge,plate 2,6000g    5min Liquid,MagAttract PowerSoil,11/30/17,,alexis.cent.192,H12,7.542930764,6000g,5min,Liquid,,,11/30/17
+NAB_161014_A1,AnaerobicDigestion,plate 3,,,161014,25C,,,,,,,A1,,0
+NAB_161021_A1,AnaerobicDigestion,plate 3,,,161021,25C,,,,,,,A1,,7
+PS_161021_A1,TwoPhase,plate 3,,,161021,Non-Manure-added,,,,,,,A1,,7
+NAB_161028_A1,AnaerobicDigestion,plate 3,,,161028,25C,,,,,,,A1,,14
+PS_161028_A1,TwoPhase,plate 3,,,161028,Non-Manure-added,,,,,,,A1,,14
+NAB_161111_A1,AnaerobicDigestion,plate 3,,,161111,25C,,,,,,,A1,,28
+PS_161111_A1,TwoPhase,plate 3,,,161111,Non-Manure-added,,,,,,,A1,,28
+NAB_161209_A1,AnaerobicDigestion,plate 3,,,161209,25C,,,,,,,A1,,56
+NAB_161014_A2,AnaerobicDigestion,plate 3,,,161014,25C,,,,,,,A2,,0
+NAB_161021_A2,AnaerobicDigestion,plate 3,,,161021,25C,,,,,,,A2,,7
+PS_161021_A2,TwoPhase,plate 3,,,161021,Non-Manure-added,,,,,,,A2,,7
+NAB_161028_A2,AnaerobicDigestion,plate 3,,,161028,25C,,,,,,,A2,,14
+PS_161028_A2,TwoPhase,plate 3,,,161028,Non-Manure-added,,,,,,,A2,,14
+NAB_161111_A2,AnaerobicDigestion,plate 3,,,161111,25C,,,,,,,A2,,28
+PS_161111_A2,TwoPhase,plate 3,,,161111,Non-Manure-added,,,,,,,A2,,28
+NAB_161209_A2,AnaerobicDigestion,plate 3,,,161209,25C,,,,,,,A2,,56
+NAB_161014_A3,AnaerobicDigestion,plate 3,,,161014,25C,,,,,,,A3,,0
+NAB_161021_A3,AnaerobicDigestion,plate 3,,,161021,25C,,,,,,,A3,,7
+PS_161021_A3,TwoPhase,plate 3,,,161021,Non-Manure-added,,,,,,,A3,,7
+NAB_161028_A3,AnaerobicDigestion,plate 3,,,161028,25C,,,,,,,A3,,14
+PS_161028_A3,TwoPhase,plate 3,,,161028,Non-Manure-added,,,,,,,A3,,14
+NAB_161111_A3,AnaerobicDigestion,plate 3,,,161111,25C,,,,,,,A3,,28
+PS_161111_A3,TwoPhase,plate 3,,,161111,Non-Manure-added,,,,,,,A3,,28
+NAB_161209_A3,AnaerobicDigestion,plate 3,,,161209,25C,,,,,,,A3,,56
+AD_161014_B1,AnaerobicDigestion,plate 3,,,161014,37C,,,,,,,B1,,0
+AD_161021_B1,AnaerobicDigestion,plate 3,,,161021,37C,,,,,,,B1,,7
+PS_161021_B1,TwoPhase,plate 3,,,161021,Manure-added,,,,,,,B1,,7
+AD_161028_B1,AnaerobicDigestion,plate 3,,,161028,37C,,,,,,,B1,,14
+PS_161028_B1,TwoPhase,plate 3,,,161028,Manure-added,,,,,,,B1,,14
+AD_161111_B1,AnaerobicDigestion,plate 3,,,161111,37C,,,,,,,B1,,28
+PS_161111_B1,TwoPhase,plate 3,,,161111,Manure-added,,,,,,,B1,,28
+AD_161209_B1,AnaerobicDigestion,plate 3,,,161209,37C,,,,,,,B1,,56
+AD_161014_B2,AnaerobicDigestion,plate 3,,,161014,37C,,,,,,,B2,,0
+AD_161021_B2,AnaerobicDigestion,plate 3,,,161021,37C,,,,,,,B2,,7
+PS_161021_B2,TwoPhase,plate 3,,,161021,Manure-added,,,,,,,B2,,7
+AD_161028_B2,AnaerobicDigestion,plate 3,,,161028,37C,,,,,,,B2,,14
+PS_161028_B2,TwoPhase,plate 3,,,161028,Manure-added,,,,,,,B2,,14
+AD_161111_B2,AnaerobicDigestion,plate 3,,,161111,37C,,,,,,,B2,,28
+PS_161111_B2,TwoPhase,plate 3,,,161111,Manure-added,,,,,,,B2,,28
+AD_161209_B2,AnaerobicDigestion,plate 3,,,161209,37C,,,,,,,B2,,56
+AD_161014_B3,AnaerobicDigestion,plate 3,,,161014,37C,,,,,,,B3,,0
+AD_161021_B3,AnaerobicDigestion,plate 3,,,161021,37C,,,,,,,B3,,7
+PS_161021_B3,TwoPhase,plate 3,,,161021,Manure-added,,,,,,,B3,,7
+AD_161028_B3,AnaerobicDigestion,plate 3,,,161028,37C,,,,,,,B3,,14
+PS_161028_B3,TwoPhase,plate 3,,,161028,Manure-added,,,,,,,B3,,14
+AD_161111_B3,AnaerobicDigestion,plate 3,,,161111,37C,,,,,,,B3,,28
+PS_161111_B3,TwoPhase,plate 3,,,161111,Manure-added,,,,,,,B3,,28
+AD_161209_B3,AnaerobicDigestion,plate 3,,,161209,37C,,,,,,,B3,,56
+AD_161014_C1,AnaerobicDigestion,plate 3,,,161014,57C,,,,,,,C1,,0
+AD_161021_C1,AnaerobicDigestion,plate 3,,,161021,57C,,,,,,,C1,,7
+NAB_170123_A1,AnaerobicDigestion,plate 3,,,170123,57C,,,,,,,A1,,101
+AD_161028_C1,AnaerobicDigestion,plate 3,,,161028,57C,,,,,,,C1,,14
+PS_170123_A1,TwoPhase,plate 3,,,170123,Non-Manure-added,,,,,,,A1,,101
+AD_161111_C1,AnaerobicDigestion,plate 3,,,161111,57C,,,,,,,C1,,28
+PS_170206_A1,TwoPhase,plate 3,,,170206,Non-Manure-added,,,,,,,A1,,115
+AD_161209_C1,AnaerobicDigestion,plate 3,,,161209,57C,,,,,,,C1,,56
+AD_161014_C2,AnaerobicDigestion,plate 3,,,161014,57C,,,,,,,C2,,0
+AD_161021_C2,AnaerobicDigestion,plate 3,,,161021,57C,,,,,,,C2,,7
+NAB_170123_A2,AnaerobicDigestion,plate 3,,,170123,25C,,,,,,,A2,,101
+AD_161028_C2,AnaerobicDigestion,plate 3,,,161028,57C,,,,,,,C2,,14
+PS_170123_A2,TwoPhase,plate 3,,,170123,Non-Manure-added,,,,,,,A2,,101
+AD_161111_C2,AnaerobicDigestion,plate 3,,,161111,57C,,,,,,,C2,,28
+PS_170206_A2,TwoPhase,plate 3,,,170206,Non-Manure-added,,,,,,,A2,,115
+AD_161209_C2,AnaerobicDigestion,plate 3,,,161209,57C,,,,,,,C2,,56
+AD_161014_C3,AnaerobicDigestion,plate 3,,,161014,57C,,,,,,,C3,,0
+AD_161021_C3,AnaerobicDigestion,plate 3,,,161021,57C,,,,,,,C3,,7
+NAB_170123_A3,AnaerobicDigestion,plate 3,,,170123,25C,,,,,,,A3,,101
+AD_161028_C3,AnaerobicDigestion,plate 3,,,161028,57C,,,,,,,C3,,14
+PS_170123_A3,TwoPhase,plate 3,,,170123,Non-Manure-added,,,,,,,A3,,101
+AD_161111_C3,AnaerobicDigestion,plate 3,,,161111,57C,,,,,,,C3,,28
+PS_170206_A3,TwoPhase,plate 3,,,170206,Non-Manure-added,,,,,,,A3,,115
+AD_161209_C3,AnaerobicDigestion,plate 3,,,161209,57C,,,,,,,C3,,56
+PS_161209_A1,TwoPhase,plate 3,,,161209,Non-Manure-added,,,,,,,A1,,56
+PS_161209_B1,TwoPhase,plate 3,,,161209,Manure-added,,,,,,,B1,,56
+AD_170123_B1,AnaerobicDigestion,plate 3,,,170123,37C,,,,,,,B1,,101
+AD_170123_C1,AnaerobicDigestion,plate 3,,,170123,57C,,,,,,,C1,,101
+PS_170123_B1,TwoPhase,plate 3,,,170123,Manure-added,,,,,,,B1,,101
+AD_170206_A1,AnaerobicDigestion,plate 3,,,170206,25C,,,,,,,A1,,115
+AD_170206_B1,AnaerobicDigestion,plate 3,,,170206,37C,,,,,,,B1,,115
+PS_170206_B1,TwoPhase,plate 3,,,170206,Manure-added,,,,,,,B1,,115
+PS_161209_A2,TwoPhase,plate 3,,,161209,Non-Manure-added,,,,,,,A2,,56
+PS_161209_B2,TwoPhase,plate 3,,,161209,Manure-added,,,,,,,B2,,56
+AD_170123_B2,AnaerobicDigestion,plate 3,,,170123,37C,,,,,,,B2,,101
+AD_170123_C2,AnaerobicDigestion,plate 3,,,170123,57C,,,,,,,C2,,101
+PS_170123_B2,TwoPhase,plate 3,,,170123,Manure-added,,,,,,,B2,,101
+AD_170206_A2,AnaerobicDigestion,plate 3,,,170206,25C,,,,,,,A2,,115
+AD_170206_B2,AnaerobicDigestion,plate 3,,,170206,37C,,,,,,,B2,,115
+PS_170206_B2,TwoPhase,plate 3,,,170206,Manure-added,,,,,,,B2,,115
+PS_161209_A3,TwoPhase,plate 3,,,161209,Non-Manure-added,,,,,,,A3,,56
+PS_161209_B3,TwoPhase,plate 3,,,161209,Manure-added,,,,,,,B3,,56
+AD_170123_B3,AnaerobicDigestion,plate 3,,,170123,37C,,,,,,,B3,,101
+AD_170123_C3,AnaerobicDigestion,plate 3,,,170123,57C,,,,,,,C3,,101
+PS_170123_B3,TwoPhase,plate 3,,,170123,Manure-added,,,,,,,B3,,101
+AD_170206_A3,AnaerobicDigestion,plate 3,,,170206,25C,,,,,,,A3,,115
+AD_170206_B3,AnaerobicDigestion,plate 3,,,170206,37C,,,,,,,B3,,115
+PS_170206_B3,TwoPhase,plate 3,,,170206,Manure-added,,,,,,,B3,,115
+alexis.cent.193,centrifuge,plate 4,6000g   15min B1 Solid,MagAttract PowerSoil,,,alexis.cent.193,A1,6.285674525,6000g,15min,Solid,,,
+alexis.cent.194,centrifuge,plate 4,6000g   15min B2 Solid,MagAttract PowerSoil,,,alexis.cent.194,A2,6.410010568,6000g,15min,Solid,,,
+alexis.cent.195,centrifuge,plate 4,6000g   15min B3 Solid,MagAttract PowerSoil,,,alexis.cent.195,A3,6.773071815,6000g,15min,Solid,,,
+alexis.cent.196,centrifuge,plate 4,FM     05/16/2017 D1 Solid,MagAttract PowerSoil,,,alexis.cent.196,A4,2.336761786,FM,5/16/17,Solid,,,
+alexis.cent.197,centrifuge,plate 4,FM     05/16/2017 D2 Solid,MagAttract PowerSoil,,,alexis.cent.197,A5,3.585095662,FM,5/16/17,Solid,,,
+alexis.cent.198,centrifuge,plate 4,FM     05/16/2017 D3 Solid,MagAttract PowerSoil,,,alexis.cent.198,A6,3.401078317,FM,5/16/17,Solid,,,
+alexis.cent.199,centrifuge,plate 4,FM    06/26/2017 C1 Solid,MagAttract PowerSoil,,,alexis.cent.199,A7,1.207790511,FM,6/26/17,Solid,,,
+alexis.cent.200,centrifuge,plate 4,FM    06/26/2017 C2 Solid,MagAttract PowerSoil,,,alexis.cent.200,A8,1.138162327,FM,6/26/17,Solid,,,
+alexis.cent.201,centrifuge,plate 4,FM    06/26/2017 C3 Solid,MagAttract PowerSoil,,,alexis.cent.201,A9,1.222710837,FM,6/26/17,Solid,,,
+alexis.cent.202,centrifuge,plate 4,6000g          15min C1 Solid,MagAttract PowerSoil,,,alexis.cent.202,B1,5.221357993,6000g,15min,Solid,,,
+alexis.cent.203,centrifuge,plate 4,6000g          15min C2 Solid,MagAttract PowerSoil,,,alexis.cent.203,B2,6.027055555,6000g,15min,Solid,,,
+alexis.cent.204,centrifuge,plate 4,6000g          15min C3 Solid,MagAttract PowerSoil,,,alexis.cent.204,B3,5.639127099,6000g,15min,Solid,,,
+alexis.cent.205,centrifuge,plate 4,FM      05/22/2017 B1 Solid,MagAttract PowerSoil,,,alexis.cent.205,B4,2.610301081,FM,5/22/17,Solid,,,
+alexis.cent.206,centrifuge,plate 4,FM      05/22/2017 B2 Solid,MagAttract PowerSoil,,,alexis.cent.206,B5,3.450812735,FM,5/22/17,Solid,,,
+alexis.cent.207,centrifuge,plate 4,FM      05/22/2017 B3 Solid,MagAttract PowerSoil,,,alexis.cent.207,B6,3.430918968,FM,5/22/17,Solid,,,
+alexis.cent.208,centrifuge,plate 4,FM    06/26/2017 D1 Solid,MagAttract PowerSoil,,,alexis.cent.208,B7,1.113295118,FM,6/26/17,Solid,,,
+alexis.cent.209,centrifuge,plate 4,FM    06/26/2017 D2 Solid,MagAttract PowerSoil,,,alexis.cent.209,B8,1.138162327,FM,6/26/17,Solid,,,
+alexis.cent.210,centrifuge,plate 4,FM    06/26/2017 D3 Solid,MagAttract PowerSoil,,,alexis.cent.210,B9,1.128215444,FM,6/26/17,Solid,,,
+alexis.cent.211,centrifuge,plate 4,6000g          15min D1 Solid,MagAttract PowerSoil,,,alexis.cent.211,C1,5.574472357,6000g,15min,Solid,,,
+alexis.cent.212,centrifuge,plate 4,6000g          15min D2 Solid,MagAttract PowerSoil,,,alexis.cent.212,C2,6.196152574,6000g,15min,Solid,,,
+alexis.cent.213,centrifuge,plate 4,6000g          15min D3 Solid,MagAttract PowerSoil,,,alexis.cent.213,C3,5.838064769,6000g,15min,Solid,,,
+alexis.cent.214,centrifuge,plate 4,FM      05/22/2017 C1 Solid,MagAttract PowerSoil,,,alexis.cent.214,C4,3.052937396,FM,5/22/17,Solid,,,
+alexis.cent.215,centrifuge,plate 4,FM      05/22/2017 C2 Solid,MagAttract PowerSoil,,,alexis.cent.215,C5,3.32150325,FM,5/22/17,Solid,,,
+alexis.cent.216,centrifuge,plate 4,FM      05/22/2017 C3 Solid,MagAttract PowerSoil,,,alexis.cent.216,C6,3.256848507,FM,5/22/17,Solid,,,
+alexis.cent.217,centrifuge,plate 4,2000g         60min B1 Solid,MagAttract PowerSoil,,,alexis.cent.217,D1,4.778721679,2000g,60min,Solid,,,
+alexis.cent.218,centrifuge,plate 4,2000g         60min B2 Solid,MagAttract PowerSoil,,,alexis.cent.218,D2,4.624544985,2000g,60min,Solid,,,
+alexis.cent.219,centrifuge,plate 4,2000g         60min B3 Solid,MagAttract PowerSoil,,,alexis.cent.219,D3,4.331111922,2000g,60min,Solid,,,
+alexis.cent.220,centrifuge,plate 4,FM      05/22/2017 D1 Solid,MagAttract PowerSoil,,,alexis.cent.220,D4,3.227007857,FM,5/22/17,Solid,,,
+alexis.cent.221,centrifuge,plate 4,FM      05/22/2017 D2 Solid,MagAttract PowerSoil,,,alexis.cent.221,D5,3.12256558,FM,5/22/17,Solid,,,
+alexis.cent.222,centrifuge,plate 4,FM      05/22/2017 D3 Solid,MagAttract PowerSoil,,,alexis.cent.222,D6,2.973362328,FM,5/22/17,Solid,,,
+alexis.cent.223,centrifuge,plate 4,2000g          60min C1 Solid,MagAttract PowerSoil,,,alexis.cent.223,E1,5.191517343,2000g,60min,Solid,,,
+alexis.cent.224,centrifuge,plate 4,2000g          60min C2 Solid,MagAttract PowerSoil,,,alexis.cent.224,E2,5.649073983,2000g,60min,Solid,,,
+alexis.cent.225,centrifuge,plate 4,2000g          60min C3 Solid,MagAttract PowerSoil,,,alexis.cent.225,E3,7.031690785,2000g,60min,Solid,,,
+alexis.cent.226,centrifuge,plate 4,FM  05/18/2017 B1 Solid,MagAttract PowerSoil,,,alexis.cent.226,E4,1.023773167,FM,5/18/17,Solid,,,
+alexis.cent.227,centrifuge,plate 4,FM  05/18/2018 B2 Solid,MagAttract PowerSoil,,,alexis.cent.227,E5,1.207790511,FM,5/18/17,Solid,,,
+alexis.cent.228,centrifuge,plate 4,FM  05/18/2019 B3 Solid,MagAttract PowerSoil,,,alexis.cent.228,E6,1.093401352,FM,5/18/17,Solid,,,
+alexis.cent.229,centrifuge,plate 4,2000g          60min D1 Solid,MagAttract PowerSoil,,,alexis.cent.229,F1,6.15636504,2000g,60min,Solid,,,
+alexis.cent.230,centrifuge,plate 4,2000g          60min D2 Solid,MagAttract PowerSoil,,,alexis.cent.230,F2,4.932898372,2000g,60min,Solid,,,
+alexis.cent.231,centrifuge,plate 4,2000g          60min D3 Solid,MagAttract PowerSoil,,,alexis.cent.231,F3,5.683888075,2000g,60min,Solid,,,
+alexis.cent.232,centrifuge,plate 4,FM  05/18/2017 C1 Solid,MagAttract PowerSoil,,,alexis.cent.232,F4,1.764815986,FM,5/18/17,Solid,,,
+alexis.cent.233,centrifuge,plate 4,FM  05/18/2018 C2 Solid,MagAttract PowerSoil,,,alexis.cent.233,F5,2.073169374,FM,5/18/17,Solid,,,
+alexis.cent.234,centrifuge,plate 4,FM  05/18/2019 C3 Solid,MagAttract PowerSoil,,,alexis.cent.234,F6,1.625559617,FM,5/18/17,Solid,,,
+alexis.cent.235,centrifuge,plate 4,FM      05/16/2017 B1 Solid,MagAttract PowerSoil,,,alexis.cent.235,G1,3.231981298,FM,5/16/17,Solid,,,
+alexis.cent.236,centrifuge,plate 4,FM      05/16/2017 B2 Solid,MagAttract PowerSoil,,,alexis.cent.236,G2,2.421310295,FM,5/16/17,Solid,,,
+alexis.cent.237,centrifuge,plate 4,FM      05/16/2017 B3 Solid,MagAttract PowerSoil,,,alexis.cent.237,G3,2.789344984,FM,5/16/17,Solid,,,
+alexis.cent.238,centrifuge,plate 4,FM     05/18/2017 D1 Solid,MagAttract PowerSoil,,,alexis.cent.238,G4,1.436568831,FM,5/18/17,Solid,,,
+alexis.cent.239,centrifuge,plate 4,FM     05/18/2017 D2 Solid,MagAttract PowerSoil,,,alexis.cent.239,G5,2.858973168,FM,5/18/17,Solid,,,
+alexis.cent.240,centrifuge,plate 4,FM     05/18/2017 D3 Solid,MagAttract PowerSoil,,,alexis.cent.240,G6,2.386496203,FM,5/18/17,Solid,,,
+alexis.cent.241,centrifuge,plate 4,FM      05/16/2017 C1 Solid,MagAttract PowerSoil,,,alexis.cent.241,H1,2.908707586,FM,5/16/17,Solid,,,
+alexis.cent.242,centrifuge,plate 4,FM      05/16/2017 C2 Solid,MagAttract PowerSoil,,,alexis.cent.242,H2,2.963415445,FM,5/16/17,Solid,,,
+alexis.cent.243,centrifuge,plate 4,FM      05/16/2017 C3 Solid,MagAttract PowerSoil,,,alexis.cent.243,H3,2.829132518,FM,5/16/17,Solid,,,
+alexis.cent.244,centrifuge,plate 4,FM    06/26/2017 B1 Solid,MagAttract PowerSoil,,,alexis.cent.244,H4,1.476356365,FM,6/26/17,Solid,,,
+alexis.cent.245,centrifuge,plate 4,FM    06/26/2017 B2 Solid,MagAttract PowerSoil,,,alexis.cent.245,H5,1.307259346,FM,6/26/17,Solid,,,
+alexis.cent.246,centrifuge,plate 4,FM    06/26/2017 B3 Solid,MagAttract PowerSoil,,,alexis.cent.246,H6,1.421648506,FM,6/26/17,Solid,,,
+AD_170206_C1,AnaerobicDigestion,,,,170206,57C,,,,,,,C1,,115
+AD_170206_C2,AnaerobicDigestion,,,,170206,57C,,,,,,,C2,,115
+AD_170206_C3,AnaerobicDigestion,,,,170206,57C,,,,,,,C3,,115
+PS_170220_A1,TwoPhase,,,,170220,Non-Manure-added,,,,,,,A1,,129
+PS_170220_A2,TwoPhase,,,,170220,Non-Manure-added,,,,,,,A2,,129
+PS_170220_A3,TwoPhase,,,,170220,Non-Manure-added,,,,,,,A3,,129
+PS_170220_B1,TwoPhase,,,,170220,Manure-added,,,,,,,B1,,129
+PS_170220_B2,TwoPhase,,,,170220,Manure-added,,,,,,,B2,,129
+PS_170220_B3,TwoPhase,,,,170220,Manure-added,,,,,,,B3,,129
+ntc5,NTC,,,,,,,,,,,,,,
+16st1e8,standard,,,,,,,,,,,,,100000000,
+16st1e7,standard,,,,,,,,,,,,,10000000,
+16st1e6,standard,,,,,,,,,,,,,1000000,
+16st1e5,standard,,,,,,,,,,,,,100000,
+16st1e4,standard,,,,,,,,,,,,,10000,
+16st1e3,standard,,,,,,,,,,,,,1000,
+16st1e2,standard,,,,,,,,,,,,,100,
+ntc1,NTC,,,,,,,,,,,,,0,
+ermbst1e8,standard,,,,,,,,,,,,,100000000,
+ermbst1e7,standard,,,,,,,,,,,,,10000000,
+ermbst1e6,standard,,,,,,,,,,,,,1000000,
+ermbst1e5,standard,,,,,,,,,,,,,100000,
+ermbst1e4,standard,,,,,,,,,,,,,10000,
+ermbst1e3,standard,,,,,,,,,,,,,1000,
+ermbst1e2,standard,,,,,,,,,,,,,100,
+ntc2,NTC,,,,,,,,,,,,,0,
+ermfst1e8,standard,,,,,,,,,,,,,100000000,
+ermfst1e7,standard,,,,,,,,,,,,,10000000,
+ermfst1e6,standard,,,,,,,,,,,,,1000000,
+ermfst1e5,standard,,,,,,,,,,,,,100000,
+ermfst1e4,standard,,,,,,,,,,,,,10000,
+ermfst1e3,standard,,,,,,,,,,,,,1000,
+ermfst1e2,standard,,,,,,,,,,,,,100,
+ntc3,NTC,,,,,,,,,,,,,0,
+tetmst1e8,standard,,,,,,,,,,,,,100000000,
+tetmst1e7,standard,,,,,,,,,,,,,10000000,
+tetmst1e6,standard,,,,,,,,,,,,,1000000,
+tetmst1e5,standard,,,,,,,,,,,,,100000,
+tetmst1e4,standard,,,,,,,,,,,,,10000,
+tetmst1e3,standard,,,,,,,,,,,,,1000,
+tetmst1e2,standard,,,,,,,,,,,,,100,
+ntc4,NTC,,,,,,,,,,,,,0,
