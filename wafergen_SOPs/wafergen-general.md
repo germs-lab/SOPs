@@ -20,9 +20,8 @@ Authors:  Lanying Ma, Adina Howe
 
 [Please add]
 
-3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/Wafergen.md). 
+3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer [here]（https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md）
 
-[I dont think this link is right, let's keep the protocol for plate design in another document is my suggestion, I created one]
 
 4.In the Box folder, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel.  The exact same in every way.
 
