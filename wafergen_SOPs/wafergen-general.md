@@ -73,8 +73,8 @@ Based on your concentrations, you will need to in a 96-well plate, normalize cDN
 
 [This section below needs more details, a direct link to the file]
 
-8.	Now Sylvia is tired of printing out the intramural for us.  I have put this excel file in the BoX too. Change the date and print out two copies and bring them to her so she can sign. The name is "DNA_Sample_Intramural.xls"
-* [Can you please edit this to the correct proceudure]  "Bring your parcel with grant account number to Sylvia, ask her to print out the intramural for shipping parcel for Fedex." Now we dont do it.  do it ourself but let Sylvia sign.
+8 . Print out the intramural, which is under the GERMS_wafergen. The name is "DNA_Sample_Intramural.xls". You will need to change the date to be on the way you print; and fill in the account number to cover the shipping expense. For now, we all use Adina's Startup account so you dont need to change it until Adina asks it to.  Print out two copies and bring them to Sylvia to sign.
+
 
 9.	Go to Chemistry Store to get the dry ice in parcel. [How much?]
 
