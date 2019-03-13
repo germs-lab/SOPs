@@ -73,18 +73,21 @@ Based on your concentrations, you will need to in a 96-well plate, normalize cDN
 
 [This section below needs more details, a direct link to the file]
 
-8 . Print out the intramural, which is under the GERMS_wafergen. The name is "DNA_Sample_Intramural.xls". You will need to change the date to be on the way you print; and fill in the account number to cover the shipping expense. For now, we all use Adina's Startup account so you dont need to change it until Adina asks it to.  Print out two copies and bring them to Sylvia to sign.
+8. Buy dry ice, make a order online in Accessplus --> CyBuy--> Chemistry store. You can put 10 lbs in the order and he will fill the box and charge you with the actuall amount. 
+
+9. Print out the intramural, which is in Box --> GERMS_wafergen. The file is:https://iastate.app.box.com/file/420283720596 . You will need to change the date to be on the day you print; and fill in the account number to cover the shipping expense. For now, we all use Adina's Startup account so you dont need to change it until Adina asks not to use that account for this purpose.  Print out two copies and bring them to Sylvia to sign. Leave one copy to Sylvia and bring one copy with you to "Postal & Parcel Services".
+https://github.com/germs-lab/SOPs/blob/master/images/intramural_for_sending_parcel.jpg
 
 
-9.	Go to Chemistry Store to get the dry ice in parcel. [How much?]
+10.	Go to Chemistry Store to get the dry ice in parcel. 
 
-10.	Go to “Postal & Parcel Servies” in General Business Building to send out parcels.
-*	They only send out hazardous materials on Monday, Wednesday and Thursday every week.  Make sure you don’t miss these days.
+11.	Go to “Postal & Parcel Servies” in General Business Building to send out parcels.
+*	They only send out hazardous materials on Monday, Wednesday and Thursday every week.  Make sure you don’t miss these days. For FEDex air, they dont pick up parcels until 4pm. Make sure you deliver the parcel there by 4pm.
 *	It is better to send parcel to Wafergen at the beginning of week as they don’t work at weekend.  
 
 ## After run, manage your data!
 
-1.  Place the raw data downloaded from MSU into the folder you created above.  Rename that file rawdata_yourname_date_of_the_run.
+1.  Place the raw data downloaded from MSU into the folder called "Runs" in GERMS-Wafergen in Box.  Rename that file rawdata_yourname_date_of_the_run. In this "Runs", there are folders to indicate each run. There are should be your primer file, the layout you sent to you Christi, your metadata file and your results. 
 
 ## Data Analysis
 
