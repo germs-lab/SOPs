@@ -14,18 +14,20 @@ Authors:  Lanying Ma, Adina Howe
 
 1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
 
-[Please add screenshot]
+![meta_wafergen](https://github.com/germs-lab/SOPs/blob/master/images/Meta_wafergen_MLY.jpg)
 
 2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.  An exampe is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv), with a screenshot shown here.
 
-[Please add]
+
 
 3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer [here]（https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md）
 
 
 4.In the Box folder, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel.  The exact same in every way.
 
-5. Make a folder in the Box Drive Folder - GERMS-Wafergen, [link](https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g) to place the three files above in.  Name that folder as wafergen_yourname_date.
+5. Make a folder in the Box Drive Folder - GERMS-Wafergen--> Runs, [link](https://iastate.box.com/s/g0tt6382aagmd3eut4at2bgljhipi53g) to place the three files above in.  Name that folder as wafergen_yourname_date.  The following picture is the example to show all the files which you need to put into the folder for your own run. "rawdata**.txt" is after you get the results.
+![wafergen_files](https://github.com/germs-lab/SOPs/blob/master/images/wafergen_files.jpg)
+* in this "Runs" folder, Jin has put a folder for each run which happened before 20190313. Please go ahead put all these files in the above image in your own folder.
 
 
 ## Notes before you start:
