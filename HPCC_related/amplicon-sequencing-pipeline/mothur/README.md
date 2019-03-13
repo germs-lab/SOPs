@@ -40,3 +40,10 @@ sbatch mothur.sb
 
 #### Other tips
 Mothur does not like underscore ('_') in the folder name
+
+#### Mothur is already installed in HPC, but in case you want to know how to install,
+Version 1.39.5 is in /mnt/research/germs/softwares/mothur/mothur1.39.5/mothur
+```
+wget https://github.com/mothur/mothur/releases/download/v1.39.5/Mothur.linux_64_static.zip
+unzip Mothur.linux_64_static.zip
+```
