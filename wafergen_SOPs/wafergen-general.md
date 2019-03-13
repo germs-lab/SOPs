@@ -72,15 +72,15 @@ Based on your concentrations, you will need to in a 96-well plate, normalize cDN
 ![MasterMIxForWafergen](https://github.com/germs-lab/SOPs/blob/master/images/MasterMix_wafergen.jpg)
 
 #### shipping parcel out with samples, primers and master mix.
-To send DNA out, we normally add dry ice to ship along. Refer [here]https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
+To send DNA out, we normally add dry ice to ship along, catagorized as hazardous shipping.  Refer [here]https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
 
 ## After run, manage your data!
 
-1.  Place the raw data downloaded from MSU into the folder called "Runs" in GERMS-Wafergen in Box.  Rename that file rawdata_yourname_date_of_the_run. In this "Runs", there are folders to indicate each run. There are should be your primer file, the layout you sent to you Christi, your metadata file and your results. 
+1.  Place the raw data downloaded from MSU into the folder called "Runs". Box--> GERMS-Wafergen --> Runs.  Rename .text file rawdata_yourname_date_of_the_run. In this "Runs", there are folders to indicate each run done by 20190312.  There are should be your primer file, the layout you sent to you Christi, your metadata file and your results. I have include examples above.
 
 ## Data Analysis
 
-[include link to Jin's new awesome SOP]
+ 2.  Jin has a wafergen related R code [here](https://github.com/germs-lab/wafergen). A specific SOP on how to analyze data with ermB, ermF, tetM and 16s as standards. [here](https://github.com/germs-lab/wafergen/blob/master/Rscript_for_wafergen.R)
 
 You will have txt file after data back from MSU. Use Rscript_for_wafergen.R for analyzing data. You will need 1) txt formatted data file 2) meta data for samples 3) meta for standard. Then use R to run
 
