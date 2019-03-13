@@ -77,7 +77,7 @@ Based on your concentrations, you will need to in a 96-well plate, normalize cDN
 
 9. Print out the intramural, which is in Box --> GERMS_wafergen. The file is:https://iastate.app.box.com/file/420283720596 . You will need to change the date to be on the day you print; and fill in the account number to cover the shipping expense. For now, we all use Adina's Startup account so you dont need to change it until Adina asks not to use that account for this purpose.  Print out two copies and bring them to Sylvia to sign. Leave one copy to Sylvia and bring one copy with you to "Postal & Parcel Services".
 
-![Intramural to send parcel](https://github.com/germs-lab/SOPs/blob/master/images/intramural_for_sending_parcel.pdf)
+![Intramural to send parcel](https://github.com/germs-lab/SOPs/blob/master/images/intramural_for_sending_parcel.jpg)
 
 
 10.	Go to Chemistry Store to get the dry ice in parcel. 
