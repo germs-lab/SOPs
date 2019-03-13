@@ -52,24 +52,24 @@ You need to quantify the concentration of DNA in each of your samples.  The dire
 
 ### Preparation of Sample DNA Plate
 Based on your concentrations, you will need to in a 96-well plate, normalize cDNA at 4-6ng/ul. For your informationm, the final reaction concentration will be 1 - 1.5ng/ul on the SmartChip. Not at all samples can be normalized to 4-6 ng/uL, so if you do not have enough DNA, you may ask for suggestions, but typically we've seen positive results for as low as 1 ng/uL but negative results for over 20 ng/uL.
-*       For these primers which we have standards for, for now, 16s, ermB, ermF, tetM (these standards are in the Freezer F, Jin's rack, labelled as "Wafergen"). Please make the concentration of cDNA standards to be 1um as required.  The way to make them:  the original synthetic primers are 100um. Add 10ul water to be 10 um (this step is most likely done; if you get synthesize cDNAs from company, then do this step)Then dilute them to be 1um as you needed taking into account of your needed volumn too.
-*       For the standards, The synthetic DNA standards have mass on the tubes, first make it to be 10 ng/ul, then dilute it to be 1ng/ul. From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards.
-*  if you include the standards in, the total number of samples will include your own experiment samples with the 8 dilutions of each standards ( 8X4=32)
+* For these primers which we have standards for, for now, 16s, ermB, ermF, tetM (these standards are in the Freezer F, Jin's rack, labelled as "Wafergen"). Please make the concentration of cDNA standards to be 1um as required.  The way to make them:  the original synthetic primers are 100um. Add 10ul water to be 10 um (this step is most likely done; if you get synthesize cDNAs from company, then do this step)Then dilute them to be 1um as you needed taking into account of your needed volumn too.
+* For the standards, The synthetic DNA standards have mass on the tubes, first make it to be 10 ng/ul, then dilute it to be 1ng/ul. From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards.
+* if you include the standards in, the total number of samples will include your own experiment samples with the 8 dilutions of each standards ( 8X4=32)
 
 ### Preparation fo Primer DNA Plate
 [This section needs more details, please, its not clear to me.  I can help let's do it together if you need some more suggestions][What do you think now]
 
 *  We have 8 plates of ARGs primer sets (Bob Primers).  The spreadsheet of these primers is [here](https://github.com/germs-lab/wafergen/blob/master/bob_primer_plate.clean.tsv). There are two sets of these primers sets. One set is 100uM and these are the original plates we get from company.  The other set is by 10 fold dilution, also labelled as "working". You need to use this set with 10uM concentration. They are in Freezer F, 2nd compartment counting from bottom, in Jaejin's rack.
 ![Bob_primers_100uM](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_100uM.jpg)
-1[Bob_primer_10umMWorking](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_10uMWorking.jpg)
+![Bob_primer_10umMWorking](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_10uMWorking.jpg)
 
 * If you only need to fill in 12 priimer sets into plate, i recommend you to do it mannually; if you'd like to do it by Robot, the protocol to prepare the Robot file is [here](https://github.com/germs-lab/wafergen/blob/master/SOP_prepare_primer_plate_for_wafergen.md)
-*       There is a paper in the box of primer sets where 16s primers in. Please write down the date of use and remaining volume.  As 16s primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
+* There is a paper in the box of primer sets where 16s primers in. Please write down the date of use and remaining volume.  As 16s primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
 
 
 ### Preparation of Master Mix
 6.	You will need to send the Master Mix if Christi need more, the DNA sample plates, and the Assay plate on dry ice.  The best way to seal the plate is with 8-strip caps. This seals the well individually so there should be no contamination between samples. The image of Master Mix we use is as following:
-1[MasterMIxForWafergen](https://github.com/germs-lab/SOPs/blob/master/images/MasterMix_wafergen.jpg)
+![MasterMIxForWafergen](https://github.com/germs-lab/SOPs/blob/master/images/MasterMix_wafergen.jpg)
 
 #### shipping parcel out with samples, primers and master mix.
 To send DNA out, we normally add dry ice to ship along. Refer [here]https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
