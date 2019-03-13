@@ -67,6 +67,7 @@ Assays | Samples
 *	NO, it will not work if you want to put more volume to make up for low concentration of DNA.  Please give them the volume which they have asked you.
 
 4.	Fill out the layout to indicate the samples and primers.
+
 5.	Prepare sample plates and primer set plate. 
 *	The initial concentration of primer sets is 100 uM and we have diluted primer sets to be 10 uM.  Use this 10 uM primer sets as the concentration for Wafergen use is normally 1 uM.((these primers are those which we don’t have standards for)) 
 *	We have 8 plates of ARGs primer sets.  If you don’t have the spreadsheet of these primers, please talk to Lanying.
@@ -76,7 +77,8 @@ Assays | Samples
 *	For the standards, The synthetic DNA standards have mass on the tubes, first make it to be 10 ng/ul, then dilute it to be 1ng/ul. From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards. 
 
 
-6.	You will need to send the Master Mix you want them to use, the DNA sample plates, and the Assay plate on dry ice.  The best way to seal the plate is with 8-strip caps. This seals the well individually so there should be no contamination between samples. 
+6.	You will need to send the Master Mix you want them to use, the DNA sample plates, and the Assay plate on dry ice.  The best way to seal the plate is with 8-strip caps. This seals the well individually so there should be no contamination between samples.
+
 7.	 To send out samples with dry ice, it is categorized as Hazardous Material Shipping, which is under strict regulation.  Please follow the next several steps.
 *	Go to Hazardous Materials Shipping in Environment Health and Safety. https://www.ehs.iastate.edu/hazmat-ship
 *	Click “online submission system” to go https://shipping.ehs.iastate.edu/user-index
@@ -87,10 +89,13 @@ Assays | Samples
     * This step is better to be done at least a day before your desired shipping date.
 *	Go to AccessPlus then go Chemistry Store online, buy the dry ice.
 
+[This section below needs more details, a direct link to the file]
 
 8.	Now Sylvia is tired of printing out the intramural for us.  I have put this excel file in the BoX too. Change the date and print out two copies and bring them to her so she can sign. The name is "DNA_Sample_Intramural.xls"
-* "Bring your parcel with grant account number to Sylvia, ask her to print out the intramural for shipping parcel for Fedex." Now we dont do it.  do it ourself but let Sylvia sign.
-9.	Go to Chemistry Store to get the dry ice in parcel.
+* [Can you please edit this to the correct proceudure]  "Bring your parcel with grant account number to Sylvia, ask her to print out the intramural for shipping parcel for Fedex." Now we dont do it.  do it ourself but let Sylvia sign.
+
+9.	Go to Chemistry Store to get the dry ice in parcel. [How much?]
+
 10.	Go to “Postal & Parcel Servies” in General Business Building to send out parcels.
 *	They only send out hazardous materials on Monday, Wednesday and Thursday every week.  Make sure you don’t miss these days.
 *	It is better to send parcel to Wafergen at the beginning of week as they don’t work at weekend.  
