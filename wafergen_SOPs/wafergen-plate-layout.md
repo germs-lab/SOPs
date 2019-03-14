@@ -36,7 +36,7 @@ Assays | Samples
 
   ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
   
-*  you could see from above that, you will need to send 10ul Samples in each well and 50 ul of Assays in each well.
+*  you could see from above that, you will need to send 10ul of each Sample in each well and 50 ul of each Assay in each well.
 
 2.  After you have decided the number of assays and/or the number of samples, you need to contact our service for Wafergen.  Our contact is Christi Harris, hemmingc@msu.edu, who takes charge of Wafergen in MSU.  *Note you should send samples only on Monday to Wednesday to ensure safe arrival at MSU.
 
