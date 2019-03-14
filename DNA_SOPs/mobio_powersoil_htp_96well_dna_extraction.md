@@ -82,9 +82,11 @@ machine body is now furthest from the machine body and shake again at speed 20 f
 - [ ] 12. Transfer the supernatant (~700µl) to the C2 filled 1 ml Collection Plate from step 10.    
     + use 8 channel 300µl multichannel pipetteman. 
     + Transfer 175µl at a time, total 4 times. Use the tip ledges as guide. The fourth transfer can be done like shown below
+
 <p align="center">
   <img src="/images/pipettetip_position_200microl_2.JPG" alt="positioning" width="400" /> 
 </p>
+
     + Pipette up and down to mix during the 4th transfer.     
     + The supernatant may still contain some soil particles.  
     + change pipette tips between columns. use 96 tips.        
