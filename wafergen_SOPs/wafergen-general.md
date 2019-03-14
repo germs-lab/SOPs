@@ -12,15 +12,13 @@ Authors:  Lanying Ma, Adina Howe
 
 ## Before submission of samples to MSU
 
-1. Create a file of metadata for your samples.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
+1. Create a file of metadata for your samples.  This data contains a description of your samples and experiment.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
 
 ![meta_wafergen](https://github.com/germs-lab/SOPs/blob/master/images/Meta_wafergen_MLY.jpg)
 
-2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.  An exampe is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv), with a screenshot shown here.
+2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.  An exampe is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv).
 
-
-
-3. Design your plate layout. Name this file layout_yourname_date. Lanying has wrote a SOP on how to design your plate layout with other logistics.  Please refer [here]（https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md）
+3. Design your plate layout. Name this file layout_yourname_date. We have a SOP on how to design your plate layout.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md）
 
 
 4.In the Box folder, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel.  The exact same in every way.
