@@ -18,6 +18,9 @@ email: jflater@gmail.com
 
   We are looking into the bacterial community composition of soil, an important component of ecological systems. We will target the bacterial marker gene (16S r RNA) within the environmental DNA sample that we will extract with PowerSoil kits (Mo Bio). Because of the slow rates of evolution of this region of the gene, we can use them to reconstruct a phylogeny of our samples.  
 
+NOTE:  This is for the manual high throughput extraction, not our robot extraction.  We need to fix this to include the right kit for the robot.
+
+
 #PPE
   1. Gloves
   2. Eye protection
