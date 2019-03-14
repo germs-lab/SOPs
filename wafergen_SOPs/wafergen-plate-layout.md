@@ -7,16 +7,12 @@ Authors:  Lanying Ma, Adina Howe
 - You have created and saved your metadata
 - You have created and saved your primers
 - You know you have X primer probes and Y samples
+- Assay: primer sets.  The # of assays equals to (# of primer sets = # of targeted genes)* (# of replicates).
+- Samples: will include standards (if you have any) in serial dilutions + negative controls + non-template control + your samples 
 
 ## Protocol
-1.	 Each assay is 1 probe and 1 sample.  Based on the number of assays (the number of your probes, samples, replicates) you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates for one sample, it makes 12 essays).  Note the MSU assays / samples here refer to probes / samples and that samples are total number of samples, including standards and replicates.
+1.	 Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates for one sample, it makes 12 assays).  Note the MSU Assays / Samples here refer to probes / samples.  
 
-[Lanying, I'm not sure what this means down here.  Can you clarify for me?]
-*   For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
-*   Use 12 assays X 384 samples layout as an example:
-
-  ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
-  
 Assays | Samples
 ----- | -----
 12 | 384
@@ -33,6 +29,14 @@ Assays | Samples
 248 | 20
 296 | 16
 384 | 12
+
+[Lanying, I'm not sure what this means down here.  Can you clarify for me?] [what i mean is in each layout, Christi clearly says the volume of samples and volume of Assays. in the following 12A_384A, she needs 10ul of samples, and 50ul of assays]
+*   For each layout, the volume of sample and volume of each assay could be different.  Please refer to the layout you use to give her exact volume of Assays and Samples.
+*   Use 12 assays X 384 samples layout as an example:
+
+  ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
+  
+*  you could see from above that, you will need to send 10ul Samples in each well and 50 ul of Assays in each well.
 
 2.  After you have decided the number of assays and/or the number of samples, you need to contact our service for Wafergen.  Our contact is Christi Harris, hemmingc@msu.edu, who takes charge of Wafergen in MSU.  *Note you should send samples only on Monday to Wednesday to ensure safe arrival at MSU.
 
