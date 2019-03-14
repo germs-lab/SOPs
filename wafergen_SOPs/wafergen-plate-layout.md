@@ -1,6 +1,22 @@
+# Wafergen Plate Layout SOP
 
-1.	 The first and crucial step is to decide how many primer sets or how many samples you will send for wafergen. You have to know at least one of these two for sure, as you have to stick to certain layouts.  Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates, it makes 12 essays)
+Authors:  Lanying Ma, Adina Howe
 
+## Requirements
+- You should be done with #1 and #2 on the general Wafergen [SOP](https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-general.md)
+- You have created and saved your metadata
+- You have created and saved your primers
+- You know you have X primer probes and Y samples
+
+## Protocol
+1.	 Each assay is 1 probe and 1 sample.  Based on the number of assays (the number of your probes, samples, replicates) you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates for one sample, it makes 12 essays).  Note the MSU assays / samples here refer to probes / samples and that samples are total number of samples, including standards and replicates.
+
+[Lanying, I'm not sure what this means down here.  Can you clarify for me?]
+*   For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
+*   Use 12 assays X 384 samples layout as an example:
+
+  ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
+  
 Assays | Samples
 ----- | -----
 12 | 384
@@ -18,16 +34,13 @@ Assays | Samples
 296 | 16
 384 | 12
 
-2.  After you have decided the number of assays and/or the number of samples, contact Christi Harris, who takes charge of wafergen in MSU.fill out the layouts you will use
-* The email address is: hemmingc@msu.edu 
-* In the layout, there is information of sample volume and volume of each primer set.
-* You always can email her with:
-    *  A) The estimate time to send her samples and primers: to let her know that there are samples to come to scheudle the run
-    *   B) Does she have enough SYBR master mix? if yes, you dont need to send along with your samples; if not, send one pack
-    
+2.  After you have decided the number of assays and/or the number of samples, you need to contact our service for Wafergen.  Our contact is Christi Harris, hemmingc@msu.edu, who takes charge of Wafergen in MSU.  *Note you should send samples only on Monday to Wednesday to ensure safe arrival at MSU.
 
-*   For each layout, the volume of sample and volume of each primer set are different.  Please refer to the layout she sends you based on your experiment. 
-*   Use 12 assays X 384 samples layout as an example:
+Dear Christi,
 
-  ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
-  
+My name is ____, and I am working with Adina Howe at ISU.  I am interested in running a Wafergen adn writing to ask if you would be willing to do our analysis.  I am sending you a layout of my proposed plate, with ____ assays and ____ samples.  I am hoping to send my samples on ______, would this be OK with you?  Also, I wanted to ask if you would like me to send along some SYBR master mix, in case you are out from our group's allotment.
+
+Thank you,
+_______
+[your email]
+
