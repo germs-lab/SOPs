@@ -1,4 +1,4 @@
-## MagAttract PowerSoil DNA EP Kit
+## MagAttract PowerSoil DNA EP Kit - ROBOT
 * Catalog No. 27100-4-EP
 * Modified by: lanying Ma
 ## Before Starting
