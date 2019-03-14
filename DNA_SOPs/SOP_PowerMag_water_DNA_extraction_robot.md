@@ -1,4 +1,4 @@
-## PowerMag Water DNA isolation protocol
+## PowerMag Water DNA extraction protocol for Robot
 * Catalog No. 27800-4-EP
 * Modified by: lanying Ma
 
