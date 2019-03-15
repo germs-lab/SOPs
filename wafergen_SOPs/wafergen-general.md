@@ -4,6 +4,7 @@ Authors:  Lanying Ma, Adina Howe
 
 ## Requirements
 - Basic knowledge of qPCR. You should know what the basic steps of PCR are, the reagants involved in PCR, the meaning of CT and how it is calculated, what a standard curve is, and efficiency and its relationship to PCR.  We recommend this [resource](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5279.pdf), and there is a lot on the google-webs about PCR.  Before you ask us questions, please have due diligence in finding the information.
+- You should be familiar with all the reagants that are involved in a qPCR.
 - Probe selection and number of primers desired
 - Samples - the specific number of samples you want to target for genes in question
 - Number of technical replicates desired
@@ -12,18 +13,17 @@ Authors:  Lanying Ma, Adina Howe
 
 ## Before submission of samples to MSU
 
-1. Create a file of metadata for your samples.  This data contains a description of your samples and experiment.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
+1. You will be creating some data management files and storing them in our Box drive for Wafergen.  It is important that you follow our naming conventions as you create these files.  The link to the folder containing these files is [here](https://iastate.app.box.com/folder/69922945782).  Within that folder, you will create a new folder and name it:  wafergen-yourname-date.  Next, place the following described files within that folder
+
+2. Create a file of metadata for your samples.  This data contains a description of your samples and experiment.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
 
 ![meta_wafergen](https://github.com/germs-lab/SOPs/blob/master/images/Meta_wafergen_MLY.jpg)
 
-2. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv).
+3. Create a file of the primers used, and name it primers_yourname_date (e.g., primers_howe_190318) for Adina Howe's primers used on March 18, 2019.   Place a copy of the file in the Box.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_standard.csv).
 
-3. Design your plate layout. Name this file layout_yourname_date. We have a SOP on how to design your plate layout.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md).
+4. Design your plate layout. Name this file layout_yourname_date and place a copy in the Box. We have a SOP on how to design your plate layout.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md). 
 
-
-4.In the Box folder, there are excel files of layouts of wafergen.  [Link to layouts](https://iastate.app.box.com/folder/69923026206). 　The names are #S_#A, indicating the number of Samples wiht number of Assays.  After you have done step 2 and 3, you may use the corresponding excel file and fill out with your specific names of samples and primers.  The primer name must be the same as those in Bob's primer excel.  The exact same in every way.
-
-5. Make a folder in the Box Drive Folder - GERMS-Wafergen--> Runs, [link](https://iastate.app.box.com/folder/69922945782) to place the three files above in.  Name that folder as wafergen_yourname_date.  The following picture is the example to show all the files which you need to put into the folder for your own run. "rawdata**.txt" is after you get the results.
+The following picture is the example to show all the files which you need to put into the folder for your own run. "rawdata**.txt" is after you get the results.
 ![wafergen_files](https://github.com/germs-lab/SOPs/blob/master/images/wafergen_files.jpg)
 * in this "Runs" folder, Jin has put a folder for each run which happened before 20190313. Please go ahead put all these files in the above image in your own folder.
 * MLY*.elxs are my layouts which were sent to Christi
