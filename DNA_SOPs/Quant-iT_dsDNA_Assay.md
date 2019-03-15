@@ -20,7 +20,7 @@ For example, if we have 96 samples, plus two columns of standards, in total 112 
 
 * This step could only be done after your DNA samples are ready as the fluorescence will drop as time passes by.  It would be better you could add DNA in right after the working solution is loaded into wells.
 
-3.	Pour the working solution into a new reservoir [what is this?  a new container?, why?  or for the multihannel; it is just a container to be easier to transfer sample by multichannel].  Use multiple channel pipettes to load 200  ul to targeted wells. 
+3.	Pour the working solution into a new reservoir to be easier to transfer sample by multichannel.  Use multiple channel pipettes to load 200  ul to targeted wells. 
 
 4.	Add 10µl of each of the Quant-iT dsDNA HS standards to separate wells and mix well.
 5.	Add _5µl_ of each DNA samples to separate wells and mix well.
@@ -30,6 +30,7 @@ For example, if we have 96 samples, plus two columns of standards, in total 112 
     + 2nd-12th columns: samples from your sample plate 1st -11th  columns.  
     + The 1st column of right plate: the 12th column of your sample plate; 
     + the 2nd column of right plate: standards. 
+    
 * Here, I use 5µl of DNA samples for concentration measurement by this plate reader.  Jin and I have tried different standards and different samples and have shown that 5µl is suitable amount for accuracy and feasibility (not to waste too much of our samples). However, the amount of DNA samples added into working solution depends on the DNA concentrations of your samples.  That's why in the original protocol, they wrote down 1-20 l of samples
 * It is important to _mix well_ of each well. You could do the mixing step later after you add all your samples to working solution and pipette wells with multiple channel pipette. 
 
