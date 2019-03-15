@@ -11,7 +11,7 @@ Authors:  Lanying Ma, Adina Howe
 - Samples: will include standards (if you have any) in serial dilutions + negative controls + non-template control + your samples 
 
 ## Protocol
-1.	 Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are as follows: (eg. If you have 6 targeted gene with duplicates for one sample, it makes 12 assays).  Note the MSU Assays / Samples here refer to probes / samples.  
+1.	 Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are shown below.  Importantly, note that for communication to MSU:  assays are the mixture of a probe and sample.  For the purposes of layout design, you can consider the number of assays equivalent to your number of primers or probes.  You must pick one of the layouts below for the Smartchip.   For example, if you have 6 targeted gene probes and 1 sample with duplicates, you would have a total of 12 assays and 1 sample. [Lanying is this correct?] 
 
 Assays | Samples
 ----- | -----
@@ -30,7 +30,7 @@ Assays | Samples
 296 | 16
 384 | 12
 
-[Lanying, I'm not sure what this means down here.  Can you clarify for me?] [what i mean is in each layout, Christi clearly says the volume of samples and volume of Assays. in the following 12A_384A, she needs 10ul of samples, and 50ul of assays]
+Depending on your layout design, you will need to obtain the information on how much volume of samples and probes you will need to send MSU.  in the following 12A_384A, she needs 10ul of samples, and 50ul of assays]
 *   For each layout, the volume of sample and volume of each assay could be different.  Please refer to the layout you use to give her exact volume of Assays and Samples.
 *   Use 12 assays X 384 samples layout as an example:
 
