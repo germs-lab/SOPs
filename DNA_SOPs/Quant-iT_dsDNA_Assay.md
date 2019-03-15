@@ -2,7 +2,7 @@
 ## Measure the DNA concentration in 96-well-plate by Quant-iT TM dsDNA Assay Kit
 Author: Lanying Ma
 
--This SOP is based on Quant-iT dsDNA Assay Kit, High Sensitivity. Catalog Number Q33120
+This SOP is based on Quant-iT dsDNA Assay Kit, High Sensitivity. Catalog Number Q33120.  We use this assay for high throughput quantification of DNA concentration for sequencing and qPCR applications.
 
 ## Special Materials needed:
 The plate used for plate reader: Number is 165305 (Thermo)
@@ -10,10 +10,10 @@ Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Steril
 
 ## Notes before you start:
 * As the plate reader is in Biorenewable lab, it has to be signed up before use.  It would be better for you to plan the use ahead and email the postdoc who is in charge.  His name is Mingfeng Cao: mfcao@iastate.edu
-* Always wear lab coat and safety glasses to use this plate reader.
+* Always wear lab coat and safety glasses to use this plate reader.  It is a privilage that we are allowed to use this instrument so please help us continue to sharing this instrument.  
 
 ## Protocol:
-1.	  Equilibrate the assay components to room temperature.
+1.	  Equilibrate all assay components to room temperature.
 2.	  Prepare the working solution by diluting the Quant-iT dsDNA HS reagent 1:200 in Quant-iT dsDNA HS buffer. 
 *	Here we have 96 samples, plus two columns of standards, in total 112 wells. In each well, we will have 200µl working solution, plus 20% more. So we will need: (1+20%)X112X200=26,880µl.  We will make it even to be 26,000µl.  So, we need 130µl reagent to be in 25,870µl HS buffer to make this working solution. In 50 ml falcon tube, you could mix the reagent and buffer.
 * This step could only be done after your DNA samples are ready as the fluorescence will drop as time passes by.  It would be better you could add DNA in right after the working solution is loaded into wells.
