@@ -9,7 +9,7 @@ The plate used for plate reader: Number is 165305 (Thermo)
 Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Sterile PS.
 
 ## Notes before you start:
-* As the plate reader is in Biorenewable lab, it has to be signed up before use.  It would be better for you to plan the use ahead and email the postdoc who is in charge.  His name is Mingfeng Cao: mfcao@iastate.edu
+* As the plate reader is in Biorenewable lab, it has to be signed up before use.  It would be better for you to plan the use ahead and email the postdoc who is in charge.  The google sheet is to sign up for it: https://docs.google.com/spreadsheets/u/1/d/1ncDLb8JX7nBUYpeRIOBZAdRddo-Z1Ojrx37FU0aqGYQ/edit#gid=0; sign on the "Fluoresence one" tab. 
 * Always wear lab coat and safety glasses to use this plate reader.  It is a privilage that we are allowed to use this instrument so please help us continue to sharing this instrument.  
 
 ## Protocol:
@@ -20,7 +20,7 @@ For example, if we have 96 samples, plus two columns of standards, in total 112 
 
 * This step could only be done after your DNA samples are ready as the fluorescence will drop as time passes by.  It would be better you could add DNA in right after the working solution is loaded into wells.
 
-3.	Pour the working solution into a new reservoir [what is this?  a new container?, why?  or for the multihannel].  Use multiple channel pipettes to load 200  l to targeted wells. [typo????]
+3.	Pour the working solution into a new reservoir [what is this?  a new container?, why?  or for the multihannel; it is just a container to be easier to transfer sample by multichannel].  Use multiple channel pipettes to load 200  ul to targeted wells. 
 
 4.	Add 10µl of each of the Quant-iT dsDNA HS standards to separate wells and mix well.
 5.	Add _5µl_ of each DNA samples to separate wells and mix well.
