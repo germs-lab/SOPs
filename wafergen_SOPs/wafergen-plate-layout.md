@@ -30,9 +30,9 @@ Assays | Samples
 296 | 16
 384 | 12
 
-Depending on your layout design, you will need to obtain the information on how much volume of samples and probes you will need to send MSU.  in the following 12A_384A, she needs 10ul of samples, and 50ul of assays]
-*   For each layout, the volume of sample and volume of each assay could be different.  Please refer to the layout you use to give her exact volume of Assays and Samples.
-*   Use 12 assays X 384 samples layout as an example:
+Depending on your layout design, you will need to obtain the information on how much volume of samples and probes you will need to send MSU.  This information is in this [excel sheet](link here).  Do not modify this file within the Box, as it is the template we all share.  Instead, save it locally for your modifications.  For example, in the following 12A_384A layout, you will need 10 ul of each sample, and 50 ul of assays.  Lanying, does this mean 50 uL of probes?
+
+Example using 12 assays X 384 samples layout as an example:
 
   ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
   
