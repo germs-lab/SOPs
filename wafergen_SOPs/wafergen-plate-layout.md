@@ -30,7 +30,9 @@ Assays | Samples
 296 | 16
 384 | 12
 
-Depending on your layout design, you will need to obtain the information on how much volume of samples and probes + PCR master mix you will need to send MSU.  This information is in this [excel sheet](link here).  Do not modify this file within the Box, as it is the template we all share.  Instead, save it locally for your modifications.  For example, in the following 12A_384A layout, you will need 10 ul of each sample, and 50 ul of probe + Master Mix (as specified below).
+Depending on your layout design, you will need to obtain the information on how much volume of samples and probes + PCR master mix you will need to send MSU.  This information is in this [excel sheet](https://iastate.app.box.com/folder/69923026206).  Do not modify this file within the Box, as it is the template we all share.  Instead, save it locally for your modifications.  Also, fill out the specific names of your samples and primers.  Note that it is very important the name of primers used from our lab match exactly (capitalized and lowercase matches) with our naming conventions.  If they don't, it will be very painful for you later.  You will save your plate layout in the folder you saved your metadata and primer file as described in the general wafergen SOP.
+
+For example, in the following 12A_384A layout, you will need 10 ul of each sample, and 50 ul of probe + Master Mix (as specified below).
 
 
 ![AssaySourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/AssaySourcePlate.png) ![SampleSourcePlate](https://github.com/germs-lab/SOPs/blob/master/images/SampleSourcePlate.png)
