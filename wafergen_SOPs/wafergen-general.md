@@ -23,12 +23,7 @@ Authors:  Lanying Ma, Adina Howe
 
 4. Design your plate layout. Name this file layout_yourname_date and place a copy in the Box. We have a SOP on how to design your plate layout.  Please refer [here](https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-plate-layout.md). 
 
-The following picture is the example to show all the files which you need to put into the folder for your own run. "rawdata**.txt" is after you get the results.
-![wafergen_files](https://github.com/germs-lab/SOPs/blob/master/images/wafergen_files.jpg)
-* in this "Runs" folder, Jin has put a folder for each run which happened before 20190313. Please go ahead put all these files in the above image in your own folder.
-* MLY*.elxs are my layouts which were sent to Christi
-* Primer*.txt is my primer file
-* Metadata*.elxs is my metadata file.
+To summarize, within your folder, you'll have a metadata file, a primer file, a layout file, and later, you'll have your raw data file after you get your results.
 
 
 ## Notes before you start:
@@ -49,32 +44,47 @@ You need to quantify the concentration of DNA in each of your samples.  The dire
 ## Preparation of your plate of samples and primers.
 
 ### Preparation of Sample DNA Plate
-Based on your concentrations, you will need to in a 96-well plate, normalize cDNA at 4-6ng/ul. For your informationm, the final reaction concentration will be 1 - 1.5ng/ul on the SmartChip. Not at all samples can be normalized to 4-6 ng/uL, so if you do not have enough DNA, you may ask for suggestions, but typically we've seen positive results for as low as 1 ng/uL but negative results for over 20 ng/uL.
-* For these primers which we have standards for, for now, 16s, ermB, ermF, tetM (these standards are in the Freezer F, Jin's rack, labelled as "Wafergen"). Please make the concentration of cDNA standards to be 1um as required.  The way to make them:  the original synthetic primers are 100um. Add 10ul water to be 10 um (this step is most likely done; if you get synthesize cDNAs from company, then do this step)Then dilute them to be 1um as you needed taking into account of your needed volumn too.
+* Normalize your DNA
+
+Based on your concentrations, you will need to in a 96-well plate, normalize cDNA at 4-6ng/ul. For your information, the final reaction concentration will be 1 - 1.5ng/ul on the SmartChip. Not all samples can be normalized to 4-6 ng/uL, so if you do not have enough DNA, you may ask for suggestions, but typically we've seen positive results for as low as 1 ng/uL but negative results for over 20 ng/uL.
+
+* Make standards, if applicable
+
+For these primers which we have standards for, including, 16s rRNA, ermB, ermF, tetM, you will need to make standards to generate a standard curve.  These standards are in the Freezer F, Jin's rack, labelled as "Wafergen".  Note that we all share these probes and DNA so be careful not to contaminate them. If there are any concerns, let us know.  It is better to replace them rather than ruining everyone's results.  
+You will need to make the concentration 1 uM [check this????? adina's edit], as specified on your plate layout information from MSU.  The original synthetic primers are 100 uM [Check!??]. Add 10 ul water to 100 uM be 10 um (this step is most likely done; if you get synthesize cDNAs from company, then do this step)Then dilute them to be 1um as you needed taking into account of your needed volumn too.
+
+[the above is a little confusing, ask Laura or Tim  to add some directions on making dilutions, or someone please add them, they are not that clear to me]
+
 * For the standards, The synthetic DNA standards have mass on the tubes, first make it to be 10 ng/ul, then dilute it to be 1ng/ul. From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards.
 * if you include the standards in, the total number of samples will include your own experiment samples with the 8 dilutions of each standards ( 8X4=32)
 
-### Preparation fo Primer DNA Plate
-[This section needs more details, please, its not clear to me.  I can help let's do it together if you need some more suggestions][What do you think now]
+[I think we can just add specific instructions above - ask Laura or Tim ot do so so that it is clear and we dont need to make calcualtions everytime]
 
-*  We have 8 plates of ARGs primer sets (Bob Primers).  The spreadsheet of these primers is [here](https://github.com/germs-lab/wafergen/blob/master/bob_primer_plate.clean.tsv). There are two sets of these primers sets. One set is 100uM and these are the original plates we get from company.  The other set is by 10 fold dilution, also labelled as "working". You need to use this set with 10uM concentration. They are in Freezer F, 2nd compartment counting from bottom, in Jaejin's rack.
+
+### Preparation fo Primer DNA Plate
+You will next prepare your primer/probe plate for sending to MSU.  Below, are specific instructions if you are using our ARG probes.
+
+*  We have 8 plates of ARGs primer sets (Bob Primers).  The spreadsheet of these primers is [here](https://github.com/germs-lab/wafergen/blob/master/bob_primer_plate.clean.tsv). There are two sets of these primers sets. One set is 100 uM, and these are the original plates we get from company.  The other set is by 10 fold dilution, also labelled as "working". You need to use the "working" set.  Again, do not contaminate this set and if you do, please let us know.  It is important to keep these uncontaminated for all in the lab.  These primers are in Freezer F, 2nd compartment counting from bottom, in Jaejin's rack.
 ![Bob_primers_100uM](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_100uM.jpg)
 ![Bob_primer_10umMWorking](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_10uMWorking.jpg)
 
-* If you only need to fill in 12 priimer sets into plate, i recommend you to do it mannually; if you'd like to do it by Robot, the protocol to prepare the Robot file is [here](https://github.com/germs-lab/wafergen/blob/master/SOP_prepare_primer_plate_for_wafergen.md)
-* There is a paper in the box of primer sets where 16s primers in. Please write down the date of use and remaining volume.  As 16s primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
+* If you only need to fill in 12 priimer sets into plate, it is recommended to do it mannually; if you'd like to do it by Robot, the protocol to prepare the Robot file is [here](https://github.com/germs-lab/wafergen/blob/master/SOP_prepare_primer_plate_for_wafergen.md)
 
+* There is a paper in the box of primer sets where 16s rRNA primers in. Please write down the date of use and remaining volume.  As 16s rRNA primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
+[I think we can do this for the ARG primers also]
 
 ### Preparation of Master Mix
-6.	You will need to send the Master Mix if Christi need more, the DNA sample plates, and the Assay plate on dry ice.  The best way to seal the plate is with 8-strip caps. This seals the well individually so there should be no contamination between samples. The image of Master Mix we use is as following:
+*	You will need to send the Master Mix if Christi needs more The image of Master Mix we use is as following:
 ![MasterMIxForWafergen](https://github.com/germs-lab/SOPs/blob/master/images/MasterMix_wafergen.jpg)
 
-#### shipping parcel out with samples, primers and master mix.
+### Shipment preparation
+* You will need to send Mster Mix, the DNA sample plates, and the Assay plate on dry ice.  The best way to seal the plate is with 8-strip caps. This seals the well individually so there should be no contamination between samples.
+
 To send DNA out, we normally add dry ice to ship along, catagorized as hazardous shipping.  Refer [here](https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
 
 ## After run, manage your data!
 
-1.  Place the raw data downloaded from MSU into the folder called "Runs". Box--> GERMS-Wafergen --> Runs.  Rename .text file rawdata_yourname_date_of_the_run. In this "Runs", there are folders to indicate each run done by 20190312.  There are should be your primer file, the layout you sent to you Christi, your metadata file and your results. I have include examples above.
+1.  Place the raw data downloaded from MSU into your folder in the Box.  Rename .text file rawdata_yourname_date_of_the_run. 
 
 ## Data Analysis
 
