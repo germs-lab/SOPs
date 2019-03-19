@@ -18,7 +18,7 @@ It shows how to run Mothur on HPC
 ### Now prepare
 #### make link of your data
 ```
-ln -s /mnt/research/germs/jin/sampledata/16s.argonne/*.gz .
+ln -s /mnt/research/germs/jin/sampledata/mock.usda/*.gz .
 ```
 
 #### copy sb file and stability file
