@@ -23,7 +23,7 @@ export PATH=$PATH:/mnt/research/germs/softwares/pandaseq
 
 ##prepare mapping file
 git clone https://github.com/metajinomics/qiime_tools.git
-#python qiime_tools/add_filename_into_mapping_file.py 190103_Mapping_File_GermWater_Tott_16SF_20181219.txt > mapping_filename_added.txt
+python3 qiime_tools/get_mapping_file.py *.gz > mappingfile.txt
 
 #validate_mapping_file.py -m mapping_before_fix.txt
 
