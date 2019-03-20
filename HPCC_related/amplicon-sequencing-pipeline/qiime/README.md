@@ -10,11 +10,6 @@ ln -s /mnt/research/germs/jin/sampledata/mock.usda/*.gz .
 cp /mnt/research/germs/softwares/SOPs/HPCC_related/amplicon-sequencing-pipeline/qiime/qiime.sb .
 ```
 
-#### make mapping file
-```
-python3 ~/git/qiime_tools/get_mapping_file.py *.gz > mappingfile.txt
-```
-
 #### change sb file
 ```
 change current folder
