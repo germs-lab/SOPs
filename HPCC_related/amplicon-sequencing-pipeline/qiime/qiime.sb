@@ -42,6 +42,8 @@ filter_fasta.py -f combined_seqs.fna -o seqs_chimeras_filtered.fna -s usearch_ch
 ## run qiime pipeline
 pick_open_reference_otus.py -i seqs_chimeras_filtered.fna -o uclust_openref/ -r /mnt/research/germs/databases/qiime/gg_13_8_otus/rep_set/97_otus.fasta
 
+## convert biom into json formated biom
+biom convert -i uclust_openref/otu_table_mc2_w_tax.biom -o uclust_openref/otu_table_mc2_w_tax.json.biom --table-type="OTU table" --to-json
 
 
 #scontrol show job $SLURM_JOB_ID     ### write job information to output file
