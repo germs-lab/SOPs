@@ -21,19 +21,19 @@ cd /mnt/research/germs
 export PATH=$PATH:/mnt/research/germs/softwares/vsearch-2.4.3-linux-x86_64/bin
 export PATH=$PATH:/mnt/research/germs/softwares/pandaseq
 
-## merge
-mkdir merged
-for x in forqiime/*_L001_R1_001.fastq.gz;do filename=${x##*/};echo "pandaseq -f $x -r ${x%_L001_R1*}_L001_R2_001.fastq.gz -u ${x%_L001_R1*}.unmerged.fa 2> ${x%_L001_R1*}.pandastat.txt 1> merged/${filename%_L001_R1*}.fasta";done > command.panda.sh
-cat command.panda.sh | /mnt/research/germs/softwares/parallel-20181022/src/parallel
-
 ##prepare mapping file
 git clone https://github.com/metajinomics/qiime_tools.git
-python qiime_tools/add_filename_into_mapping_file.py 190103_Mapping_File_GermWater_Tott_16SF_20181219.txt > mapping_filename_added.txt
+#python qiime_tools/add_filename_into_mapping_file.py 190103_Mapping_File_GermWater_Tott_16SF_20181219.txt > mapping_filename_added.txt
 
 #validate_mapping_file.py -m mapping_before_fix.txt
 
+## merge
+mkdir merged
+for x in *_L001_R1_001.fastq.gz;do filename=${x##*/};echo "pandaseq -f $x -r ${x%_L001_R1*}_L001_R2_001.fastq.gz -u ${x%_L001_R1*}.unmerged.fa 2> ${x%_L001_R1*}.pandastat.txt 1> merged/${filename%_L001_R1*}.fasta";done > command.panda.sh
+cat command.panda.sh | /mnt/research/germs/softwares/parallel-20181022/src/parallel
+
 ## combine sequences
-add_qiime_labels.py -i merged/ -m mapping_filename_added.txt -c InputFileName
+add_qiime_labels.py -i merged/ -m mappingfile.txt -c InputFileName
 
 ## remove chimera
 identify_chimeric_seqs.py -i combined_seqs.fna -m usearch61 -o usearch_checked_chimeras/ -r /mnt/research/germs/databases/chimera/gg_otus_4feb2011/rep_set/gg_97_otus_4feb2011.fasta 
