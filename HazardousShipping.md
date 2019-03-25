@@ -4,23 +4,15 @@ This SOP describes how to send samples with dry ice.  We use this to mail, for e
 
 1.	 To send out samples with dry ice, it is categorized as Hazardous Material Shipping, which is under strict regulation.  Please follow the next several steps.
 
-*	Go to Hazardous Materials Shipping in ]Environment Health and Safety](https://www.ehs.iastate.edu/hazmat-ship)
-*	Click “online submission system” to go https://shipping.ehs.iastate.edu/user-index
-
-
-[the two instructions above seem redundant, no?]
-
-
+*	Go to Hazardous Materials Shipping in [Environment Health and Safety](https://www.ehs.iastate.edu/hazmat-ship) and click on the red box "Hazarous Material Shipment Submission Form".  Alternately, you can go directly to this [link](https://shipping.ehs.iastate.edu/user-index).  You will have to be signed in to the ISU system.
 *	Click “ Create New Shipment”, click “yes” to indicate there is dry ice in the parcel.
 *	Put in the required information including “shipping data”, “contact”, etc.  You will put your name and contact as the contact. 
-*	Submit to EH&S.
-*	After approval, print it out to bring with you to the Chemistry Store.
-    * This step is better to be done at least a day before your desired shipping date.
+*	Submit to EH&S.  An example of the form is below.
 
-*  The final form looks like the below one.
 ![EHS hazarsdous shipping form](https://github.com/germs-lab/SOPs/blob/master/images/EHS_shippingHazarsdous_Form.jpg)
 
-[This section below needs more details, a direct link to the file]
+*	After approval, print it out to bring with you to the Chemistry Store. Note IMPORTANT:  This step is better to be done at least a day before your desired shipping date.  
+
 
 2. Buy dry ice.  
 
