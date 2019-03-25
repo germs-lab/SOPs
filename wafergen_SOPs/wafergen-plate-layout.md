@@ -11,7 +11,7 @@ Authors:  Lanying Ma, Adina Howe
 - Samples: will include standards (if you have any) in serial dilutions + negative controls + non-template control + your samples 
 
 ## Protocol
-1.	 Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are shown below.  Importantly, note that for communication to MSU:  assays are the mixture of a probe mix and sample.  For the purposes of layout design, you can consider the number of assays equivalent to your number of primers or probes.  You must pick one of the layouts below for the Smartchip.   For example, if you have 6 targeted gene probes and 1 sample with duplicates, you would have a total of 12 assays and 1 sample. [Lanying is this correct?] 
+1.	 Based on the number of assays or the number of your samples, you can choose the best layouts to fit your experiment.  The available layouts are shown below.  Importantly, note that for communication to MSU:  assays are the mixture of a probe mix and sample.  For the purposes of layout design, you can consider the number of assays equivalent to your number of primers or probes.  You must pick one of the layouts below for the Smartchip.   For example, if you have 6 targeted gene probes and 1 sample with duplicates, you would have a total of 12 assays and 1 sample. 
 
 Assays | Samples
 ----- | -----
