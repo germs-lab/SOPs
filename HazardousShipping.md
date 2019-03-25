@@ -2,7 +2,9 @@
 
 This SOP describes how to send samples with dry ice.  We use this to mail, for example, DNA to Wafergen or ANL for sequencing.
 
-1.	 To send out samples with dry ice, it is categorized as Hazardous Material Shipping, which is under strict regulation.  Please follow the next several steps.
+# Getting the shipment form 
+
+To send out samples with dry ice, it is categorized as Hazardous Material Shipping, which is under strict regulation.  Please follow the next several steps.
 
 *	Go to Hazardous Materials Shipping in [Environment Health and Safety](https://www.ehs.iastate.edu/hazmat-ship) and click on the red box "Hazarous Material Shipment Submission Form".  Alternately, you can go directly to this [link](https://shipping.ehs.iastate.edu/user-index).  You will have to be signed in to the ISU system.
 *	Click “ Create New Shipment”, click “yes” to indicate there is dry ice in the parcel.
@@ -13,15 +15,12 @@ This SOP describes how to send samples with dry ice.  We use this to mail, for e
 
 *	After approval, print it out to bring with you to the Chemistry Store. Note IMPORTANT:  This step is better to be done at least a day before your desired shipping date.  
 
+# Packing your samples
 
-2. Buy dry ice.  
-
-*	Go to AccessPlus then go Chemistry Store online, buy the dry ice.  
-Go to the store and pick up the dry ice.  You can put 10 lbs in the order and he will fill the box and charge you with the actuall amount.  
-
-3.  Pack your samples, making sure they are adequately covered in dry ace.
-
-4. Download the [intramural form](https://iastate.app.box.com/file/420283720596).  You will need to change the Date to be on the day you print; and fill in the account number to cover the shipping expense under Account. In the picture below, the account number is Adina's Startup account. You dont need to change it until Adina asks not to use that account for this purpose.  Print out two copies and bring them to Sylvia to sign. Leave one copy to Sylvia and bring one copy with you to "Postal & Parcel Services".
+*	Go to AccessPlus, CyBuy, then go Chemistry Store online, buy the dry ice needed for your shipment.
+* Go to the store and pick up the dry ice.  Typically, we buy 10 lbs in the order.  When you get to the store, you'll only get charged the actual amount.
+* Pack your samples, making sure they are adequately covered in dry ace.
+* Download the [intramural form](https://iastate.app.box.com/file/420283720596).  You will need to change the Date to be on the day you print; and fill in the account number to cover the shipping expense under Account. In the picture below, the account number is Adina's Startup account. You dont need to change it until Adina asks not to use that account for this purpose.  Print out two copies and bring them to Sylvia to sign. Leave one copy to Sylvia and bring one copy with you to "Postal & Parcel Services".
 
 ![Intramural to send parcel](https://github.com/germs-lab/SOPs/blob/master/images/intramural_for_sending_parcel.jpg)
 
