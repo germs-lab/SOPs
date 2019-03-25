@@ -1,5 +1,10 @@
+# Hazardous Shipping Protocol 
+
+This SOP describes how to send samples with dry ice.  We use this to mail, for example, DNA to Wafergen or ANL for sequencing.
+
 1.	 To send out samples with dry ice, it is categorized as Hazardous Material Shipping, which is under strict regulation.  Please follow the next several steps.
-*	Go to Hazardous Materials Shipping in Environment Health and Safety. https://www.ehs.iastate.edu/hazmat-ship
+
+*	Go to Hazardous Materials Shipping in ]Environment Health and Safety](https://www.ehs.iastate.edu/hazmat-ship)
 *	Click “online submission system” to go https://shipping.ehs.iastate.edu/user-index
 
 
