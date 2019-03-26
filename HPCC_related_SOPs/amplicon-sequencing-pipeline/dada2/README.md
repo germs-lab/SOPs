@@ -72,10 +72,14 @@ Rscript dada2_seq_proc_hpcc.R
 
 ```
 
+#### Finally, submit sb file
+```
+sbatch dada2.sb
+```
 
 
-
-
+## Other information
+This pipeline is adapted from this
 ```
 https://benjjneb.github.io/dada2/tutorial.html
 ```
