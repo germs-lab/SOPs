@@ -8,6 +8,7 @@ We organize our samples and associated by project on CyBox.  You will need acces
 
 Within each funded project, there are folders that contain associated information.  The structure is as follows:
 
+```
 .
 +--Funded_Project_Name
 |  +--Samples
@@ -19,7 +20,7 @@ Within each funded project, there are folders that contain associated informatio
 |  |  |  +--Wafergen_results.txt
 |  |  +--Metagenomes
 |  |  |  +--README.txt [containing link to HPC where data might be stored]
-      
+```      
 ## Samples Inbound into GERMS
 
 When collecting field samples and bringing samples into our lab, you will need to fill out the metadata under the Samples folder for the appropriate project ASAP.  
