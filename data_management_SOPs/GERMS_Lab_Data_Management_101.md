@@ -8,16 +8,16 @@ We organize our samples and associated by project on CyBox.  You will need acces
 
 Within each funded project, there are folders that contain associated information.  The structure is as follows:
 
--- Funded_Project_Name
-    -- Samples
-        -- metadata_2018.xlsx
-    -- Raw_Data 
-        -- 16S_rRNA_sequencing
-            -- README.txt [containing link to HPC where data might be storecd]
-        -- Wafergen
-            -- Wafergen_results.txt
-        -- Metagenomes
-            -- README.txt [containing link to HPC where data might be stored]
+Funded_Project_Name
+  Samples
+    metadata_2018.xlsx
+  Raw_Data 
+    16S_rRNA_sequencing
+      README.txt [containing link to HPC where data might be storecd]
+    Wafergen
+      Wafergen_results.txt
+    Metagenomes
+      README.txt [containing link to HPC where data might be stored]
       
 ## Samples Inbound into GERMS
 
