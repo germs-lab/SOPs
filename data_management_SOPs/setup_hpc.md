@@ -1,4 +1,4 @@
-# This SOP explains how to setup HPC for the new member
+# Logging into the HPC
 
 ### Log in
 This command will let you log in HPCC
