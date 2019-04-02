@@ -13,7 +13,7 @@ Authors:  Lanying Ma, Adina Howe
 
 ## Before submission of samples to MSU
 
-1. You will be creating some data management files and storing them in our Box drive for Wafergen.  It is important that you follow our naming conventions as you create these files.  The link to the folder containing these files is [here](https://iastate.app.box.com/folder/69922945782).  Within that folder, you will create a new folder and name it:  wafergen-yourname-date.  Next, place the following described files within that folder
+1. You will be creating some data management files and storing them in our Box drive for your project's Wafergen data.  See this link for our [GERMS Lab Data Management SOP](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/GERMS_Lab_Data_Management_101.md) and the link to where you should store your [data](https://iastate.box.com/s/6faf0qlfmmqisrulqg21wpf584arf0xf).  This SOP is associated with Wafergen associated files. It is important that you follow our naming conventions as you create these files.  Within the Wafergen folder for your pfoject, you will create a new folder and name it:  wafergen-yourname-date.  Next, place the following described files within that folder
 
 2. Create a file of metadata for your samples.  This data contains a description of your samples and experiment.  It should contain a unique sample identifier and associated metadata for each sample.  An example is shown [here](https://github.com/germs-lab/SOPs/blob/master/datasheets/meta_fix.csv), with a screenshot below.
 
