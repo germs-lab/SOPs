@@ -25,6 +25,11 @@ Within each funded project, there are folders that contain associated informatio
 
 When collecting field samples and bringing samples into our lab, you will need to fill out the metadata under the Samples folder for the appropriate project ASAP.  
 
+The SOPs for the metadata documentation are found [here](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/metadata_managment.md)
+
+If your project does not have a metadat file in it, you should create one. 
+If there is a metadata file in it, you should add your metadata for relevant samples to the existing file.
+
 ## Data Inbound into GERMS
 
 When data comes in relevant to your samples, you should put the raw data either directly into the associated folder in GERMS-DATAMAN or a text file describing where the raw data is stored, likely the HPC.
