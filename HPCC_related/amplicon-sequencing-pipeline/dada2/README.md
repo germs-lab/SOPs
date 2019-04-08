@@ -1,5 +1,10 @@
 # DADA2
 
+### Before start
+To run DADA2 in HPC you need this line in .bashrc file in your home folder
+```
+export R_LIBS_USER=/mnt/research/germs/R/library
+```
 
 ## Example
 This example will use EPA 16S sequencing from Argonne
