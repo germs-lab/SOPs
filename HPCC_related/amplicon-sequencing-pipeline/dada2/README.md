@@ -5,6 +5,7 @@ To run DADA2 in HPC you need this line in .bashrc file in your home folder
 ```
 export R_LIBS_USER=/mnt/research/germs/R/library
 ```
+Don't forget you need to log-in again if you just added this line.
 
 ## Example
 This example will use EPA 16S sequencing from Argonne
