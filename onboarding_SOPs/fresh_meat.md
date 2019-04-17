@@ -10,3 +10,6 @@
 - Eat food together
 - Swag
 - Add to contact info list 
+- Keys and ID access
+- Office Intro
+- Intro to co PIs and Lab Managers
