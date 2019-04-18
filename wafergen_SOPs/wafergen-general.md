@@ -51,14 +51,12 @@ Based on your concentrations, you will need to in a 96-well plate, normalize cDN
 * Make standards, if applicable
 
 For these primers which we have standards for, including, 16s rRNA, ermB, ermF, tetM, you will need to make standards to generate a standard curve.  These standards are in the Freezer F, Jin's rack, labelled as "Wafergen".  Note that we all share these probes and DNA so be careful not to contaminate them. If there are any concerns, let us know.  It is better to replace them rather than ruining everyone's results.  
-You will need to make the concentration 1 uM [check this????? adina's edit], as specified on your plate layout information from MSU.  The original synthetic primers are 100 uM [Check!??]. Add 10 ul water to 100 uM be 10 um (this step is most likely done; if you get synthesize cDNAs from company, then do this step)Then dilute them to be 1um as you needed taking into account of your needed volumn too.
+Those Synthetic DNAs have 478bp. It is ordered 500 ng. 50 ul of TE buffer was added at the time of purchasing. So, it is 10 ng/ul of concentration in original tubes. 
 
-[the above is a little confusing, ask Laura or Tim  to add some directions on making dilutions, or someone please add them, they are not that clear to me]
+* First, take 1 ul from original tube, mix into 9 ul of water. It makes 1 ng/ul. 
 
-* For the standards, The synthetic DNA standards have mass on the tubes, first make it to be 10 ng/ul, then dilute it to be 1ng/ul. From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards.
+* From here, 1 ul of this 1 ng/ul standards plus 36 ul water to make it be 1e8 copies/2ul concentration.  From here, you could make the series dilutions to get your desired standards. Remember, copy number 1e8 is when you use 2 ul. In wafergen, copy number will be 1.25e6.
 * if you include the standards in, the total number of samples will include your own experiment samples with the 8 dilutions of each standards ( 8X4=32)
-
-[I think we can just add specific instructions above - ask Laura or Tim ot do so so that it is clear and we dont need to make calcualtions everytime]
 
 
 ### Preparation fo Primer DNA Plate
