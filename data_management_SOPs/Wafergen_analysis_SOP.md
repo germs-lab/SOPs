@@ -2,7 +2,7 @@
 
 Once you get your Wafergen data back, you will need to process the data so that it is information.
 
-The tutorial shown [here](http://germslab.org/wafergen/wafergenR.html) provides on information on:
+The tutorial shown [here](http://germslab.org/wafergen-analysis-tutorial/wafergenR.html) provides on information on:
 - How to begin your data analysis in R, including making a standard curve
 - Some analysis examples with data 
 - Prerequisites:  Some chops on R, some installed packages such as ggplot2 and reshape2
@@ -16,5 +16,5 @@ The tutorial shown [here](http://germslab.org/wafergen/wafergenR.html) provides 
 
 # Keep improving our SOPs
 
-If you have comments on these tutorials, you can edit it [here](https://github.com/germs-lab/wafergen/blob/master/tutorials/wafergenR.Rmd) in Github.
+If you have comments on these tutorials, you can edit it [here](https://github.com/germs-lab/wafergen-analysis-tutorial/blob/master/tutorials/wafergenR.Rmd) in Github.
 
