@@ -59,17 +59,38 @@ Those Synthetic DNAs have 478bp. It is ordered 500 ng. 50 ul of TE buffer was ad
 * if you include the standards in, the total number of samples will include your own experiment samples with the 8 dilutions of each standards ( 8X4=32)
 
 
-### Preparation fo Primer DNA Plate
+### Preparation of Primer DNA Plate
 You will next prepare your primer/probe plate for sending to MSU.  Below, are specific instructions if you are using our ARG probes.
 
 *  We have 8 plates of ARGs primer sets (Bob Primers).  The spreadsheet of these primers is [here](https://github.com/germs-lab/wafergen/blob/master/bob_primer_plate.clean.tsv). There are two sets of these primers sets. One set is 100 uM, and these are the original plates we get from company.  The other set is by 10 fold dilution, also labelled as "working". You need to use the "working" set.  Again, do not contaminate this set and if you do, please let us know.  It is important to keep these uncontaminated for all in the lab.  These primers are in Freezer F, 2nd compartment counting from bottom, in Jaejin's rack.
 ![Bob_primers_100uM](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_100uM.jpg)
 ![Bob_primer_10umMWorking](https://github.com/germs-lab/SOPs/blob/master/images/ARGs_10uMWorking.jpg)
 
-* If you only need to fill in 12 priimer sets into plate, it is recommended to do it mannually; if you'd like to do it by Robot, the protocol to prepare the Robot file is [here](https://github.com/germs-lab/wafergen/blob/master/SOP_prepare_primer_plate_for_wafergen.md)
+* If you only need to fill in 12 priimer sets into plate, it is recommended to do it mannually; if you'd like to do it by Robot, the protocol to prepare the Robot file is below.  Otherwise, skip to the next section below.
+
+---
+#### If you are using the robot, here is some advice on how to prepare primer assay plate for wafergen by Robot
+
+##### Background:
+This SOP is trying to walk you through how to prepare primer plate with Robot for Wafergen run.  As we have 8 plates of Bob primers about antibiotic resistant genes (384 primers with F and R primers), it would be too easy to make mistakes manually preparing the primer plates.  Thus, we try to automate it by Robot. 
+
+##### Procedures:
+1. The first file needed is [bob_primer_plate.clean.tsv](https://github.com/germs-lab/wafergen/blob/master/bob_primer_plate.clean.tsv).  In this file, there are information on the primer position: in which plate, in which well, and sequencing Name including F or R.
+2. You should have a list of your targeted primers from the general [Wafergen SOP](https://github.com/germs-lab/SOPs/blob/master/wafergen_SOPs/wafergen-general.md) Step 3, primers_yourname_date
+
+It is critically important that your list match primer names in file from step #1.
+
+3. Download this [file](https://github.com/germs-lab/wafergen/blob/master/prepare_bob_primer.py).  Run Python: python prepare_bob_primer.py list_target.txt bob_primer_plate.clean.tsv
+4. This code will generate two files: for_Robot.tsv and for_Record.csv.  For_Robot_tsv will be the file you copy to Robot computer to tell Robot from which target plate and postion to which particular well of your primer plate.
+* 4 Run Robot with for_robot.tsv to prepare the primer plate.
+
+It will need 16 ul water with 2 ul of each F/R primers.
+---
+
 
 * There is a paper in the box of primer sets where 16s rRNA primers in. Please write down the date of use and remaining volume.  As 16s rRNA primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
 [I think we can do this for the ARG primers also]
+
 
 ### Preparation of Master Mix
 *	You will need to send the Master Mix if Christi needs more The image of Master Mix we use is as following:
