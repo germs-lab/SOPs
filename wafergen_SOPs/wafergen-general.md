@@ -106,12 +106,8 @@ To send DNA out, we normally add dry ice to ship along, catagorized as hazardous
 
 ## Data Analysis
 
- 2.  Jin has a wafergen related R code [here](https://github.com/germs-lab/wafergen). A specific SOP on how to analyze data with ermB, ermF, tetM and 16s as standards. [here](https://github.com/germs-lab/wafergen/blob/master/Rscript_for_wafergen.R)
+1.  You can go at it on your own, but also there is a very nice tutorial on Wafergen analysis that you can try [here](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/Wafergen_analysis_SOP.md).  We are still in the midst of making this the most useful for other users.
 
-You will have txt file after data back from MSU. Use Rscript_for_wafergen.R for analyzing data. You will need 1) txt formatted data file 2) meta data for samples 3) meta for standard. Then use R to run
+2.  Adina would like to track standard curve data somehow throughout the lab.  The solution for that is yet undetermined but maybe someone can come up with something.
 
-3.  Place your standard curve data in the spreadsheet located in the Box Drive Folder - GERMS-Wafergen --> Standard_Curves.  
-
-4.  Take a look at your standard curve compared to other runs, if it does not look aligned, you will need to do some troubleshooting.  
-
-
+3.  The main thing is that your results get uploaded in a useful way to the GERMS-Dataman so that your results are available to the Adina and PIs to see as needed.
