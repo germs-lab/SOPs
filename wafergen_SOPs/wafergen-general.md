@@ -68,9 +68,9 @@ You will next prepare your primer/probe plate for sending to MSU.  Below, are sp
 
 * If you only need to fill in 12 priimer sets into plate, it is recommended to do it mannually; if you'd like to do it by Robot, the protocol to prepare the Robot file is below.  Otherwise, skip to the next section below.
 
----
-#### If you are using the robot, here is some advice on how to prepare primer assay plate for wafergen by Robot
 
+#### If you are using the robot, here is some advice on how to prepare primer assay plate for wafergen by Robot
+**********************************
 ##### Background:
 This SOP is trying to walk you through how to prepare primer plate with Robot for Wafergen run.  As we have 8 plates of Bob primers about antibiotic resistant genes (384 primers with F and R primers), it would be too easy to make mistakes manually preparing the primer plates.  Thus, we try to automate it by Robot. 
 
@@ -85,8 +85,7 @@ It is critically important that your list match primer names in file from step #
 * 4 Run Robot with for_robot.tsv to prepare the primer plate.
 
 It will need 16 ul water with 2 ul of each F/R primers.
----
-
+**********************************
 
 * There is a paper in the box of primer sets where 16s rRNA primers in. Please write down the date of use and remaining volume.  As 16s rRNA primers are used almost for each run of Wafergen, to keep track of 16s primer will give us some idea of the volume of all other primers.
 [I think we can do this for the ARG primers also]
