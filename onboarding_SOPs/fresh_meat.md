@@ -8,11 +8,11 @@
 - Safety training in lab
 - Data Management Discussion
 - Code of Conduct Discussion
-- Add to ABE mailing list
+- Add to ABE mailing list [Kris Bell]
 - Eat food together
 - Swag
 - Add to contact info list 
-- Keys and ID access
+- Keys and ID access [Sylvia Anderson]
 - Office Intro
 - Intro to co PIs and Lab Managers
-
+- Pcard training?
