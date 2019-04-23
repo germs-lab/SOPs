@@ -1,18 +1,7 @@
----
-title: "Soil sub sampling for 16s analysis"
-author: "Jared Flater"
-date: "2016/10/27"
-output: 
-pdf_document:
-fontsize: 12pt
-fig_caption: yes
-root: ../../../
-layout: post
-topic: SOPs
----
 Data sheets: https://github.com/jflater/SOPs/tree/master/DNA_sub_sampling/datasheets
-
+Author:  Jared Flater
 email: jflater@gmail.com
+Date:  10/27/16
 
 #Purpose
 
