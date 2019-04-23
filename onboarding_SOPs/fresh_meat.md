@@ -3,7 +3,8 @@
 - Add to Google Groups Email
 - Add to GERMS github
 - Add to Slack
-- Add to Public GERMS Drive
+- Add to Public GERMS Drive\
+- Add to the website (both project and person)
 - Safety training in lab
 - Data Management Discussion
 - Code of Conduct Discussion
@@ -13,3 +14,4 @@
 - Keys and ID access
 - Office Intro
 - Intro to co PIs and Lab Managers
+
