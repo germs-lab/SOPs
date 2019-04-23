@@ -3,16 +3,18 @@ Author:  Jared Flater
 email: jflater@gmail.com
 Date:  10/27/16
 
-#Purpose
+# Soil Subsamplin' for DNA Extraction
+
+# Purpose
 
   We are looking into the bacterial community composition of soil, an important component of ecological systems. We will target the bacterial marker gene (16S r RNA) within the environmental DNA sample that we will extract with PowerSoil kits (Mo Bio). Because of the slow rates of evolution of this region of the gene, we can use them to reconstruct a phylogeny of our samples.  
 
-#PPE
+# PPE
   1. Gloves
   2. Eye protection
   3. Lab coat
 
-#Materials
+# Materials
 
   01. Soil samples
   02. Micro-balance
@@ -26,7 +28,8 @@ Date:  10/27/16
   10. Whirl packs for chemical analyses sub sampling
   11. Sharpies
   
-#Procedure:
+# Procedure:
+
 First: Ethanol and prepare work station
 
   01. Remove soil samples from -80 freezer, location: 4th floor -80, 3rd freezer on the south side, 3rd shelf.
@@ -46,7 +49,7 @@ First: Ethanol and prepare work station
   13. Return samples, bead plate (wrapped in foil) and the sub sample whirl packs to the -80 in the original location.
   14. When complete, email Jared
   
-#Clean up:
+# Clean up:
   
   01. Spatulas and funnels should be soapy water brushed and ethanoled. Allow to dry and return to sub sampling      kit in the GERMSLAB
   
