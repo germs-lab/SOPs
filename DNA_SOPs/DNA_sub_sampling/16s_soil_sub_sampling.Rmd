@@ -62,6 +62,8 @@ First: Ethanol and prepare work station
   01. Spatulas and funnels should be soapy water brushed and ethanoled. Allow to dry and return to sub sampling      kit in the GERMSLAB
   
   
+### CAUTION - BEFORE YOU ORDER BE SURE TO ASK IF YOU ARE USING THE ROBOT OR MANUAL EXTRACTION BECAUSE THEY ARE DIFERENT KITS ###
+
 !["Bead Plate"](../../images/bead_plate.jpg)
 
 !["Funnels"](../../images/sub_sample_funnel.jpg)
