@@ -3,7 +3,7 @@
 - Add to Google Groups Email
 - Add to GERMS github
 - Add to Slack
-- Add to Public GERMS Drive\
+- Add to Public GERMS Drive
 - Add to the website (both project and person)
 - Safety training in lab
 - Data Management Discussion
