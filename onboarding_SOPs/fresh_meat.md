@@ -1,6 +1,6 @@
 # Things that need to be done for any new GERMSie
 
-[] Add to Google Groups Email
+- [ ] Add to Google Groups Email
 [ ] Add to GERMS github
 [ ] Add to Slack
 [ ] Add to Public GERMS Drive
