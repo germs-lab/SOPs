@@ -60,4 +60,4 @@ Quantitate DNA/RNA using quantitative real-time PCR
 3. Wipe with alcohol 
 
 ### Analyze 
-standard curve, efficiency etc.
+standard curve, efficiency, etc.
