@@ -10,8 +10,8 @@
  
 ########## Command Lines to Run ##########
  
-### load necessary modules, e.g.
-module load R-core 
+### load necessary modules
+module purge; module load GCC/7.3.0-2.30  OpenMPI/3.1.1 R/3.5.1-X11-20180604  UDUNITS/2.2.26
 
 ### change to the directory where your code is located
 cd /mnt/research/germs
