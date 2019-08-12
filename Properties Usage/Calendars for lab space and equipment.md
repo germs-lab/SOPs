@@ -32,3 +32,5 @@ Prior to usage, reserve space and/or equipment with your name and brief activity
 
 #### GERMS: PCR and qPCR
 <a href="https://calendar.google.com/calendar/b/1?cid=cHJ1MmRsaGZndGdqM2xvdDdkc3FzM2FmMDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is for both PCR and qPCR machines, please indicate which machine you will be using.
+
+![PCR and qPCR](https://github.com/germs-lab/SOPs/blob/master/images/qPCR.JPG?raw=true)
