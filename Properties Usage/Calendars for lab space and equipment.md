@@ -1,4 +1,5 @@
 # Calendars for lab space and equipment
+Author: Thanwalee (JiJY) Sooksa-nguan
 ## Objectives
 
  
@@ -17,3 +18,11 @@ Prior to usage, reserve space and/or equipment with your name and brief activity
 
 ### GERMS: DNA sample preparation bench
 <a href="https://calendar.google.com/calendar/b/1?cid=NjBnajNiZDVuOHQxczA5NDhwaDd1amlkYjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="blank">This calendar</a> is for the right side of middle bench in the lab. This area is for handling DNA samples and samples that have been subsampled into DNA extraction tubes for DNA extraction. There are at least two spaces that people can work comfortably without interfering with each other, however, you may identify the activity that you will be working on (i.e. DNA extraction or qPCR prep etc.) to give other people the idea of what other instrument that may be occupied during the reserved time.
+
+
+### GERMS: Robot
+<a href="https://calendar.google.com/calendar/b/1?cid=a3ZqbXZhZmFhc2pjdTg4OHVobmZpcDJiOW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is to reserve the Robot, there is also a log sheet next to the machine, please sign up before and after the usage as well as record problems (if any).
+
+
+### GERMS: PCR and qPCR
+<a href="https://calendar.google.com/calendar/b/1?cid=cHJ1MmRsaGZndGdqM2xvdDdkc3FzM2FmMDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is for both PCR and qPCR machines, please indicate which machine you will be using.
