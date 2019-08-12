@@ -5,7 +5,7 @@ Author: Thanwalee (JiJY) Sooksa-nguan
  
 Sign up to reserve space and equipment to ensure their availability and avoid overlapping with others for our smooth workflows.
  
-Procedures
+## Procedures
  
 First time user, please email JiJY (jijy.isu@gmail.com) with your gmail account to get access to the calendars.
  
