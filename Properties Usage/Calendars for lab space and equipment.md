@@ -14,6 +14,7 @@ Prior to usage, reserve space and/or equipment with your name and brief activity
 #### GERMS: Subsampling bench
 
 <a href="https://calendar.google.com/calendar/b/1?cid=aXYxZjlycm00ZDRma2hsNzNha3NlZHFxaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is for the bench space on the right side of the lab when you walk in. The space is used for subsampling soil samples (scales area) and filtering water samples (vacuum manifolds area). Please include sample type when you reserve the space.
+![subsampling bench](https://github.com/germs-lab/SOPs/blob/master/images/Subsampling%20bench.png?raw=true)
 
 
 #### GERMS: DNA sample preparation bench
