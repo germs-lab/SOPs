@@ -12,4 +12,4 @@ Prior to usage, reserve space and/or equipment with your name and brief activity
 
 ### GERMS: Subsampling bench
 
-[This calendar](https://calendar.google.com/calendar/b/1?cid=aXYxZjlycm00ZDRma2hsNzNha3NlZHFxaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) is for the bench space on the right side of the lab when you walk in. The space is used for subsampling soil samples (scales area) and filtering water samples (vacuum manifolds area). Please include sample type when you reserve the space.
+<a href="https://calendar.google.com/calendar/b/1?cid=aXYxZjlycm00ZDRma2hsNzNha3NlZHFxaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target = "_blank">This calendar</a> is for the bench space on the right side of the lab when you walk in. The space is used for subsampling soil samples (scales area) and filtering water samples (vacuum manifolds area). Please include sample type when you reserve the space.
