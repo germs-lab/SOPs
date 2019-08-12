@@ -14,15 +14,20 @@ Prior to usage, reserve space and/or equipment with your name and brief activity
 #### GERMS: Subsampling bench
 
 <a href="https://calendar.google.com/calendar/b/1?cid=aXYxZjlycm00ZDRma2hsNzNha3NlZHFxaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is for the bench space on the right side of the lab when you walk in. The space is used for subsampling soil samples (scales area) and filtering water samples (vacuum manifolds area). Please include sample type when you reserve the space.
+
 ![subsampling bench](https://github.com/germs-lab/SOPs/blob/master/images/Subsampling%20bench.png?raw=true)
 
 
 #### GERMS: DNA sample preparation bench
 <a href="https://calendar.google.com/calendar/b/1?cid=NjBnajNiZDVuOHQxczA5NDhwaDd1amlkYjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is for the right side of middle bench in the lab. This area is for handling DNA samples and samples that have been subsampled into DNA extraction tubes for DNA extraction. There are at least two spaces that people can work comfortably without interfering with each other, however, you may identify the activity that you will be working on (i.e. DNA extraction or qPCR prep etc.) to give other people the idea of what other instrument that may be occupied during the reserved time.
 
+![DNA sample preparation bench](https://github.com/germs-lab/SOPs/blob/master/images/DNA%20sample%20preparation%20bench.png?raw=true)
+
 
 #### GERMS: Robot
 <a href="https://calendar.google.com/calendar/b/1?cid=a3ZqbXZhZmFhc2pjdTg4OHVobmZpcDJiOW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">This calendar</a> is to reserve the Robot, there is also a log sheet next to the machine, please sign up before and after the usage as well as record problems (if any).
+
+![Robot](https://github.com/germs-lab/SOPs/blob/master/images/Robot.JPG?raw=true)
 
 
 #### GERMS: PCR and qPCR
