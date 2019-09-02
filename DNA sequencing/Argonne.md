@@ -18,7 +18,7 @@
 *	Once the paperwork started email the completed sample sheet to Sarah and Stephanie
 *	Samples need to be sent on dry ice and place cardboard or something rigid between the plates to ensure that the plates don’t break or pierce each other
 *	Shipment should be made on Monday or Tuesday to make sure the samples are delivered during business days
-- [x]	Ship to:
+- [ ]	Ship to:
 Stephanie Greenwald
 Argonne National Laboratory
 9700 S. Cass Avenue
@@ -35,7 +35,7 @@ Lemont, IL 60439
 #### Submit your samples to GERMS
 *	Contact Adina and JiJY to confirm number of samples
 *	JiJY create sample sheet for Argonne submission and identify sample location (plate and well numbers)
-- [x] Note: samples are arranged in rows (A1-A12, B1-B12, etc.)
+- [ ] Note: samples are arranged in rows (A1-A12, B1-B12, etc.)
 *	Collaborators fill Sample ID, DNA concentration (and metadata, if you want them to be included in the mapping file)
 *	Collaborators contact JiJY to communicate about providing samples according to the sample sheet
-- [x] Note: Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
+- [ ] Note: Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
