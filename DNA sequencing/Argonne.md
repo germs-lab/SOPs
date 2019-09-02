@@ -1,4 +1,4 @@
-# Argonne Amplicon library sequencing – Preparation and Submission
+# Argonne Amplicon Library Sequencing – Preparation and Submission
 
 ## General Submission Requirements
 
