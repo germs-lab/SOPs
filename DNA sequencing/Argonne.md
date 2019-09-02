@@ -17,7 +17,7 @@
 *	Email Sarah Owens (sarah.owens@anl.gov) and Stephanie Greenwald (smoormann@mcs.anl.gov) with final number of samples along with the primer set to request for a quote
 *	Once the paperwork started, email the completed sample sheet to Sarah and Stephanie
 *	Samples need to be sent on dry ice and place cardboard or something rigid between the plates to ensure that the plates don’t break or pierce each other
-- [ ] Note: Shipping with dry ice is catagorized as [hazardous shipping](https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
+- [ ] **Note:** Shipping with dry ice is catagorized as [hazardous shipping](https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
 *	Shipment should be made on Monday or Tuesday to make sure the samples are delivered during business days
 - [ ]	Ship to:<br/>
 Stephanie Greenwald<br/>
@@ -36,7 +36,7 @@ Lemont, IL 60439<br/>
 #### Submit your samples to GERMS
 *	Contact Adina and JiJY to confirm number of samples
 *	JiJY create sample sheet for Argonne submission and identify sample location (plate and well numbers)
-- [ ] Note: samples are arranged in rows (A1-A12, B1-B12, etc.)
+- [ ] **Note:** Samples are arranged in rows (A1-A12, B1-B12, etc.)
 *	Collaborators fill Sample IDs, DNA concentrations (and associated metadata, if you want them to be included in the mapping file)
 *	Collaborators contact JiJY to communicate about providing samples according to the sample sheet
-- [ ] Note: Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
+- [ ] **Note:** Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
