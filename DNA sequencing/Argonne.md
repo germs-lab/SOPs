@@ -17,6 +17,7 @@
 *	Email Sarah Owens (sarah.owens@anl.gov) and Stephanie Greenwald (smoormann@mcs.anl.gov) with final number of samples along with the primer set to request for a quote
 *	Once the paperwork started, email the completed sample sheet to Sarah and Stephanie
 *	Samples need to be sent on dry ice and place cardboard or something rigid between the plates to ensure that the plates don’t break or pierce each other
+- [ ] Note: Shipping with dry ice is catagorized as [hazardous shipping](https://github.com/germs-lab/SOPs/blob/master/HazardousShipping.md)
 *	Shipment should be made on Monday or Tuesday to make sure the samples are delivered during business days
 - [ ]	Ship to:<br/>
 Stephanie Greenwald<br/>
