@@ -35,7 +35,7 @@ Lemont, IL 60439<br/>
 
 #### Submit your samples to GERMS
 1.	Contact Adina and JiJY to confirm number of samples
-2.	JiJY create sample sheet for Argonne submission and identify sample location (plate and well numbers)
+2.	JiJY creates sample sheet for Argonne submission and identify sample location (plate and well numbers)
     - **Note:** Samples are arranged in rows (A1-A12, B1-B12, etc.)
 3.	Collaborators fill Sample IDs, DNA concentrations (and associated metadata, if you want them to be included in the mapping file)
 4.	Collaborators contact JiJY to communicate about providing samples according to the sample sheet
