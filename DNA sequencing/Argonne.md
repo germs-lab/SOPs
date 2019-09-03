@@ -39,4 +39,4 @@ Lemont, IL 60439<br/>
     - [ ] **Note:** Samples are arranged in rows (A1-A12, B1-B12, etc.)
 *	Collaborators fill Sample IDs, DNA concentrations (and associated metadata, if you want them to be included in the mapping file)
 *	Collaborators contact JiJY to communicate about providing samples according to the sample sheet
-    - [ ] **Note:** Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
+    - **Note:** Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
