@@ -34,9 +34,9 @@ Lemont, IL 60439<br/>
 *	DNA samples (20 uL of volume ranging in concentration from 1-50ng/uL)
 
 #### Submit your samples to GERMS
-*	Contact Adina and JiJY to confirm number of samples
-*	JiJY create sample sheet for Argonne submission and identify sample location (plate and well numbers)
+1.	Contact Adina and JiJY to confirm number of samples
+2.	JiJY create sample sheet for Argonne submission and identify sample location (plate and well numbers)
     - **Note:** Samples are arranged in rows (A1-A12, B1-B12, etc.)
-*	Collaborators fill Sample IDs, DNA concentrations (and associated metadata, if you want them to be included in the mapping file)
-*	Collaborators contact JiJY to communicate about providing samples according to the sample sheet
+3.	Collaborators fill Sample IDs, DNA concentrations (and associated metadata, if you want them to be included in the mapping file)
+4.	Collaborators contact JiJY to communicate about providing samples according to the sample sheet
     - **Note:** Samples could be provided in both individual tubes or fully-skirted 96-well plates, depends on total number of samples 
