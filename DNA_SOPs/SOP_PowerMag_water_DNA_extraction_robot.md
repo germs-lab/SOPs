@@ -36,14 +36,13 @@ Before starting
 *	Rotor: S-5700
 *	RCF: 4500 g
 
-10.	  Avoid the pellet, transfer the entire volume of the supernatant to a new Mo BIO 2 ml DWP. Apply Sealing Tape to the DWP. Centrifuge at 4500 g for 6 mins to clear any residual particulates that may have carried over.
+10.	  Avoid the pellet, use E1-ClipTip automatic multichannel pipettes (program Htp850) to transfer the entire volume of the supernatant to a new Mo BIO 2 ml DWP. Apply Sealing Tape to the DWP. 
 *	Position is around 7 for the plate holder. You can insert the pipette and check whether the tip touch the pellets
 
-11.	  Transfer no more than 800 ul of supernatant to a new MO BIO 2 ml DWP again avoiding any residual pellet.
-*	Until now, we get the samples ready for Robot. Labe your plate and put it into -80oC for further use.
+11.	  Centrifuge at 4500 g for 6 mins to clear any residual particulates that may have carried over.
 
-12.	  Thaw your samples in MO BIO 2 ml DWP in water.
-13.	Follow another protocol for Robot use. 
+12.   Transfer no more than 800 ul of supernatant to a new MO BIO 2 ml DWP again avoiding any residual pellet.
+*	Until now, we get the samples ready for Robot. Cover the plate with Polyethylene Film, label the plate and store in -80oC for further use.
 
-
-
+13.	  Thaw your samples in MO BIO 2 ml DWP in water.
+14.	  Follow another protocol for Robot use. 
