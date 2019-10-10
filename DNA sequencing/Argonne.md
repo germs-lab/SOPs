@@ -1,4 +1,4 @@
-# Argonne Amplicon Library Sequencing – Preparation and Submission
+# [Argonne Amplicon Library Sequencing](https://www.anl.gov/bio/environmental-sample-preparation-and-sequencing-facility) – Preparation and Submission
 
 ## General Submission Requirements
 
