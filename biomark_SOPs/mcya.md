@@ -1,12 +1,11 @@
 ---
-title: “High-throughput quantification of microcystin synthetase A (mcyA) gene in lake water samples”
-author: “Jaejin Lee”
-last edited: “2020/05/21”
-
+title: High-throughput quantification of microcystin synthetase A (mcyA) gene in lake water samples
+author: Jaejin Lee
+last edited: 2020/05/21
 email: jaejinlee83@gmail.com
 ---
 
-#Purpose
+# Purpose
 
 This document explains the procedures to measure mcyA genes in lake water samples using a high-throughput real-time PCR system (i.e., Biomark HD).
 
