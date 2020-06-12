@@ -28,18 +28,18 @@ iv.	Date collected</br>
 8.	Paper towels
 9.	Extra sample bags
 10.	Permanent marker
-11.	Gallon-size freezer bag to organize samples for freezer storage </br>
-**Optional** - in case of composite samplings 
-*	Bucket – one per sampler (for sampling into and mixing soil)
+11.	Gallon-size freezer bag to organize samples for freezer storage
+<p><b>Optional</b> - in case of composite samplings </br>
+<li>	Bucket – one per sampler (for sampling into and mixing soil)</li></p>
 
 
 ### Procedure (for non-composite samples)
 **Note** Gloves should be warned at all times
 1.	Sterile soil probe and gloved hands with 70% ethanol then dry off with paper towels
 2.	Collect samples by pushing soil probe into ground according to the desire depth and aggregate in a bucket
-•	Avoid collecting surface residue; remove obvious debris from bucket
-•	Push soil probe into ground firmly, but do not pound it in as this compacts soil.
-3.	Put collected soil in pre-labeled sample bag. Release air in sample bags out before sealing.
+* Avoid collecting surface residue; remove obvious debris from bucket
+* Push soil probe into ground firmly, but do not pound it in as this compacts soil
+3.	Put collected soil in pre-labeled sample bag. Release air in sample bags out before sealing
 4.	Place sample bags into a cooler that contains ice packs immediately
 5.	Repeat step 1 to take sample in the next plot/treatment
 6.	At the end of sampling, count to be sure all samples are present
@@ -52,7 +52,7 @@ iv.	Date collected</br>
 1.	Sterile soil probe and gloved hands with 70% ethanol then wipe down with paper towels
 2.	Collect samples by pushing soil probe into ground according to the desire depth and aggregate in a bucket
 * Avoid collecting surface residue; remove obvious debris from bucket
-* Push soil probe into ground firmly, but do not pound it in as this compacts soil.
+* Push soil probe into ground firmly, but do not pound it in as this compacts soil
 * Invert soil probe over bucket.  If soil does not fall out easily, it may be necessary to gently hit probe on the edge of the bucket or use a sterile metal knife or screwdriver to remove soil from probe or ethanol sterile gloved hands.
 * Repeat for each composite sample
 3.	Homogenize soils in the bucket by shaking or missing with sterile metal spoon
