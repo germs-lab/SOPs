@@ -2,7 +2,7 @@
 General procedure of soil sampling for DNA extraction
 
 #### Things to consider before taking samples
-1.	Make a plan for subsampling locations of each composite sample in the plot, distance from the edge and each subsampling location It should occur in the same pattern for each sampling event
+1.	Make a plan for subsampling locations of each composite sample in the plot, distance from the edge and each subsampling location. Samplings should occur in the same pattern for each sampling event
 2.	Decide the depth of sampling
 3.	Whether baseline samples (soil and/or manure) should be included
 4.	[Metadata](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/GERMS_Lab_Data_Management_101.md) and sample ID (contact JiJY)
@@ -10,9 +10,8 @@ General procedure of soil sampling for DNA extraction
 #### Equipment
 1.	Field maps or plot layout
 2.	Soil probes, skinny tip marked at 6 inches, or depth desired for experiment
-3.	Extra Soil Probe tips and tip wrench
-4.	Bucket – one per sampler (for sampling into and mixing soil)
-5.	Pre-label sample bags (small size ziplog bags or whirl-pack) and pre-organize according to sample sets or sampling plan
+3.	Bucket – one per sampler (for sampling into and mixing soil)
+4.	Pre-label sample bags (small size ziplog bags or whirl-pack) and pre-organize according to sample sets or sampling plan
 * Pre-label bags with permanent marker or waterproof address labels with laser printer (Avery 5520) before going into the field
 * Labels should contain 
 i.	Project name (and site names if more than one site)
@@ -23,14 +22,14 @@ iv.	Date collected
 LAMP / LM </br>
 M_2015_P3_N400</br>
 04/25/18
-6.	Coolers
-7.	Dry ice or ice packs
-8.	Gloves
-9.	70% ethanol in spray bottles for sterilizing probe between samples
-10.	 Paper towels
-11.	 Extra sample bags
-12.	Permanent marker
-13.	Gallon-size freezer bag to organize samples for freezer storage
+5.	Coolers
+6.	Dry ice or ice packs
+7.	Gloves
+8.	70% ethanol in spray bottles for sterilizing probe between samples
+9.	Paper towels
+10.	Extra sample bags
+11.	Permanent marker
+12.	Gallon-size freezer bag to organize samples for freezer storage
 
 #### Procedure
 **Note** Gloves should be warned at all times
