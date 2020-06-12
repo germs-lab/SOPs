@@ -19,11 +19,10 @@ i.	Project name (and site names if more than one site)
 ii.	Initials of a person who is responsible for samples
 iii.	Unique sample ID (corresponds to metadata), easy to identify in the field is recommended
 iv.	Date collected
-+ for example:
-|LAMP / LM|
-|M_2015_P3_N400|
-|04/25/18|
-|:------:|
++ for example: </br>
+LAMP / LM </br>
+M_2015_P3_N400</br>
+04/25/18
 6.	Coolers
 7.	Dry ice or ice packs
 8.	Gloves
