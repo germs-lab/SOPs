@@ -1,13 +1,13 @@
 ## Objectives   
 General procedure of soil sampling for DNA extraction
 
-#### Things to consider before taking samples
+### Things to consider before taking samples
 1.	Make a plan for subsampling locations of each composite sample in the plot, distance from the edge and each subsampling location. Samplings should occur in the same pattern for each sampling event
 2.	Decide the depth of sampling
 3.	Whether baseline samples (soil and/or manure) should be included
 4.	[Metadata](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/GERMS_Lab_Data_Management_101.md) and sample ID (contact JiJY)
 5.	Storage space and location (contact JiJY)
-#### Equipment
+### Equipment
 1.	Field maps or plot layout
 2.	Soil probes, skinny tip marked at 6 inches, or depth desired for experiment
 3.	Bucket – one per sampler (for sampling into and mixing soil)
@@ -19,9 +19,9 @@ ii.	Initials of a person who is responsible for samples
 iii.	Unique sample ID (corresponds to metadata), easy to identify in the field is recommended
 iv.	Date collected
 + for example: </br>
-LAMP / LM </br>
-M_2015_P3_N400</br>
-04/25/18
+> LAMP / LM </br>
+> M_2015_P3_N400</br>
+> 04/25/18
 5.	Coolers
 6.	Dry ice or ice packs
 7.	Gloves
@@ -31,7 +31,7 @@ M_2015_P3_N400</br>
 11.	Permanent marker
 12.	Gallon-size freezer bag to organize samples for freezer storage
 
-#### Procedure
+### Procedure
 **Note** Gloves should be warned at all times
 1.	Sterile soil probe and gloved hands with 70% ethanol then dry off with paper towels
 2.	Collect samples by pushing soil probe into ground according to the desire depth and aggregate in a bucket
