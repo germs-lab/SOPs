@@ -13,15 +13,11 @@ General procedure of soil sampling for DNA extraction
 2.	Soil probes, skinny tip marked at 6 inches, or depth desired for experiment
 3.	Pre-label sample bags (small size ziplog bags or whirl-pack) and pre-organize according to sample sets or sampling plan
     * Pre-label bags with permanent marker or waterproof address labels with laser printer (Avery 5520) before going into the field
-    * Labels should contain </br>
-      * Project name (and site names if more than one site)</br>
-      * Initials of a person who is responsible for samples</br>
-      * Unique sample ID (corresponds to metadata), easy to identify in the field is recommended</br>
-      * Date collected</br>
-        i.	Project name (and site names if more than one site)</br>
-        ii.	Initials of a person who is responsible for samples</br>
-        iii.	Unique sample ID (corresponds to metadata), easy to identify in the field is recommended</br>
-        iv.	Date collected</br>
+    * Labels should contain
+      * Project name (and site names if more than one site)
+      * Initials of a person who is responsible for samples
+      * Unique sample ID (corresponds to metadata), easy to identify in the field is recommended
+      * Date collected
     * for example: </br>
 > LAMP / LM </br>
 > M_2015_P3_N400</br>
