@@ -7,17 +7,22 @@ General procedure of soil sampling for DNA extraction
 3.	Whether baseline samples (soil and/or manure) should be included
 4.	[Metadata](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/GERMS_Lab_Data_Management_101.md) and sample ID (contact JiJY)
 5.	Storage space and location (contact JiJY)
+
 ### Equipment
 1.	Field maps or plot layout
 2.	Soil probes, skinny tip marked at 6 inches, or depth desired for experiment
 3.	Pre-label sample bags (small size ziplog bags or whirl-pack) and pre-organize according to sample sets or sampling plan
-* Pre-label bags with permanent marker or waterproof address labels with laser printer (Avery 5520) before going into the field
-* Labels should contain </br>
-i.	Project name (and site names if more than one site)</br>
-ii.	Initials of a person who is responsible for samples</br>
-iii.	Unique sample ID (corresponds to metadata), easy to identify in the field is recommended</br>
-iv.	Date collected</br>
-* for example: </br>
+    * Pre-label bags with permanent marker or waterproof address labels with laser printer (Avery 5520) before going into the field
+    * Labels should contain </br>
+      * Project name (and site names if more than one site)</br>
+      * Initials of a person who is responsible for samples</br>
+      * Unique sample ID (corresponds to metadata), easy to identify in the field is recommended</br>
+      * Date collected</br>
+        i.	Project name (and site names if more than one site)</br>
+        ii.	Initials of a person who is responsible for samples</br>
+        iii.	Unique sample ID (corresponds to metadata), easy to identify in the field is recommended</br>
+        iv.	Date collected</br>
+    * for example: </br>
 > LAMP / LM </br>
 > M_2015_P3_N400</br>
 > 04/25/18
@@ -37,8 +42,8 @@ iv.	Date collected</br>
 **Note** Gloves should be warned at all times
 1.	Sterile soil probe and gloved hands with 70% ethanol then dry off with paper towels
 2.	Collect samples by pushing soil probe into ground according to the desire depth and aggregate in a bucket
-* Avoid collecting surface residue; remove obvious debris from bucket
-* Push soil probe into ground firmly, but do not pound it in as this compacts soil
+    * Avoid collecting surface residue; remove obvious debris from bucket
+    * Push soil probe into ground firmly, but do not pound it in as this compacts soil
 3.	Put collected soil in pre-labeled sample bag. Release air in sample bags out before sealing
 4.	Place sample bags into a cooler that contains ice packs immediately
 5.	Repeat step 1 to take sample in the next plot/treatment
@@ -51,10 +56,10 @@ iv.	Date collected</br>
 **Note** Gloves should be warned at all times
 1.	Sterile soil probe and gloved hands with 70% ethanol then wipe down with paper towels
 2.	Collect samples by pushing soil probe into ground according to the desire depth and aggregate in a bucket
-* Avoid collecting surface residue; remove obvious debris from bucket
-* Push soil probe into ground firmly, but do not pound it in as this compacts soil
-* Invert soil probe over bucket.  If soil does not fall out easily, it may be necessary to gently hit probe on the edge of the bucket or use a sterile metal knife or screwdriver to remove soil from probe or ethanol sterile gloved hands.
-* Repeat for each composite sample
+    * Avoid collecting surface residue; remove obvious debris from bucket
+    * Push soil probe into ground firmly, but do not pound it in as this compacts soil
+    * Invert soil probe over bucket.  If soil does not fall out easily, it may be necessary to gently hit probe on the edge of the bucket or use a sterile metal knife or screwdriver to remove soil from probe or ethanol sterile gloved hands.
+    * Repeat for each composite sample
 3.	Homogenize soils in the bucket by shaking or missing with sterile metal spoon
 4.	When soil is homogenized, pour about 30-50 grams of homogenized soil in pre-labeled sample bag. Release air in sample bags out before sealing.
 5.	Place sample bags into a cooler that contains ice packs immediately
