@@ -5,8 +5,8 @@ General procedure of soil sampling for DNA extraction
 1.	Make a plan for subsampling locations of each composite sample in the plot, distance from the edge and each subsampling location It should occur in the same pattern for each sampling event
 2.	Decide the depth of sampling
 3.	Whether baseline samples (soil and/or manure) should be included
-4.	Metadata and sample ID
-5.	Storage space and location
+4.	[Metadata](https://github.com/germs-lab/SOPs/blob/master/data_management_SOPs/metadata_managment.md) and sample ID (contact JiJY)
+5.	Storage space and location (contact JiJY)
 #### Equipment
 1.	Field maps or plot layout
 2.	Soil probes, skinny tip marked at 6 inches, or depth desired for experiment
