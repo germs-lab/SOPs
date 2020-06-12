@@ -13,16 +13,17 @@ General procedure of soil sampling for DNA extraction
 3.	Extra Soil Probe tips and tip wrench
 4.	Bucket – one per sampler (for sampling into and mixing soil)
 5.	Pre-label sample bags (small size ziplog bags or whirl-pack) and pre-organize according to sample sets or sampling plan
-•	Pre-label bags with permanent marker or waterproof address labels with laser printer (Avery 5520) before going into the field
-•	Labels should contain 
+* Pre-label bags with permanent marker or waterproof address labels with laser printer (Avery 5520) before going into the field
+* Labels should contain 
 i.	Project name (and site names if more than one site)
 ii.	Initials of a person who is responsible for samples
 iii.	Unique sample ID (corresponds to metadata), easy to identify in the field is recommended
 iv.	Date collected
-+ for example
++ for example:
 |LAMP / LM|
 |M_2015_P3_N400|
 |04/25/18|
+|:------:|
 6.	Coolers
 7.	Dry ice or ice packs
 8.	Gloves
