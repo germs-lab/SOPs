@@ -30,9 +30,10 @@ General procedure of soil sampling for DNA extraction
 9.	Extra sample bags
 10.	Permanent marker
 11.	Gallon-size freezer bag to organize samples for freezer storage
-<p><b>Optional</b> - in case of composite samplings </br>
-<li>	Bucket – one per sampler (for sampling into and mixing soil)</li></p>
 
+**Optional** - in case of composite samplings
+
+  * Bucket – one per sampler (for sampling into and mixing soil)
 
 ### Procedure (for non-composite samples)
 **Note** Gloves should be warned at all times
