@@ -2,6 +2,8 @@
 
 This SOP is to guide users to submitting data to the NCBI Short Read Archive (SRA). This step is important to deposit sequences in a way that can be stored for publication and to provide others access.
 
+The unique ID of the sample names can be a real pain.  The main thing is they whole row needs to have unique attributes, I find that putting the sample well ID somewhere in the data helps it differentiate.  
+
 The FTP command on MSU HPC has been legacied out - it's gone.   
 
 The directions from NCBI are pretty good, see this [link](https://submit.ncbi.nlm.nih.gov/subs/sra/).  You'll need to get the directions for Aspera from the command line.  Download the key file somewhere onto the HPC where you know its path and location.
