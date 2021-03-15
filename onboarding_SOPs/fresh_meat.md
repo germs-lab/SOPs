@@ -13,7 +13,7 @@
 - [ ] Eat food together
 - [ ] Swag
 - [ ] Add to contact info list 
-- [ ] Keys and ID access [Sylvia Anderson]
+- [ ] Keys and ID access [Cindy Frame]
 - [ ] Office Intro
 - [ ] Intro to co PIs and Lab Managers
 - [ ] Pcard training?
