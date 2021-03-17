@@ -8,6 +8,7 @@
 - [ ] Office Assignment 
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
+- [ ] Cybox Ownership Needs to Include Adina
 - [ ] Code of Conduct Discussion
 - [ ] Add to ABE mailing list [Kris Bell]
 - [ ] Eat food together
