@@ -18,3 +18,4 @@
 - [ ] Office Intro
 - [ ] Intro to co PIs and Lab Managers
 - [ ] Pcard training?
+- [ ] Communication tips - https://github.com/germs-lab/SOPs/blob/master/onboarding_SOPs/communication-GERMS.md
