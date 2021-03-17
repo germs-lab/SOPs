@@ -9,7 +9,7 @@
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
 - [ ] Code of Conduct Discussion
-- [ ] Add to ABE mailing list [Alan Kuutila]
+- [ ] Add to ABE mailing list [Kris Bell]
 - [ ] Eat food together
 - [ ] Swag
 - [ ] Add to contact info list 
