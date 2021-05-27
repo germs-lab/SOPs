@@ -1,5 +1,7 @@
 # MagAttract Robot setup
-* This SOP is for setting up the robot specifically for MagAttract DNA extraction kits in water (27800-4-EP) and soil (27100-4-EP) samples.
+* This SOP is for setting up the robot specifically for:
+    * MagAttract PowerSoil DNA EP Kit (27100-4-EP)
+    * MagAttract PowerWater DNA/RNA EP Kit (27800-4-EP)
 * A single run of 96-well plate of DNA extraction requires:
     * 5-6 hours
     * 12 epT.I.P.S. boxes (cat. no. 0030014510, not included in the purchased kit)
