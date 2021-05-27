@@ -8,10 +8,6 @@ This SOP is based on Quant-iT dsDNA Assay Kit, High Sensitivity. Catalog Number 
 The plate used for plate reader: Number is 165305 (Thermo)
 Plate name: 96 well Optical Btm Plt Polymer Base Black W/Lid Cell Culture Sterile PS.
 
-## Notes before you start:
-* As the plate reader is in Biorenewable lab, it has to be signed up before use.  It would be better for you to plan the use ahead and email the postdoc who is in charge.  The google sheet is to sign up for it:  [here](https://docs.google.com/spreadsheets/u/1/d/1ncDLb8JX7nBUYpeRIOBZAdRddo-Z1Ojrx37FU0aqGYQ/edit#gid=0); sign on the "Fluoresence one" tab. 
-* Always wear lab coat and safety glasses to use this plate reader.  It is a privilage that we are allowed to use this instrument so please help us continue to sharing this instrument.  
-
 ## Protocol:
 1.	  Equilibrate all assay components to room temperature.
 2.	  [Note:  This step should be done only when you are ready to move swiftly to measure DNA, eg., your sampels are ready].  Prepare the working solution by diluting the Quant-iT dsDNA HS reagent 1:200 in Quant-iT dsDNA HS buffer. The amount of working solution you will need depends on your number of samples.  In each well, for quantification, you will need 200 uL.  Thus, you will need 200 uL x # of samples = total_volume_working_solution.  Don't forget to include your standards as a sample.  For safety, we'll also add an additional 20% volume.  Total Volume = total_volume_working_solution * 1.2
