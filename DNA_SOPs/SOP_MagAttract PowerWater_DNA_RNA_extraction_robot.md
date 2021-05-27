@@ -11,15 +11,15 @@
 
 ### Day 1
 ### Before starting
-*	Warm the PowerMag Lysis Solution (MBL) at 60oC for 15-20 mins before starting to dissolve any precipitates.
+*	Warm the `PowerMag Lysis Solution (MBL)` at 60oC for 15-20 mins before starting to dissolve any precipitates.
 *	Since samples are in individual tubes at the beginning of the protocol, it is a good idea to have plate layouts of how the samples will be arranged in 96-well plate format. The plate layouts need to be updated to metadata.
 
 ### Procedure
 1.	Your samples are already on the filter rolled into cylinder with the top side facing inward in the 5 ml Bead Tube.
     *	If the filter is not rolled like cylinder, use alcohol-cleaned forceps to unfold the filter and roll it like cylinder with the top side facing inward. 
 
-2.	Add 1 ml of warmed PowerMag Lysis Solution/RNaseA.
-    *	For 96 samples, need 100 ml PowerMag lysis Solution and 900 ul RNase A. Pour 50 ml PowerMag lysis solution into **two** 50 ml falcon tubes and add 450 ul RNase A into each tube, then invert the tube to mix well. 
+2.	Add 1 ml of warmed `PowerMag Lysis Solution/RNaseA`.
+    *	For 96 samples, need 100 ml `PowerMag lysis Solution` and 900 ul `RNase A`. Pour 50 ml `PowerMag lysis solution` into **two** 50 ml falcon tubes and add 450 ul `RNase A` into each tube, then invert the tube to mix well. 
     *	Option: you could make one of these two tubes at a time by adding 450 ul RNase A into one of the tubes and add the solution/RNase into each bead tube while keeping another 50 ml Lysis Solution in the 60oC water bath to keep warm until you need it; then add RNase A in before you are ready to use.
 
 3.	Place 16 of the 5 ml Bead Tubes into each 5 ml Tube Adapter and place on the 96 Well Plate Shaker.  Two Tube Adapter are available, so 32 samples can be done at the same time. Shake at speed 20 for 5 mins
@@ -38,7 +38,7 @@
 8.	Transfer the supernatant to a clean MO BIO 2 ml Deep Well Plate (DWP). It will be necessary to push the pipette tip through the beads into the bottom to the bead tube in order to recover as much supernatant as possible.
     *	This is crucial step. You have to know which sample is transferred to which well.  Always double check with the plate layout and mark them down.
 
-9.  Add 200 ul PowerMag Inhibitor Removal Solution (IRS) to each well and apply sealing Tape to the MO BIO 2 ml DWP. Vortex horizontally for 5 seconds on the vortex ensuring the solution is well mixed. Incubate at room temperature for 5 mins
+9.  Add 200 ul `PowerMag Inhibitor Removal Solution (IRS)` to each well and apply sealing Tape to the MO BIO 2 ml DWP. Vortex horizontally for 5 seconds on the vortex ensuring the solution is well mixed. Incubate at room temperature for 5 mins
     *	Use the reservoir in the lab.  Add 20 ml PowerMag Inhibitor Removal Solution to reservoir and then add it to DWP with multichannel pipette.
 
 10. Centrifuge the MO BIO 2 ml DWP at room temperature for 6 mins at 4500 X g. Remove and discard Sealing Tape.
