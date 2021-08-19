@@ -5,7 +5,8 @@
 - [ ] Add to Slack
 - [ ] Add to Public GERMS Drive
 - [ ] Add to the website (both project and person)
-- [ ] Office Assignment 
+- [ ] Office Assignment (Kris Bell = student, Cindy = staff)
+- [ ] Key requests - Smartforms
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
 - [ ] Cybox Ownership Needs to Include Adina
@@ -13,8 +14,7 @@
 - [ ] Add to ABE mailing list [Kris Bell]
 - [ ] Eat food together
 - [ ] Swag
-- [ ] Add to contact info list 
-- [ ] Keys and ID access [Cindy Frame]
+- [ ] Add to contact info list =
 - [ ] Office Intro
 - [ ] Intro to co PIs and Lab Managers
 - [ ] Pcard training?
