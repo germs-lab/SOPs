@@ -8,3 +8,5 @@ If you are co-advised, please copy your other advisor also.
 3.  What were you struggling with this week?
 
 4.  What would you like to discuss at our meeting?
+
+5.  What are your writing goals this week?   
