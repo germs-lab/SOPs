@@ -1,3 +1,3 @@
 # SOPs
 
-Standard operations for GERMSLab.
+Standard Operating Procedures for GERMSLab.
