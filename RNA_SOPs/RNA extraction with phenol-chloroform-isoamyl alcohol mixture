@@ -1,0 +1,51 @@
+RNA extraction with phenol/chloroform/isoamyl alcohol mixture using RNeasy Powersoil Total RNA Kit (Qiagen)       Jihoon Yang / 2021.11.17
+                                                                                                                    
+Summary:
+  •	This protocol is used to extract RNA from environmental samples using the RNase Powersoil Total RNA Kit (Qiagen). This procedure involved hazardous chemicals such as phenol/chloroform/isoamyl alcohol and the SR4 solution included in the kit.
+
+Warning: 
+  •	Phenol/chloroform/isoamyl alcohol is a caustic organic solution. Do not inhale vapors. Phenol is highly corrosive and can cause severe burns. Chloroform is a carcinogen. Solution SR4 is flammable. 
+
+PPE:
+  •	RNase-free gloves
+  •	Lab coat (protects both yourself and your RNA)
+  •	Safety glasses
+
+Materials
+  •	Fume hood (step 3-12)
+  •	Biological safety cabinet (step 13-21)
+  •	Centrifuge capable of centrifuging 15 ml tubes (2500 x g minimum)
+  •	Microcentrifuge (13,000 x g)
+  •	Pipettors (20 μl–1000 μl)
+  •	Vortex-Genie 2 Vortex
+  •	Vortex Adapter for 4 (15 ml) tubes (cat. no. 13000-V1-15)
+  •	Lab cleaner for RNase removal: RNaseZap (Invitrogen™ AM9782)
+  •	Phenol/chloroform/isoamyl alcohol solution
+  •	Water bath (If Solution IRS has precipitated, heat at 60°C until precipitate dissolves)
+  •	Glass bottle with seal cap (all liquid waste should be collected in bottle) 
+
+Procedure
+  1.	Add up to 2 g of soil to the 15 ml Powerbead tube
+  2.	Wipe down the working area in the fume hood with RNase removal cleaner. All open-tube activities from steps 3-12 need to be performed in the fume hood. All liquid and plastic waste from these steps is treated as hazardous waste (see below)
+  3.	Add 2.5 ml of Bead solution, 0.25 ml of Solution SR1 and 0.8 ml of Solution IRS
+  4.	Add 3.5 ml of phenol/chloroform/isoamyl alcohol
+  5.	Cap and voltex the bead tube to mix until the biphasic layer disappears, Place the bead tube on a Vortex adapter and vortex at maximum speed for 15 mins
+  6.	Centrifuge at 2,500 x g for 10 mins
+  7.	Transfer the upper aqueous phase to a new 15 ml collection tube
+  8.	Add 1.5 ml of Solution SR3 and vortex to mix. Incubate at 2-8ºC for 10 mins and then centrifuge 2,500 x g for 10 mins
+  9.	Transfer the supernatant to a new 15 ml collection tube
+  10.	Add 5 ml of Solution SR4 and vortex to mix. Incubate at room temperature for 30 mins
+  11.	Centrifuge at 2,500 x g for 30 mins
+  12.	Remove the supernatant and dispose of it in the appropriate waste container (see below). Invert the 15 ml tube on a paper towel for 5 mins
+  13.	Shake Solution SR5 to mix and add 1 ml to the 15 ml collection tube. Resuspend the pellet completely by pipetting or vortexing
+  14.	Remove the cap of a new 15 ml tube and place the RNA Capture Column inside it. Add 2 ml of Solution SR5 to the Mini Column. Allow it to completely gravity flow
+  15.	Add sample from step 13 onto the Mini Column and allow it to gravity flow
+  16.	Add 1 ml of Solution SR5 to the Mini Column and allow it to completely gravity flow
+  17.	Transfer the Mini column to a new 15 ml collection tube. Shake Solution SR6 to mix and then add 1 ml to the Mini Column. Allow Solution SR6 to gravity flow
+  18.	Transfer the eluted RNA to a 2.2 ml collection tube. Add 1 ml of Solution SR4. Invert to mix and incubate at -20C for a minimum of 10 mins
+  19.	Centrifuge the 2.2ml collection tube at 13,000 x g for 15 mins to pellet the RNA
+  20.	Decant the supernatant and invert the 2.2 ml collection tube onto a paper towel for 10 mins to air dry the pellet
+  21.	Resuspend the RNA pellet in 100 µl of Solution SR7
+
+Waste disposal:
+  •	Waste includes a phenol/chloroform/isoamyl alcohol mixture. In addition, a highly volatile alcohol (SR4 solution) is used several times during the experiment. Therefore, the collection tube, powerbead tube, and tips still contain a high concentration of chemical compounds. Please, be sure to close the tube’s lid well during the experiment. Also, after the experiment is over, all tubes and plastic waste are placed in a plastic bag and transferred to the satellite waste accumulation area in the fume hood. Phenol (U188) and Chloroform (U044) cannot be disposed of in the lab trash bins as they have their own waste codes. Liquid waste from step 12 should be disposed of in a bottle designated and labeled for this waste. The lab manager is responsible for contacting EHS to properly dispose of hazardous waste accumulated from this protocol.
