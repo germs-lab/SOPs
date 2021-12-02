@@ -42,7 +42,7 @@ First: Ethanol and prepare work station
   06. Record mass of soil on datasheet, confirm that it is the correct sample.
   07. Place fresh funnel in target well and slowly transfer soil from weigh boat into funnel and well.
   08. Repeat two more time for three technical replicates.
-  09. Sub sample 50 g into whirl pack for chemical analyses
+  09. Sub sample 50 g into whirl pack for chemical analyses (if desired)
   10. Grab or clean your spatula and get a new weigh boat and repeat steps 5-6 for the remaining samples in     the set.
   11. Repeat step 3.
   12. Repeat steps 4-9 for all sets of samples
