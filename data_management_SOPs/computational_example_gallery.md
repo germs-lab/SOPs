@@ -4,7 +4,7 @@ This is a list of analyses, visualizations, data curation, and other computation
 
 - [Phylosmith](https://schuyler-smith.github.io/phylosmith/)
 	- Description: [Schuyler](https://github.com/schuyler-smith) developed this R package that leverages [phyloseq](https://joey711.github.io/phyloseq/) objects to simplify common analyses done on microbial data. Read the [paper](https://joss.theoj.org/papers/10.21105/joss.01442) for more information, or consult the various vignettes for in-depth tutorials. 
-	- languages: *R (phyloseq, ggplot)
+	- languages: *R (phyloseq, ggplot)*
 	- visualizations: *abundance heatmaps, phylogeny profiles, taxa abundance bar charts, networks, more...*
 	- analyses/models: *core microbiome, network significance cutoffs*
 	- data prep: *taxa filtering, unique taxa, conglomerate taxa/samples, relative abundance, merge treatments, melt phyloseq, more...*
