@@ -26,7 +26,7 @@ This is a list of analyses, visualizations, data curation, and other computation
 
 - [Plotting Maps with ggplot2](https://pommevilla.github.io/lunchinatoR/11202020#1)
 	- Description: A short presentation on how to use `sf` objects to plot maps with `ggplot2`. This presentation was made using [Xaringan](https://github.com/yihui/xaringan), an R package that turns RMarkdown documents into slides. See [the RMarkdown file](https://github.com/pommevilla/lunchinatoR/blob/master/11202020.Rmd) to see how this presentation was made
-	- langauges: *R (RMarkdown, Xaringan)*
+	- languages: *R (RMarkdown, Xaringan)*
 	- visualizations: *maps, animations (`gganimate`), slides (Xaringan)*
 	- analyses/models: *summarizing year-over-year change, joins*
 	- data prep: *pandas, working with sf objects, pivoting, filtering, filtering sf objects, layering sf objects*
@@ -38,6 +38,12 @@ This is a list of analyses, visualizations, data curation, and other computation
 	- Intermediate: [Analysis of the Saccharomyces PPI Network](https://pommevilla.github.io/p3.bootcamp.da2.2019/lesson_2.html)
 		- analyses/models: *PPI, network analysis, bootstrapping, permutation testing, PCA*
 		- visualizations: *heatmap, network, histograms*
+
+- [BLAST Crash Course](https://blast-crash-course.readthedocs.io/en/latest/)
+	- Description: Hosted by Adina, Jia, and Paul, the aim of this workshop is to give someone with 0 programming knowledge some hands-on experience with shell scripting and using BLAST on the command line.
+	- languages: *Shell (BLAST)*
+	- analyses/models: *parsing BLAST output*
+	- data prep: *counting words, listing directory contents, file navigation, GREP, etc*
 
 - [Learning Shiny (+ practicing some tidymodels)](https://pommevilla.netlify.app/blog/20210823_learning_shiny/)
 	- Description: This blog post shows how to integrate an `xgboost` model created by `tidymodels` into a Shiny dashboard. You can see the application in action [here](https://pommevilla.shinyapps.io/shiny_penguins/), and see the code that created the dashboard [here](https://github.com/pommevilla/shiny_penguins/blob/main/R/app.R).
