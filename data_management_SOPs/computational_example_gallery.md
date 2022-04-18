@@ -9,6 +9,10 @@ This is a list of analyses, visualizations, data curation, and other computation
 	- analyses/models: *core microbiome, network significance cutoffs*
 	- data prep: *taxa filtering, unique taxa, conglomerate taxa/samples, relative abundance, merge treatments, melt phyloseq, more...*
 
+- [GERMS-DS](https://pommevilla.github.io/germs.dsc/)
+	- Description: A biweekly meeting where we learn about data science project management and techniques
+	- languages: *R, Python*
+
 - [Crop Priming: Analysis so Far](https://pommevilla.github.io/crop_priming/analysis_so_far.html)
 	- Description: 
 	- langauges: *R (Quarto, RMarkdown)*
