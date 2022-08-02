@@ -1,14 +1,3 @@
----
-title: "Qubit DsDNA Assay for Quant-iT Kit"
-author: "Grace Carey"
-date: "2022-08-02"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Qubit DsDNA Assay for Quant-iT dsDNA High Sensitivity Assay Kit
 
 This protocol is for quantification of extracted DNA using a Qubit 3.0 Fluorometer and the Invitrogen Quant-IT dsDNA High Sensitivity Assay Kit (Catalog number Q33120).
