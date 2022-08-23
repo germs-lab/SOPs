@@ -11,7 +11,7 @@
 - [ ] Data Management Discussion
 - [ ] Cybox Ownership Needs to Include Adina
 - [ ] Code of Conduct Discussion
-- [ ] Add to ABE mailing list [Kris Bell]
+- [ ] Add to ABE mailing list [Kris Bell - students, Cindy Frame - staff]
 - [ ] Eat food together
 - [ ] Swag
 - [ ] Add to contact info list =
