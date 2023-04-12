@@ -17,14 +17,14 @@ Quantify a gene within DNA or RNA using quantitative real-time PCR
 1. Wipe your work area with 70% ethanol. qPCR is VERY sensitive. Keep your work area SUPER CLEAN. If you work with RNA, all your work MUST be done in a biosafety cabinet.
 
 ### Prepare primers
-1. Stock solution: If the primer is still powdered, resuspend it in TE buffer or water to make a 100 µM solution. For example, for 20.91 nmol of powdered primer, add 209.1 µL of TE buffer or water. It is best practice to divide your stock solution into several aliquots to minimize the number of freeze-thaw cycles and contamination risk. The stock solution(s) should be stored at -80°C.
+1. Stock solution: If the primer is still powdered, resuspend it in TE buffer or water to make a 100 µM solution. For example, for 20.91 nmol of powdered primer, add 209.1 µL of TE buffer or water. It is best practice to divide your stock solution into several aliquots to minimize the number of freeze-thaw cycles and contamination risk. The stock solution(s) should be stored at -80°C and you should remove only what you need. Be courteous if you are using someone else's primers and ensure their other stocks are kept frozen at all times.
 
 2. Working solution: Make a 1:10 dilution. For example, add 10 µL of stock solution to 90 µL water. The concentration of your primer working solution will be 10 µM. Store leftover working solution at -20°C.
 
 3. Each qPCR reaction will require 1 µL of each primer. If your reaction volume is 20 µL, the final concentration of your primer in the reaction will be 500 nM. Optimal reaction concentrations are considered to be from 250-500 nM.
 
 ### Prepare Control / Standard
-1. Stock solution: If the standard is still powdered, resuspend it in TE buffer to make a 10 ng/µL solution. For example, for 500 ng of powdered standard, add 50 µL TE buffer. Vortex briefly, then incubate the tube in a 50°C water bath for 20 min. It is best practice to divide your stock solution into several aliquots to minimize the number of freeze-thaw cycles and contamination risk. The stock solution(s) should be stored at -80°C.
+1. Stock solution: If the standard is still powdered, resuspend it in TE buffer to make a 10 ng/µL solution. For example, for 500 ng of powdered standard, add 50 µL TE buffer. Vortex briefly, then incubate the tube in a 50°C water bath for 20 min. It is best practice to divide your stock solution into several aliquots to minimize the number of freeze-thaw cycles and contamination risk. The stock solution(s) should be stored at -80°C and you should remove only what you need. Be courteous if you are using someone else's standard(s) and ensure their other stocks are kept frozen at all times.
 
 2. Working solutions: Make 7 serial dilutions of your standard, each 1:10. Please look up how to perform a serial dilution if you are unsure how to do so. It may take a couple runs to determine the best range of dilutions to use. Using your first dilution as your most concentrated standard is a good place to start.
 
