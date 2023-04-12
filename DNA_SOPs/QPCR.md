@@ -16,7 +16,10 @@ Quantify a gene within DNA or RNA using quantitative real-time PCR
 ### Clean work area
 1. Wipe your work area with 70% ethanol. qPCR is VERY sensitive. Keep your work area SUPER CLEAN. If you work with RNA, all your work MUST be done in a biosafety cabinet.
 
-### Prepare primers
+### Prepare primers 
+
+Each qPCR run needs fresh primers.  The costs of primers is much less than the 96 tubes of reagants so be thoughtful!  
+
 1. Stock solution: If the primer is still powdered, resuspend it in TE buffer or water to make a 100 µM solution. For example, for 20.91 nmol of powdered primer, add 209.1 µL of TE buffer or water. It is best practice to divide your stock solution into several aliquots to minimize the number of freeze-thaw cycles and contamination risk. The stock solution(s) should be stored at -80°C and you should remove only what you need. Be courteous if you are digging through the freezer and make sure other people's stocks are kept frozen at all times.
 
 2. Working solution: Make a 1:10 dilution. For example, add 10 µL of stock solution to 90 µL water. The concentration of your primer working solution will be 10 µM. Store leftover working solution at -20°C.
