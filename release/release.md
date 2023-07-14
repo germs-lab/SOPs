@@ -7,3 +7,10 @@
 - Discussion of [future collaborations](https://github.com/germs-lab/SOPs/blob/master/release/future_collabs.md)
 - Bobblehead choice
 - Check out with Adina
+
+
+- Checkout with email
+  Log into asw.iastate.edu
+  Click on "Change Mail Delivery"
+  Put a personal email address in the box
+  Click "Update My Info"
