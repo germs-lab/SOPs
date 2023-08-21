@@ -5,7 +5,7 @@
 - [ ] Add to Slack
 - [ ] Add to Public GERMS Drive
 - [ ] Add to the website (both project and person)
-- [ ] Office Assignment (Kris Bell = student, Cindy = staff)
+- [ ] Office Assignment (Joanne = student, Cindy = staff, Lab = Sukup 4210)
 - [ ] Key requests - Smartforms
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
