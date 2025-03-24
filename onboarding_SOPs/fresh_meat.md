@@ -7,6 +7,7 @@
 - [ ] Add to the website (both project and person)
 - [ ] Office Assignment (Joanne = student, Cindy = staff, Lab = Sukup 4210, WQRL = Sukup 4207 and 4205)
 - [ ] Key requests - Smartforms
+- [ ] Building Access
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
 - [ ] Cybox Ownership Needs to Include Adina
