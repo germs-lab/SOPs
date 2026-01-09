@@ -10,12 +10,11 @@
 - [ ] Building Access
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
-- [ ] Cybox Ownership Needs to Include Adina
 - [ ] Code of Conduct Discussion
-- [ ] Add to ABE mailing list [Kris Bell - students, Cindy Frame - staff]
+- [ ] Add to ABE mailing list [Joanne - students, Cindy Frame - staff]
 - [ ] Eat food together
 - [ ] Swag
-- [ ] Add to contact info list =
+- [ ] Add to contact info list 
 - [ ] Office Intro
 - [ ] Intro to co PIs and Lab Managers
 - [ ] Pcard training?
