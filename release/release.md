@@ -1,6 +1,6 @@
 # Check off for release into the wild
 
-- Equipment return (laptops, screens, accessories)
+- Equipment return (laptops, screens, accessories), is the laptop unlocked....add lorien as admin
 - Clean office
 - Check out with  Lorien (data and sample management)
 - Return of keys (108 General services building, then forward Key Return Receipt email to  Lorien (lradmer@IASTATE.EDU)
