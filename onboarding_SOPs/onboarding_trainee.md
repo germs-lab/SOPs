@@ -7,7 +7,7 @@ last updated: March 24, 2027
 
 ### Meetings
 
-We generally meet once a week, or as needed.  I do not want meetings to burdent you but I also want to have placeholders that we both have prioritized for meetings.  I expect weekly reports prepared for each meeting, regardless if we meet or not. Once a year, we will meet formally for an annual review where the objective is to discuss how you are meeting your career goals.  
+We generally meet once a week, or as needed.  I do not want meetings to burden you, but I also want to have placeholders that we both have prioritized for meetings.  I expect weekly reports prepared for each meeting, regardless if we meet or not. Once a year, we will meet formally for an annual review where the objective is to discuss how you are meeting your career goals.  
 
 ### Timelines and productivity
 
