@@ -11,6 +11,7 @@
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
 - [ ] Code of Conduct Discussion
+- [ ] Code of Conduct Part 2 Read on Github
 - [ ] Add to ABE mailing list [Joanne - students, Cindy Frame - staff]
 - [ ] Eat food together
 - [ ] Swag
