@@ -29,10 +29,6 @@ Senior graduate students, if you are interested in gaining grant writing experie
 
 Senior graduate students and postdocs play an important role in the education of more junior trainees. You should be willing to help other members of the lab and informally advise them on their work (e.g. show them how you organize and strategize, give them advice on methods, chat with them about science, etc.). I hope that you will be heavily involved in at least one project beyond your main project in collaboration with another lab member. Experience in mentorship and collaboration will be useful to you when moving forward in your career. If you see a student/postdoc struggling and/or hear that they are having personal trouble, please bring this to my attention right away. 
 
-### Working with collaborators
-
-Please let me know before you reach out to a potential collaborator and CC me on key emails. When contacting collaborators, you are representing the lab, so please be curteous and professional. 
-
 ### Conferences
 
 I will provide financial assistance for you conferences, and we should strategize together about which meetings make the most sense. Try to apply for travel awards. I expect you to practice talks in front of a group at least once before presenting for wider audiences.
@@ -47,7 +43,7 @@ Writing code that is useable by others is hard, but I hope we can work together 
 
 ### Large language models and generative AI
 
-Feel free to use AI tools, like GPT-5, for polishing text and/or troubleshooting code. Just be careful to thoroughly proof-read and edit the output, to ensure that it makes sense. If you cannot understand it, then do not use it. These models are getting better and better, but they still generate incorrect/non-sensical outputs and we do not want to propogate these errors. Furthermore, be careful with outsourcing your cognition to an LLM. Personally, I'm fine with outsourcing multiplication and division to a calculator. However, George Orwell once said that “If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them.”For me, writing and polishing my own writing is a form of thinking that helps me to better understand my mental model of the world and formally articulate this model in a way that another human mind can understand it. Outsourcing this task to an LLM would probably make me a poorer thinker, and perhaps a less articulate writer/speaker.
+Feel free to use AI tools, like GPT-5, for polishing text and/or troubleshooting code. Just be careful to thoroughly proof-read and edit the output, to ensure that it makes sense. If you cannot understand it, then do not use it. These models are getting better and better, but they still generate incorrect/non-sensical outputs and we do not want to propogate these errors. Furthermore, be careful with outsourcing your cognition to an LLM. Personally, I'm fine with outsourcing multiplication and division to a calculator. However, George Orwell once said that “If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them.” For me, writing and polishing my own writing is a form of thinking that helps me to better understand my mental model of the world and formally articulate this model in a way that another human mind can understand it. Outsourcing this task to an LLM would probably make me a poorer thinker, and perhaps a less articulate writer/speaker.
 
 ### Philosophy of doing science
 
