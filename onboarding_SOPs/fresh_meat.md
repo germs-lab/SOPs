@@ -10,8 +10,8 @@
 - [ ] Building Access
 - [ ] Safety training in lab
 - [ ] Data Management Discussion
-- [ ] Code of Conduct Discussion (![https://www.germslab.org/team/])
-- [ ] Code of Conduct Part 2 Read on Github (![https://github.com/germs-lab/SOPs/blob/master/onboarding_SOPs/onboarding_trainee.md])
+- [ ] Code of Conduct Discussion (https://www.germslab.org/team/)
+- [ ] Code of Conduct Part 2 Read on Github (https://github.com/germs-lab/SOPs/blob/master/onboarding_SOPs/onboarding_trainee.md)
 - [ ] Add to ABE mailing list [Joanne - students, Cindy Frame - staff]
 - [ ] Eat food together
 - [ ] Swag
