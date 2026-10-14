@@ -34,7 +34,7 @@ Each qPCR run needs fresh primers.  The costs of primers is much less than the 9
 3. Diluted standard solutions degrade quickly and easily. It is CRITICAL to make a fresh serial dilutions from frozen stock each day and keep the dilutions cold between uses. Minimize the number of freeze-thaw cycles for your stock solution.
 
 ### Prepare sample
-1. Determine the concentration of the samples, for example, using [Quant-iT](https://github.com/germs-lab/SOPs/blob/master/DNA_SOPs/Quant-iT_dsDNA_Assay.md). Preferred sample concentrations are between 500 ng - 50 pg. The final concentration in the reaction will be 50 ng - 5 pg.
+1. Determine the concentration of the samples, for example, using [Quant-iT](https://github.com/germs-lab/SOPs/blob/master/DNA_SOPs/DNA_quantification_SOP.docx). Preferred sample concentrations are between 500 ng - 50 pg. The final concentration in the reaction will be 50 ng - 5 pg.
 
 ### Prepare mix
 * Master Mix : 10 µL
